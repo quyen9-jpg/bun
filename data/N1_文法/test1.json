@@ -1,0 +1,1366 @@
+[
+  {
+    "id": 1,
+    "question": "強風で、家から（　）出られなかった。",
+    "translation": "Do gió mạnh nên tôi muốn ra khỏi nhà cũng không được.",
+    "options": ["出ようにも", "出ようが", "出たなら", "出れば"],
+    "answer": 0,
+    "explanation": "Đúng: 「V-ようにも + V-れない」: Muốn làm cũng không thể. (2) 出ようが: Dù có định ra ngoài (vế sau thường không thay đổi). (3) 出たなら: Nếu đã ra ngoài (giả định quá khứ). (4) 出れば: Nếu ra ngoài (điều kiện)."
+  },
+  {
+    "id": 2,
+    "question": "身長２メートル（　）大男が、突然、目の前に現れた。",
+    "translation": "Một người đàn ông cao tận 2 mét bất ngờ xuất hiện trước mắt tôi.",
+    "options": ["だけある", "からする", "だけする", "からある"],
+    "answer": 3,
+    "explanation": "Đúng: 「からある」: Nhấn mạnh mức độ lớn (tận...). (1) だけある: Quả nhiên/xứng đáng. (2) からする: Dùng cho giá tiền. (3) だけする: Không tự nhiên trong ngữ cảnh này."
+  },
+  {
+    "id": 3,
+    "question": "だれにも知られること（　）準備を進めなければならない。",
+    "translation": "Phải tiến hành chuẩn bị mà không để ai biết.",
+    "options": ["なくて", "なしに", "ないで", "ないと"],
+    "answer": 1,
+    "explanation": "Đúng: 「～なしに」: Mà không làm... (1) なくて: Không phải là... (nối câu). (3) ないで: Không làm (văn nói, nhẹ hơn). (4) ないと: Nếu không thì..."
+  },
+  {
+    "id": 4,
+    "question": "患者のプライバシーをほかの人に漏らすなんて、医者としてある（　）ことだ。",
+    "translation": "Việc tiết lộ quyền riêng tư của bệnh nhân là điều không thể chấp nhận đối với một bác sĩ.",
+    "options": ["べからず", "はずの", "かぎりの", "まじき"],
+    "answer": 3,
+    "explanation": "Đúng: 「まじき」: Không được phép (chuẩn mực đạo đức). (1) べからず: Cấm (dùng biển báo). (2) はずの: Đáng lẽ ra. (3) かぎりの: Tất cả trong phạm vi."
+  },
+  {
+    "id": 5,
+    "question": "たとえ子供（　）、自分のしたことは自分で責任をとらなければならない。",
+    "translation": "Dù là trẻ con thì cũng phải tự chịu trách nhiệm về việc mình làm.",
+    "options": ["ならば", "であれ", "ならでは", "であると"],
+    "answer": 1,
+    "explanation": "Đúng: 「たとえ～であれ」: Dù là... (1) ならば: Nếu là. (3) ならでは: Chỉ có... mới. (4) であると: Rằng là..."
+  },
+  {
+    "id": 6,
+    "question": "将棋のおもしろさを知ってからと（　）、彼は暇さえあれば将棋の本ばかり読んでいる。",
+    "translation": "Kể từ khi biết được sự thú vị của shogi, cứ rảnh là anh ấy đọc sách shogi.",
+    "options": ["いうまで", "いうのに", "いうこと", "いうもの"],
+    "answer": 3,
+    "explanation": "Đúng: 「～というもの」: Suốt từ khi... (1) いうまで: Cho đến khi nói. (2) いうのに: Dù nói là. (3) いうこと: Việc mà..."
+  },
+  {
+    "id": 7,
+    "question": "もうとても追いつけないだろうと（　）、驚くほどの速さで彼は一気に先頭に走り出た。",
+    "translation": "Cứ tưởng không thể đuổi kịp, vậy mà anh ấy tăng tốc và dẫn đầu.",
+    "options": ["おもいきや", "おもうべく", "おもいがけず", "おもうだに"],
+    "answer": 0,
+    "explanation": "Đúng: 「と思いきや」: Cứ tưởng là... nhưng... (2) おもうべく: Sai cấu trúc. (3) おもいがけず: Bất ngờ (trạng từ). (4) おもうだに: Chỉ nghĩ thôi cũng..."
+  },
+  {
+    "id": 8,
+    "question": "どちらに（　）で、そうたいした差があるとは思えない。",
+    "translation": "Dù chọn bên nào cũng không có khác biệt lớn.",
+    "options": ["するもの", "したもの", "するところ", "したところ"],
+    "answer": 3,
+    "explanation": "Đúng: 「V-たところで」: Dù có làm... cũng không thay đổi. (1) するもの: Thứ để làm. (2) したもの: Thứ đã làm. (3) するところ: Sắp làm."
+  },
+  {
+    "id": 9,
+    "question": "部下からそんなことを言われる（　）、さぞ不愉快だっただろう。",
+    "translation": "Bị cấp dưới nói vậy chắc hẳn rất khó chịu.",
+    "options": ["では", "には", "とは", "かは"],
+    "answer": 2,
+    "explanation": "Đúng: 「～とは」: Nhấn mạnh cảm xúc bất ngờ. (1) では: Nếu là. (2) には: Đối với/để. (4) かは: Liệu có..."
+  },
+  {
+    "id": 10,
+    "question": "国は早く対策をたててほしいと、被害者たちは涙（　）訴えた。",
+    "translation": "Các nạn nhân vừa khóc vừa kêu gọi nhà nước hành động.",
+    "options": ["ばかりに", "のままに", "かぎりに", "ながらに"],
+    "answer": 3,
+    "explanation": "Đúng: 「ながらに」: Trong trạng thái đó. (1) ばかりに: Chỉ vì (kết quả xấu). (2) のままに: Theo như. (3) かぎりに: Trong phạm vi."
+  },
+  {
+    "id": 11,
+    "question": "「あっ、だれかおぼれてる」と言う（　）、彼は川に飛び込んだ。",
+    "translation": "Vừa nói có người chết đuối là anh ấy nhảy xuống sông.",
+    "options": ["なり", "まま", "ほど", "ゆえ"],
+    "answer": 0,
+    "explanation": "Đúng: 「V-るなり」: Vừa... đã... (2) まま: Giữ nguyên trạng thái. (3) ほど: Đến mức. (4) ゆえ: Vì."
+  },
+  
+  {
+    "id": 13,
+    "question": "服装はいつもとだいぶ違うが、やっぱりあれは田中さんに（　）。",
+    "translation": "Trang phục dù khác hẳn mọi khi, nhưng quả nhiên kia đúng là anh Tanaka không sai vào đâu được.",
+    "options": ["比べない", "相違ない", "ほかはない", "わけがない"],
+    "answer": 1,
+    "explanation": "Đúng: 「～に相違ない」: Chắc chắn là... (1) 比べない: Không so sánh. (3) ほかはない: Không còn cách nào khác. (4) わけがない: Không đời nào."
+  },
+  {
+    "id": 14,
+    "question": "水も食糧もない状況に（　）、人々は互いに助け合うことの大切さを学んだ。",
+    "translation": "Ở trong tình cảnh không có cả nước lẫn lương thực, mọi người đã học được tầm quan trọng của việc giúp đỡ lẫn nhau.",
+    "options": ["あって", "とって", "かけて", "つれて"],
+    "answer": 0,
+    "explanation": "Đúng: 「～にあって」: Ở trong một hoàn cảnh đặc biệt. (2) とって: Đối với. (3) かけて: Suốt/Từ... đến. (4) つれて: Cùng với (sự thay đổi)."
+  },
+  {
+    "id": 15,
+    "question": "君自身の問題だから、「やめてしまえ」（　）、いまいちど考え直してみたらどうだろうか。",
+    "translation": "Vì là vấn đề của chính cậu nên tôi không định nói tới mức 'bỏ đi cho xong', nhưng thử suy nghĩ lại xem sao?",
+    "options": ["とまでは言わなくて", "とも言うまいし", "とまでは言わないが", "とも言わねばならず"],
+    "answer": 2,
+    "explanation": "Đúng: 「～とまでは言わないが」: Tuy không nói đến mức... (nhưng). (1, 2, 4) Không tạo thành cấu trúc phủ định một phần phù hợp ngữ cảnh."
+  },
+  {
+    "id": 16,
+    "question": "飛行機がだめなら、列車で行く（　）のことだ。",
+    "translation": "Nếu máy bay không được thì cùng lắm là đi bằng tàu hỏa thôi.",
+    "options": ["べき", "まで", "はず", "のみ"],
+    "answer": 1,
+    "explanation": "Đúng: 「V-るまで（のこと）だ」: Cùng lắm là/Chỉ có cách là... (1) べき: Nên. (3) はず: Chắc chắn. (4) のみ: Chỉ (thường dùng N+のみ)."
+  },
+  {
+    "id": 17,
+    "question": "留学したい気持ちは分かるが、この病状では、延期（　）をえないだろう。",
+    "translation": "Tôi hiểu cảm giác muốn đi du học, nhưng với bệnh tình này thì đành phải hoãn lại thôi.",
+    "options": ["されず", "せざる", "せず", "せぬ"],
+    "answer": 1,
+    "explanation": "Đúng: 「V-ざるをえない」: Không thể không/Đành phải. (1, 3, 4) Không đúng cấu trúc kết hợp với ～をえない."
+  },
+  {
+    "id": 18,
+    "question": "今にも夕立が（　）ばかりの空模様だ。",
+    "translation": "Bầu trời trông như thể một cơn mưa rào sắp đổ xuống đến nơi rồi.",
+    "options": ["降り出した", "降り出して", "降り出さん", "降り出そう"],
+    "answer": 2,
+    "explanation": "Đúng: 「V-んばかり」: Cứ như thể sắp... đến nơi rồi. (1, 2, 4) Không đi kèm với cấu trúc mang nghĩa 'sắp sửa' này."
+  },
+  {
+    "id": 19,
+    "question": "とてもうれしくて、この喜びをだれかに（　）いられなかった。",
+    "translation": "Vì quá đỗi vui mừng nên tôi không thể không kể niềm vui này cho ai đó.",
+    "options": ["話せずには", "話されるには", "話さずには", "話すには"],
+    "answer": 2,
+    "explanation": "Đúng: 「話さずにはいられない」: Không thể không làm (do cảm xúc mạnh). (1) 話せずには: Dạng khả năng 'không thể nói' → không tạo cấu trúc cố định. (2) 話されるには: Bị động + に は → sai cấu trúc. (4) 話すには: 'Để nói thì...' → diễn đạt mục đích/điều kiện, không phù hợp."
+  },
+  {
+    "id": 20,
+    "question": "わからない単語があったら、辞書を引く（　）だれかに聞く（　）して、調べておきなさい。",
+    "translation": "Nếu có từ mới không biết, hãy tra từ điển hoặc hỏi ai đó để tìm hiểu trước.",
+    "options": ["なり、なり", "こと、こと", "と、と", "し、し"],
+    "answer": 0,
+    "explanation": "Đúng: 「～なり～なり」: Đưa ra lựa chọn gợi ý (làm cái này hoặc cái kia). (2) こと～こと: Không dùng để liệt kê lựa chọn hành động. (3) と～と: Chỉ dùng nối danh từ/câu đơn giản, không tự nhiên trong ngữ cảnh này. (4) し～し: Liệt kê lý do/đặc điểm, không phải lựa chọn."
+  },
+  {
+    "id": 21,
+    "question": "手術後の経過が順調だったら、来週は散歩に出ても（　）。",
+    "translation": "Nếu hồi phục sau phẫu thuật thuận lợi thì tuần sau đi dạo cũng không vấn đề.",
+    "options": ["むりである", "むりもない", "さしつかえる", "さしつかえない"],
+    "answer": 3,
+    "explanation": "Đúng: 「差し支えない」: Không gây trở ngại/không vấn đề. (1) むりである: Là điều vô lý → nghĩa ngược. (2) むりもない: 'Cũng dễ hiểu thôi' → dùng để đồng cảm, không phù hợp. (3) さしつかえる: Gây cản trở → trái nghĩa."
+  },
+  {
+    "id": 22,
+    "question": "新企画の中止が決まろうとしているが、担当した者たちは反対せずには（　）。",
+    "translation": "Dự án mới sắp bị hủy, những người phụ trách chắc chắn không thể không phản đối.",
+    "options": ["ならないだろう", "ないだろう", "しないだろう", "おかないだろう"],
+    "answer": 3,
+    "explanation": "Đúng: 「～ずにはいられない」: Không thể không làm (cảm xúc/tự nhiên). (2) ないだろう: Chỉ phủ định đơn thuần, không tạo cấu trúc. (3) しないだろう: 'Có lẽ sẽ không làm' → sai nghĩa. (4) おかないだろう: 「～ずにはおかない」: Nhất định sẽ gây ra (tác động bên ngoài), không phù hợp với chủ thể tự hành động."
+  },
+  {
+    "id": 23,
+    "question": "習慣や考え方は人によって異なるので、自分にとっての常識は他人にとっての非常識で（　）。",
+    "translation": "Vì suy nghĩ và thói quen khác nhau nên điều bình thường với mình chưa chắc đã là bình thường với người khác.",
+    "options": ["ないとかぎられる", "ないともかぎらない", "あるともかぎらない", "あるとかぎられる"],
+    "answer": 2,
+    "explanation": "Đúng: 「あるとも限らない」: Không hẳn là có (không chắc là đúng). (1) ないとかぎられる: 'Bị giới hạn là không' → sai cấu trúc. (2) ないともかぎらない: Không phải là không → nghĩa 'có thể xảy ra', không phù hợp ý câu. (4) あるとかぎられる: Bị giới hạn là có → sai cấu trúc."
+  },
+  {
+    "id": 24,
+    "question": "優秀な田中君のことだから、論文を1週間で仕上げたと聞いても驚く（　）。",
+    "translation": "Vì là Tanaka giỏi nên dù nghe hoàn thành luận văn trong 1 tuần cũng không đáng ngạc nhiên.",
+    "options": ["にあてられない", "にはあたる", "にはあたらない", "にあたるだろう"],
+    "answer": 2,
+    "explanation": "Đúng: 「～にはあたらない」: Không đáng để (ngạc nhiên/khen). (1) にあてられない: Sai từ vựng. (2) にはあたる: Trái nghĩa (đáng để...). (4) にあたるだろう: Không tự nhiên."
+  },
+  {
+    "id": 25,
+    "question": "駅前の新しい喫茶店は、明日の開店をひかえてすっかり準備が整い、あとは客を（　）。",
+    "translation": "Quán cà phê mới trước ga đã chuẩn bị xong, giờ chỉ còn chờ khách.",
+    "options": ["待たないばかりになっている", "待たないほどになっている", "待つばかりになっている", "待つほどになっている"],
+    "answer": 2,
+    "explanation": "「～ばかりになっている」: Chỉ còn chờ làm gì. (1) 待たないばかり: 'Chỉ còn không chờ' → sai nghĩa. (2) ほど: Diễn tả mức độ → không phù hợp. (4) 待つほど: Không tạo cấu trúc tự nhiên."
+  },
+  {
+    "id": 26,
+    "question": "人はとかく自身に都合がいい意見にのみ耳を傾ける（　）。",
+    "translation": "Con người thường chỉ nghe những ý kiến có lợi cho mình.",
+    "options": ["きらいになる", "きらいがある", "きらいである", "きらいとなる"],
+    "answer": 1,
+    "explanation": "「～きらいがある」: Có xu hướng (tiêu cực). (1) きらいになる: Trở nên ghét → sai nghĩa. (3) きらいである: Là tính cách → không tự nhiên. (4) きらいとなる: Không dùng."
+  },
+  {
+    "id": 27,
+    "question": "森の動物たちの映画を見て、家族の愛情（　）。",
+    "translation": "Xem phim về động vật, tôi đã xúc động trước tình cảm gia đình.",
+    "options": ["に心を打った", "が心を打たれた", "が心を打った", "に心を打たれた"],
+    "answer": 3,
+    "explanation": "「～に心を打たれる」: Bị cảm động bởi. (1) 打った: Chủ động → sai. (2) が: Sai trợ từ. (3) Sai cả trợ từ và thể."
+  },
+  {
+    "id": 28,
+    "question": "あの役者のきざな格好は、まったく見るに（　）。",
+    "translation": "Phong cách kiểu cách đó thật không thể nhìn nổi.",
+    "options": ["たまらない", "たえない", "おえない", "かたくない"],
+    "answer": 1,
+    "explanation": "「見るにたえない」: Không thể chịu nổi khi nhìn (quá tệ). (1) たまらない: Rất → sai. (3) おえない: Không thể làm xong → sai. (4) かたくない: Không khó → sai nghĩa."
+  },
+  {
+    "id": 29,
+    "question": "山下博士が画期的な理論を打ち立てたと新聞に出ていた。博士の頭脳と実力（　）すれば、それは意外なことではない。",
+    "translation": "Nếu xét theo trí tuệ và thực lực của tiến sĩ thì không có gì bất ngờ.",
+    "options": ["になって", "をとって", "にとって", "をもって"],
+    "answer": 3,
+    "explanation": "「～をもってすれば」: Nếu dựa vào. (1) になって: Trở thành → sai. (2) をとって: Không dùng. (3) にとって: Đối với → sai cấu trúc."
+  },
+  {
+    "id": 30,
+    "question": "こんな悪天候の中を歩いていらしたんですか。電話をくだされば車でお迎えにまいりました（　）。",
+    "translation": "Bạn đã đi bộ trong thời tiết xấu thế này sao? Nếu bạn gọi điện thì tôi đã đến đón bằng xe hơi rồi (vậy mà...).",
+    "options": ["ものを", "はずを", "もので", "はずで"],
+    "answer": 0,
+    "explanation": " (1) 「～ものを」 diễn tả sự tiếc nuối hoặc bất mãn, lẽ ra kết quả đã tốt hơn nếu làm khác đi. (2) はずを: Sai cấu trúc, 'hazu' không đi với 'wo' ở cuối câu kiểu này. (3) もので: Dùng để giải thích lý do, nguyên nhân. (4) はずで: Diễn tả dự định hoặc kỳ vọng nhưng không mang sắc thái tiếc nuối như 'monowo'."
+  },
+  {
+    "id": 31,
+    "question": "何もおっしゃらないでください。私なりによく考えた（　）出した結果なのです。",
+    "translation": "Xin đừng nói gì cả. Đây là kết quả tôi đưa ra sau khi đã suy nghĩ rất kỹ theo cách của mình.",
+    "options": ["わけで", "すえに", "かぎり", "さいご"],
+    "answer": 1,
+    "explanation": "(2) 「～末に (すえに)」 nghĩa là sau một quá trình dài thực hiện điều gì đó thì đạt được kết quả. (1) わけで: Nghĩa là 'với lý do/tóm lại là', không nhấn mạnh quá trình. (3) かぎり: Nghĩa là 'chừng nào còn/trong phạm vi', không hợp nghĩa. (4) さいご: Nếu đứng sau V-ta nghĩa là 'một khi đã... thì (kết quả xấu)', không phù hợp ngữ cảnh này."
+  },
+  {
+    "id": 32,
+    "question": "今年は作物の生育がよくないそうだ。夏の低温に（　）雨が少なかったのが原因だと考えられている。",
+    "translation": "Nghe nói năm nay mùa màng không tốt. Nguyên nhân được cho là do nhiệt độ thấp vào mùa hè cộng thêm việc ít mưa.",
+    "options": ["くわえれば", "くわえて", "くわわって", "くわわれば"],
+    "answer": 1,
+    "explanation": " (2) 「～に加えて」 là cấu trúc 'thêm vào đó/ngoài ra'. (1, 4) Dùng thể điều kiện '-reba' là sai vì đây là trần thuật nguyên nhân đã biết. (3) くわわって: Là tự động từ 'được thêm vào', thường dùng để nói về một yếu tố tự thân gia nhập vào, không phổ biến bằng cấu trúc 'ni kuwaete' khi liệt kê nguyên nhân."
+  },
+  {
+    "id": 33,
+    "question": "新校舎の完成は大幅に遅れているらしい。現状（　）あと 1 か月はかかりそうだ。",
+    "translation": "Việc hoàn thành ngôi trường mới có vẻ đang trễ tiến độ lớn. Xét theo tình hình hiện tại thì có vẻ sẽ mất thêm ít nhất 1 tháng nữa.",
+    "options": ["からすると", "までしても", "とともに", "によって"],
+    "answer": 0,
+    "explanation": " (1) 「～からすると」 dùng để đưa ra phán đoán dựa trên một căn cứ (từ tình hình hiện tại). (2) までしても: Nghĩa là 'ngay cả khi làm đến mức đó'. (3) とともに: Nghĩa là 'cùng với/đồng thời'. (4) によって: Thường dùng chỉ phương pháp hoặc tùy vào đối tượng, không mang nghĩa phán đoán từ căn cứ tốt bằng đáp án 1."
+  },
+  {
+    "id": 34,
+    "question": "来月市民ホールが完成する。3 日の記念講演を（　）、コンサートや発表会などが連日予定されている。",
+    "translation": "Hội trường thành phố sẽ hoàn thành vào tháng tới. Bắt đầu với bài diễn văn kỷ niệm vào ngày mồng 3, một chuỗi các buổi hòa nhạc và công bố sẽ diễn ra liên tiếp.",
+    "options": ["はじまりに", "まくあけて", "かわきりに", "さいしょで"],
+    "answer": 2,
+    "explanation": "(3) 「～を皮切りに (かわきりに)」 nghĩa là bắt đầu với một sự việc, sau đó các sự việc tương tự diễn ra liên tiếp. (1) はじまりに: Chỉ là 'vào lúc bắt đầu', không có tính chất 'mở màn' cho một chuỗi sự kiện. (2) 幕開けて (まくあけて): Nghĩa là mở màn sân khấu, không dùng làm từ nối ngữ pháp. (4) さいしょで: Nghĩa là 'đầu tiên là', quá đơn giản và không mang sắc thái N1."
+  },
+  {
+    "id": 35,
+    "question": "もう毎晩、毎晩、隣の夫婦は大げんか、本当にうるさい（　）ありゃしない！",
+    "translation": "Đêm nào cặp vợ chồng hàng xóm cũng cãi lộn, thật là ồn ào không chịu nổi!",
+    "options": ["というなら", "といえば", "といったら", "といっても"],
+    "answer": 2,
+    "explanation": " (3) 「～といったらありゃしない」 là cụm từ cố định nhấn mạnh mức độ cực kỳ (thường là tiêu cực). (1) というなら: Nếu nói là. (2) といえば: Nhắc đến... thì lại nhớ tới. (4) といっても: Dẫu nói là... nhưng (nghĩa tương phản)."
+  },
+  {
+    "id": 36,
+    "question": "またしても現職大臣の汚職が発覚した。このままでは内閣総辞職（　）すまないだろう。",
+    "translation": "Lại thêm một vụ tham ô của bộ trưởng đương nhiệm bị phát hiện. Cứ đà này thì nội các không thể không từ chức tập thể.",
+    "options": ["しては", "せずにも", "しなくても", "せずには"],
+    "answer": 3,
+    "explanation": "(4) 「～せずにはすまない」 nghĩa là không thể không/không làm không xong (về mặt đạo đức hoặc trách nhiệm). (1) しては: Nếu làm thế thì (kết quả xấu). (2) せずにも: Không làm cũng (không hợp nghĩa). (3) しなくても: Không cần làm cũng được."
+  },
+  {
+    "id": 37,
+    "question": "試験で 100 点をとったからって、驚くには（　）。彼女は、それなりの努力をしているから。",
+    "translation": "Dù cô ấy được 100 điểm bài thi thì cũng không có gì đáng ngạc nhiên. Bởi vì cô ấy đã nỗ lực tương xứng.",
+    "options": ["あたっている", "あたらない", "ありうる", "ありえない"],
+    "answer": 1,
+    "explanation": " (2) 「～にはあたらない」 dùng để nói rằng một việc gì đó không đáng để làm (không đáng ngạc nhiên, không đáng khen). (1) あたっている: Đang trúng/đúng. (3) ありうる: Có thể xảy ra. (4) ありえない: Không thể nào (thường dùng cho tính khả thi của sự việc, không dùng sau 'ni wa' để phủ định giá trị hành động)."
+  },
+  {
+    "id": 38,
+    "question": "いずれ会長の指導力も衰え、社長の陰に隠れてしまうことは想像（　）。",
+    "translation": "Việc năng lực lãnh đạo của chủ tịch rồi cũng suy giảm và bị mờ nhạt trước giám đốc là điều không khó để tưởng tượng.",
+    "options": ["に難しい", "に難しくない", "に難い", "に難くない"],
+    "answer": 3,
+    "explanation": " (4) 「～に難くない (かたくない)」 nghĩa là không khó để làm gì (tưởng tượng, thấu hiểu). (1, 2) 'Muzukashii' không đi với trợ từ 'ni' để tạo cấu trúc này. (3) に難い (がたい): Nghĩa là khó có thể thực hiện (ngược nghĩa hoàn toàn)."
+  },
+  {
+    "id": 39,
+    "question": "今や情報の時代、居ながらにして世界の状況がわかる。わざわざ現地に行く（　）。",
+    "translation": "Thời đại thông tin bây giờ, chỉ cần ngồi nhà cũng biết được tình hình thế giới. Chẳng cần phải cất công đi tận nơi làm gì.",
+    "options": ["までだ", "までではない", "までのことだ", "までもない"],
+    "answer": 3,
+    "explanation": "(4) 「～までもない」 nghĩa là không cần thiết phải tốn công làm gì đó vì đã quá rõ ràng. (1, 3) ～までだ/までのことだ: Nghĩa là 'cùng lắm là chọn cách...' hoặc 'chỉ đơn giản là...'. (2) までではない: Không phải cấu trúc ngữ pháp có nghĩa."
+  },
+  {
+    "id": 40,
+    "question": "これは機密事項である。口外（　）。",
+    "translation": "Đây là mục tuyệt mật. Cấm tiết lộ ra ngoài.",
+    "options": ["せざるべきだ", "しないべきだ", "するべし", "するべからず"],
+    "answer": 3,
+    "explanation": "(4) 「～べからず」 là cấu trúc cổ/trang trọng dùng để cấm đoán (không được làm). (1, 2) Sai cấu trúc ngữ pháp chuẩn (phải là V-ru beki dewa nai). (3) するべし: Nghĩa là 'phải làm' (ngược nghĩa)."
+  },
+  {
+    "id": 41,
+    "question": "大地震の被害を受けた人々が早く元気になれることを願って（　）。",
+    "translation": "Tôi không ngừng cầu nguyện cho những người bị thiệt hại do động đất sớm hồi phục.",
+    "options": ["おわらない", "やまない", "しまわない", "やめない"],
+    "answer": 1,
+    "explanation": " (2) 「～てやまない」 dùng để diễn tả một cảm xúc/mong muốn mãnh liệt luôn thường trực. (1, 3, 4) Đều mang nghĩa 'không dừng/không kết thúc' nhưng là từ vựng thông thường, không phải cấu trúc ngữ pháp chỉ sự mong mỏi như 'yamanai'."
+  },
+  {
+    "id": 42,
+    "question": "今度うそをついたら、本当に針千本飲ませずには（　）！",
+    "translation": "Lần tới mà còn nói dối, tôi chắc chắn sẽ bắt cậu uống nghìn cây kim!",
+    "options": ["やめない", "もたない", "おかない", "えない"],
+    "answer": 2,
+    "explanation": " (2) 「～ずにはおかない」 diễn tả một ý chí mạnh mẽ, nhất định sẽ làm gì đó hoặc một kết quả chắc chắn sẽ xảy ra. (1) やめない: Không dừng lại. (2) もたない: Không duy trì được. (4) えない: Không thể (sai cấu trúc đi kèm)."
+  },
+  {
+    "id": 43,
+    "question": "え？幽霊を見たって？錯覚よ、錯覚（　）何だって言うの？",
+    "translation": "Hả? Thấy ma á? Chỉ là ảo giác thôi, nếu không phải ảo giác thì là cái gì được chứ?",
+    "options": ["としても", "とせずに", "であって", "でなくて"],
+    "answer": 3,
+    "explanation": "(4) 「～でなくて何だろう」 là câu hỏi tu từ dùng để nhấn mạnh 'chính xác nó là...'. (1) としても: Dẫu có là. (2) とせずに: Không coi là. (3) であって: Là... (dùng để liệt kê hoặc nối câu)."
+  },
+  {
+    "id": 44,
+    "question": "社長もまた株主総会の決定には従わざるを得ず、退任を（　）。",
+    "translation": "Giám đốc cũng không thể không tuân theo quyết định của đại hội đồng cổ đông, đành phải từ chức.",
+    "options": ["余儀せずさせた", "余儀せずされた", "余儀なくさせた", "余儀なくされた"],
+    "answer": 3,
+    "explanation": " (4) 余儀なくされた = bị buộc phải làm gì (bị tác động từ bên ngoài).\n(1) 余儀せずさせた: Sai hoàn toàn, không tồn tại cấu trúc '余儀せず'.\n(2) 余儀せずされた: Sai cả ngữ pháp lẫn kết hợp.\n(3) 余儀なくさせた: Nghĩa là 'khiến ai đó buộc phải làm', nhưng câu này chủ ngữ là giám đốc → bị động nên không phù hợp."
+  },
+  {
+    "id": 45,
+    "question": "実際に住んでみて肌で感じることなしには、その国の文化は理解（　）。",
+    "translation": "Nếu không thực sự sống thử và cảm nhận trực tiếp, thì không thể hiểu được văn hóa của đất nước đó.",
+    "options": ["できるだろう", "できるかもしれない", "できないだろう", "できなければならない"],
+    "answer": 2,
+    "explanation": " (3) できないだろう vì cấu trúc 「～なしには」 luôn đi với phủ định.\n(1) できるだろう: Khẳng định → sai ngữ pháp.\n(2) できるかもしれない: Vẫn là khẳng định khả năng → sai.\n(4) できなければならない: Nghĩa 'phải hiểu' → không liên quan điều kiện."
+  },
+  {
+    "id": 46,
+    "question": "テレビドラマではあるまいし、現実にそんな都合のいい偶然がある（　）。",
+    "translation": "Đâu phải phim truyền hình, thực tế làm gì có chuyện thuận lợi như vậy.",
+    "options": ["だろう", "かもしれない", "わけだ", "わけがない"],
+    "answer": 3,
+    "explanation": "(4) わけがない = không thể nào có.\n(1) だろう: Có thể → sai ý phủ định mạnh.\n(2) かもしれない: Có khả năng → sai hoàn toàn.\n(3) わけだ: Kết luận/giải thích → không phải phủ định."
+  },
+  {
+    "id": 47,
+    "question": "今さら先生のせいにしたって、合格する（　）。",
+    "translation": "Giờ có đổ lỗi cho giáo viên thì cũng không có nghĩa là sẽ đỗ.",
+    "options": ["べきではない", "かもしれない", "わけではない", "までもない"],
+    "answer": 2,
+    "explanation": " (3) わけではない = không có nghĩa là.\n(1) べきではない: Không nên → sai logic.\n(2) かもしれない: Có thể → trái nghĩa.\n(4) までもない: Không cần → không phù hợp ngữ cảnh."
+  },
+  {
+    "id": 48,
+    "question": "まさか！本当に1千万円の宝くじが当たるなんて、夢にだに（　）。",
+    "translation": "Không thể nào! Trúng xổ số 10 triệu yên thì ngay cả trong mơ cũng không hề thấy.",
+    "options": ["見た", "見なかった", "見えた", "見えなかった"],
+    "answer": 1,
+    "explanation": " (2) 見なかった vì 「夢にだに + phủ định」.\n(1) 見た: Khẳng định → sai.\n(3) 見えた: Nhìn thấy (khả năng thị giác) → không dùng cho 'mơ'.\n(4) 見えなかった: Không nhìn thấy (thị giác) → sai sắc thái."
+  },
+  {
+    "id": 49,
+    "question": "妻にすら行き先を（　）、彼はふらりと旅行に出た。",
+    "translation": "Ngay cả với vợ cũng không nói điểm đến, anh ấy cứ thế đi du lịch.",
+    "options": ["告げようとして", "告げまいとして", "告げなくて", "告げずに"],
+    "answer": 3,
+    "explanation": "(4) 告げずに = không làm A mà làm B.\n(1) 告げようとして: Định nói → sai nghĩa.\n(2) 告げまいとして: Quyết không nói (ý chí mạnh) → không tự nhiên.\n(3) 告げなくて: Thường dùng nguyên nhân → không phù hợp hành động nối tiếp."
+  },
+  {
+    "id": 50,
+    "question": "プロの芸人たるもの、他人のまねは（　）。",
+    "translation": "Đã là nghệ sĩ chuyên nghiệp thì không nên bắt chước người khác.",
+    "options": ["できるだろう", "できるはずだ", "できないだろう", "できるべきだ"],
+    "answer": 2,
+    "explanation": "(3) できないだろう = không nên/không thể.\n(1) できるだろう: Có thể → sai đạo đức nghề nghiệp.\n(2) できるはずだ: Đáng lẽ làm được → sai nghĩa.\n(4) できるべきだ: Nên làm → hoàn toàn ngược nghĩa."
+  },
+  {
+    "id": 51,
+    "question": "今朝は仕事の疲れがたまり、おまけに熱まで出て、（　）起きられなかった。",
+    "translation": "Sáng nay do mệt mỏi công việc tích tụ, lại thêm bị sốt nữa, nên dù có định dậy cũng không thể dậy nổi.",
+    "options": ["起きれば", "起きても", "起きようとしても", "起きまいか"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「V-よう + としても + Phủ định (khả năng)」: Dù có định/thử làm gì đi nữa thì cũng không thể. Phù hợp với ngữ cảnh nỗ lực dậy nhưng cơ thể không cho phép. (1) 起きれば: Nếu dậy (sai logic). (2) 起きても: Dù có dậy (thường đi với kết quả trái ngược, nhưng không nhấn mạnh ý định nỗ lực bằng đáp án 3). (4) 起きまいか: Có lẽ không định dậy (không phù hợp cấu trúc)."
+  },
+  {
+    "id": 52,
+    "question": "現代人の生活はテレビなどのマスメディアなしには（　）。",
+    "translation": "Cuộc sống của con người hiện đại nếu không có các phương tiện truyền thông đại chúng như tivi thì không thể nói đến được.",
+    "options": ["語れるだろう", "語れない", "語れるわけである", "語れずにすむ"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～なしには + Phủ định」: Nếu không có A thì không thể có B. Đây là cấu trúc bắt buộc vế sau phải mang nghĩa phủ định. (1) 語れるだろう: Có lẽ có thể nói (khẳng định - sai). (3) 語れるわけである: Lẽ đương nhiên là nói được (khẳng định - sai). (4) 語れずにすむ: Có thể xong chuyện mà không cần nói (không hợp nghĩa)."
+  },
+  {
+    "id": 53,
+    "question": "あの女優をおいて、この映画の役をこなせる者は（　）。",
+    "translation": "Ngoài nữ diễn viên đó ra, không có ai có thể đảm nhận tốt vai diễn trong bộ phim này.",
+    "options": ["いるかもしれない", "いないだろう", "いなければならない", "いるだろう"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～をおいて（～ない）」: Ngoài A ra thì không có ai/cái gì khác có thể (dùng để đánh giá cao đối tượng A). (1, 4) Mang nghĩa khẳng định, trái với quy tắc đi kèm của cấu trúc này. (3) いなければならない: Phải có (sai ngữ pháp)."
+  },
+  {
+    "id": 54,
+    "question": "彼の存在（　）、今度の企画は失敗に終わっていただろう。",
+    "translation": "Nếu không có sự hiện diện của anh ấy, kế hoạch lần này có lẽ đã kết thúc trong thất bại.",
+    "options": ["どおりに", "なくしては", "ならでは", "に限らず"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～なくしては + Phủ định」: Nếu không có... thì (thường đi với kết quả tiêu cực ở giả định). (1) どおりに: Theo đúng như. (3) ならでは: Chỉ có ở... (đánh giá cao đặc trưng). (4) に限らず: Không chỉ giới hạn ở..."
+  },
+  {
+    "id": 55,
+    "question": "可能性がゼロになったわけじゃないんだ。一生懸命やれば（　）。",
+    "translation": "Không phải là khả năng đã bằng không. Nếu cố gắng hết sức thì không phải là không thể làm được.",
+    "options": ["できるものではない", "できることではない", "できないものでもない", "できはしない"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～ないものでもない」: Không phải là không thể... (phủ định của phủ định để khẳng định nhẹ nhàng/hy vọng). (1) できるものではない: Không thể làm được (phủ định mạnh). (2) できることではない: Không phải việc có thể làm. (4) できはしない: Tuyệt đối không thể làm được."
+  },
+  {
+    "id": 56,
+    "question": "不況の波を乗り越えるため、日曜（　）休まず働かねばならない。",
+    "translation": "Để vượt qua làn sóng suy thoái, ngay cả ngày Chủ Nhật cũng phải làm việc không nghỉ.",
+    "options": ["としても", "といえども", "ともなく", "とばかりに"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～といえども」: Ngay cả/Dẫu cho là... (nhấn mạnh sự nhượng bộ, dù là trường hợp đặc biệt như Chủ Nhật cũng không ngoại lệ). (1) としても: Cho dù là (không nhấn mạnh sắc thái bằng đáp án 2 trong văn viết N1). (3) ともなく: Một cách vô định/không rõ từ đâu. (4) とばかりに: Như muốn nói rằng."
+  },
+  {
+    "id": 57,
+    "question": "機械化が進み、便利な世の中に（　）、働かないで遊んで暮らせるわけではない。",
+    "translation": "Dẫu nói rằng cơ giới hóa đã tiến triển và thế giới trở nên tiện lợi, nhưng không có nghĩa là ta có thể ăn chơi mà không làm việc.",
+    "options": ["なるように", "なったからこそ", "なってからというもの", "なったとはいえ"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～とはいえ」: Dẫu nói là/Mặc dù là... (thừa nhận một sự thật nhưng vế sau đưa ra một nhận định tương phản). (1) なるように: Để trở thành. (2) なったからこそ: Chính vì đã trở thành (nhấn mạnh nguyên nhân). (3) なってからというもの: Kể từ sau khi trở thành thì mãi suốt..."
+  },
+  {
+    "id": 59,
+    "question": "君が金に困っていると知っていれば、何とか力になった（　）、どうして教えてくれなかったの？",
+    "translation": "Nếu biết cậu đang gặp khó khăn về tiền bạc, tớ đã tìm cách giúp đỡ rồi (vậy mà...), tại sao cậu không nói với tớ?",
+    "options": ["ように", "ほどに", "ばかりに", "ものを"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～ものを」: Diễn tả sự tiếc nuối, lẽ ra một việc đã có kết quả tốt hơn nếu điều kiện ở vế trước được đáp ứng. (1) ように: Để/Giống như. (2) ほどに: Đến mức. (3) ばかりに: Chỉ vì (thường dẫn đến kết quả xấu)."
+  },
+  {
+    "id": 60,
+    "question": "「はい、がんばります！」と口では（　）、なかなか実行できないのが現実だ。",
+    "translation": "Dẫu vẫn thường nói bằng miệng là 'Vâng, tôi sẽ cố gắng!', nhưng thực tế là mãi mà vẫn không thực hiện được.",
+    "options": ["言わずには", "言いながらに", "言うまでもなく", "言いながらも"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～ながらも」: Tuy... nhưng (diễn tả sự đối lập giữa lời nói và hành động). (1) 言わずには (すまない): Không thể không nói. (2) 言いながらに: Vừa nói vừa (không dùng trong ngữ cảnh này). (3) 言うまでもなく: Không cần nói cũng biết."
+  },
+  {
+    "id": 61,
+    "question": "手術後回復したかと思いきや、病状は（　）。",
+    "translation": "Cứ ngỡ là sau phẫu thuật sẽ hồi phục, ai ngờ bệnh tình lại (tệ đi).",
+    "options": ["やはり少しずつ良くなった", "はたして健康をとりもどした", "案の定悪化した", "またしても悪化していった"],
+    "answer": 3,
+    "explanation": "Đúng: (4) Cấu trúc 「～かと思いきや」: Cứ nghĩ là... nhưng sự thật lại trái ngược hoàn toàn (thường là kết quả xấu). (1, 2) Là kết quả tốt, đi ngược lại cấu trúc này. (3) 案の定: Đúng như dự đoán (trái với nghĩa 'bất ngờ' của omoikiya)."
+  },
+  {
+    "id": 62,
+    "question": "緊急の電話を受けた警察官は、パトカーに飛び乗る（　）、猛スピードで現場へ向かった。",
+    "translation": "Viên cảnh sát sau khi nhận điện thoại khẩn cấp, vừa nhảy lên xe tuần tra xong là lập tức lao đến hiện trường với tốc độ chóng mặt.",
+    "options": ["より早いか", "が早いか", "から早いか", "も早いか"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～が早いか」: Ngay sau khi... thì gần như đồng thời hành động tiếp theo xảy ra. (1, 3, 4) Không phải là cấu trúc ngữ pháp chuẩn để chỉ sự tức thì."
+  },
+  {
+    "id": 63,
+    "question": "もう疲労の限界だった彼は玄関のドアを（　）、バタリと倒れてしまった。",
+    "translation": "Đã mệt mỏi đến giới hạn, anh ấy vừa mở cửa hiên nhà ra là ngã gục xuống ngay lập tức.",
+    "options": ["開けるなり", "開けたなり", "開けるべく", "開けたべく"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～なり」: Ngay sau khi làm V thì một sự việc bất ngờ xảy ra (chủ ngữ thường là ngôi thứ 3). (2) 開けたなり: Giữ nguyên trạng thái sau khi mở (không hợp nghĩa). (3, 4) べく: Để mà (chỉ mục đích)."
+  },
+  {
+    "id": 64,
+    "question": "授業終了のベルが鳴る（　）、彼はトイレへ直行した。",
+    "translation": "Chuông báo kết thúc giờ học vừa mới reo lên là anh ta chạy thẳng vào nhà vệ sinh luôn.",
+    "options": ["やいなや", "とたんに", "ばかりに", "が最後"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～やいなや」: Vừa mới... thì ngay lập tức (nhấn mạnh sự liên tiếp cực nhanh). (2) とたんに: Cũng là ngay lập tức nhưng thường dùng cho sự thay đổi trạng thái bất ngờ hơn là hành động có ý chí. (3) ばかりに: Chỉ vì. (4) が最後: Một khi đã... thì (kết quả xấu)."
+  },
+  {
+    "id": 65,
+    "question": "最近は年のせいか、記憶力が衰え、（　）忘れていってしまう。",
+    "translation": "Gần đây có lẽ do tuổi tác mà trí nhớ giảm sút, cứ vừa mới học xong là lại quên ngay.",
+    "options": ["習うそばから", "習えばそばから", "習うとそばから", "習ってそばから"],
+    "explanation": "Đúng: (1) 「～そばから」: Vừa mới làm việc gì đó thì một việc không mong muốn lại xảy ra ngay (lặp đi lặp lại). Đi kèm với động từ thể từ điển (V-る) hoặc thể quá khứ (V-た). (2, 3, 4) Sai cấu trúc kết hợp.",
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "question": "予想した（　）、自体は悪化する一方だった。",
+    "translation": "Đúng như đã dự đoán, tình hình cứ ngày một xấu đi.",
+    "options": ["ごとし", "ごとく", "べし", "べく"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～（かの）ごとく」: Giống như/Đúng như... (ở đây là trạng từ bổ nghĩa cho vế sau). (1) ごとし: Giống như (thường đứng cuối câu kết thúc câu). (3) べし: Nên/Phải. (4) べく: Để mà."
+  },
+  {
+    "id": 67,
+    "question": "喫茶店に流れる静かな曲を（　）聞いていたら、昔、恋人といっしょに聞いた思い出の曲だとわかり、懐かしさで胸がいっぱいになった。",
+    "translation": "Khi đang nghe bản nhạc nhẹ nhàng trôi lững lờ trong quán cà phê một cách vô thức, tôi chợt nhận ra đó là bản nhạc kỷ niệm từng nghe cùng người yêu cũ, lòng bỗng trào dâng nỗi nhớ nhung.",
+    "options": ["聞きながら", "聞こうにも", "聞くとはいえ", "聞くともなしに"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～ともなしに」: Làm gì đó một cách vô thức, không có chủ đích rõ ràng. (1) 聞きながら: Vừa nghe vừa (làm việc khác). (2) 聞こうにも: Dù có muốn nghe cũng không được. (3) 聞くとはいえ: Dẫu nói là nghe."
+  },
+  {
+    "id": 68,
+    "question": "彼女は、夫の無実を涙（　）訴えた。",
+    "translation": "Cô ấy đã vừa khóc vừa kêu oan cho chồng.",
+    "options": ["なりに", "あって", "っぽく", "ながらに"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～ながらに」: Trong trạng thái giữ nguyên như vậy (thường đi với 涙, 昔, 生まれ). 涙ながらに nghĩa là 'trong nước mắt'. (1) なりに: Theo cách của. (2) あって: Vì có. (3) っぽく: Có vẻ/Cảm giác như (thường cho tính chất)."
+  },
+  {
+    "id": 69,
+    "question": "子どもの成長の段階（　）は、母親がそばにいた方が望ましい。",
+    "translation": "Ở giai đoạn phát triển của trẻ nhỏ, việc có người mẹ ở bên cạnh là điều mong muốn.",
+    "options": ["にいたって", "にとって", "にあって", "にして"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～にあって」: Trong hoàn cảnh/Trong giai đoạn/Ở thời điểm đặc biệt nào đó. (1) にいたって: Cho đến mức. (2) にとって: Đối với (thường chỉ quan điểm). (4) にして: Ngay cả/Phải đến lúc."
+  },
+  {
+    "id": 70,
+    "question": "一度社会的信用を（　）、を取り戻すのは大変だ。",
+    "translation": "Một khi đã đánh mất uy tín xã hội, thì việc lấy lại là vô cùng khó khăn.",
+    "options": ["失ったらもはや", "失ったが最後", "失ったあげく", "失った限り"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～が最後」: Một khi đã... thì (kết quả xấu gần như không thể đảo ngược). (1) 失ったらもはや: Thiếu vị ngữ phủ định phù hợp. (3) あげく: Sau một hồi... cuối cùng thì (kết quả xấu). (4) 限り: Chừng nào còn... (thường chỉ điều kiện)."
+  },
+  {
+    "id": 71,
+    "question": "私どもは、お客さまのニーズに（　）、より一層のサービスを心がけております。",
+    "translation": "Chúng tôi luôn cố gắng nâng cao dịch vụ hơn nữa để đáp ứng nhu cầu của khách hàng.",
+    "options": ["こたえようにも", "こたえばかりに", "こたえざるをえず", "こたえるべく"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～べく」: Để/Nhằm mục đích... (văn viết trang trọng). (1) こたえようにも: Dù muốn đáp ứng cũng không được. (2) こたえばかりに: Chỉ vì muốn đáp ứng (thường dẫn đến kết quả xấu). (3) こたえざるをえず: Không thể không đáp ứng."
+  },
+  {
+    "id": 72,
+    "question": "「いじめ」の問題は、ひとり学校（　）家庭内にも問題があるように思われる。",
+    "translation": "Vấn đề 'bắt nạt' không chỉ ở mỗi trường học, mà dường như trong gia đình cũng có vấn đề.",
+    "options": ["をものともせず", "を限りに", "のみならず", "あっても"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～のみならず」: Không chỉ... mà còn (văn viết của ～だけでなく). (1) をものともせず: Bất chấp/Mặc kệ khó khăn. (2) を限りに: Đến hết (thời hạn). (4) あっても: Dẫu có."
+  },
+  {
+    "id": 73,
+    "question": "地震そのものによる被害（　）、直後の火災によって命を落とした人も少なくない。",
+    "translation": "Chưa nói đến thiệt hại do chính trận động đất gây ra, số người thiệt mạng vì hỏa hoạn ngay sau đó cũng không ít.",
+    "options": ["もさることながら", "ではあるまいし", "をよそに", "なくしては"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～もさることながら」: A là tất nhiên rồi, nhưng B cũng... (nhấn mạnh vế sau). (2) ではあるまいし: Chẳng phải là... nên đừng. (3) をよそに: Mặc kệ/Phớt lờ. (4) なくしては: Nếu không có... thì không thể."
+  },
+  {
+    "id": 74,
+    "question": "この映画はストーリー（　）音楽（　）まれにみる作品だね！",
+    "translation": "Bộ phim này cả về cốt truyện lẫn âm nhạc đều là một tác phẩm hiếm thấy!",
+    "options": ["であれ、であれ", "なり、なり", "といい、といい", "ですら、ですら"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～といい～といい」: Xét về khía cạnh... hay khía cạnh... đều (dùng để khen ngợi hoặc phê phán toàn diện). (1) であれ: Dẫu là... hay là. (2) なり: Hoặc là... hoặc là (đưa ra lựa chọn). (4) ですら: Ngay cả."
+  },
+  {
+    "id": 75,
+    "question": "もう知りません。南極へ行く（　）、月旅行するなり好きにしなさい！",
+    "translation": "Tôi không quan tâm nữa. Đi Nam Cực hay đi du lịch mặt trăng thì tùy ý anh!",
+    "options": ["や", "べく", "し", "なり"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～なり～なり」: Hoặc là... hoặc là (liệt kê các phương án cùng loại để đưa ra lời khuyên hoặc lựa chọn). (1) や: Và/Vừa mới. (2) べく: Để. (3) し: Và (liệt kê lý do)."
+  },
+  {
+    "id": 76,
+    "question": "息子も息子（　）考えてやっているようだ。あまり型にはめるようなことはよそう。",
+    "translation": "Con trai cũng có cách suy nghĩ của riêng nó. Đừng ép nó vào một khuôn mẫu quá.",
+    "options": ["なりに", "ために", "からに", "ところに"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～なりに」: Theo cách của/Tương xứng với... (ở đây là 'theo cách của đứa con'). (2) ために: Vì/Để. (3) からに: Một khi đã. (4) ところに: Đúng vào lúc."
+  },
+  {
+    "id": 77,
+    "question": "あの歌手は甘いマスクとさわやかな声が、そのスマートな容姿（　）、またたく間に若い女の子の間で人気の的になった。",
+    "translation": "Nam ca sĩ đó có gương mặt ngọt ngào và giọng hát tươi trẻ, cộng thêm ngoại hình thanh lịch, đã nhanh chóng trở thành thần tượng của các cô gái trẻ.",
+    "options": ["とともに", "と相まって", "につれて", "にしたがって"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～と相まって (とあいまって)」: Kết hợp với/Cộng thêm với (hai yếu tố tác động lẫn nhau tạo ra kết quả tốt hơn). (1) とともに: Cùng với. (3) につれて: Cùng với sự thay đổi của... (4) にしたがって: Theo như/Kéo theo."
+  },
+  {
+    "id": 78,
+    "question": "「さあ、今日が決戦だ！」（　）、選手たちは勢いよくグランドに出て行った。",
+    "translation": "Như muốn nói rằng 'Nào, hôm nay là trận quyết chiến!', các cầu thủ hăng hái tiến ra sân.",
+    "options": ["ともない", "と思いきや", "ともなれば", "とばかりに"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～とばかりに」: Như thể muốn nói rằng... (dùng để diễn tả thái độ qua hành động mà không nói ra lời). (1) ともない: Không có. (2) と思いきや: Cứ ngỡ là... nhưng. (3) ともなれば: Hễ đã trở thành... thì đương nhiên."
+  },
+  {
+    "id": 79,
+    "question": "テストを返すときの先生の顔はまるで「信じられない」と（　）だった。",
+    "translation": "Vẻ mặt của thầy khi trả bài kiểm tra cứ như thể muốn nói 'Không thể tin được'.",
+    "options": ["言わないほど", "言わないのみ", "言わんばかり", "言わぬが仏"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～言わんばかり」: Giống như sắp nói ra đến nơi/Cứ như thể muốn nói... (thường chỉ sắc thái biểu cảm). (1) 言わないほど: Đến mức không nói. (2) 言わないのみ: Chỉ là không nói. (4) 言わぬが仏: Im lặng là vàng (thành ngữ)."
+  },
+  {
+    "id": 80,
+    "question": "反抗ばかりしてきたが、子どもを持つ今（　）初めて親の気持ちが分かる。",
+    "translation": "Tôi vốn luôn chống đối, nhưng phải đến tận bây giờ khi đã có con, tôi mới lần đầu hiểu được lòng cha mẹ.",
+    "options": ["だから", "であれ", "とはいえ", "にして"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～にして」: Phải đến tận (thời điểm/mức độ)... thì mới. (1) だから: Vì vậy. (2) であれ: Dẫu là. (3) とはいえ: Dẫu nói là."
+  },
+  {
+    "id": 81,
+    "question": "火災予防の訓練は実際の場合（　）、行われた。",
+    "translation": "Buổi huấn luyện phòng cháy chữa cháy đã được thực hiện dựa sát theo tình huống thực tế.",
+    "options": ["をよそに", "はもとより", "に即して", "に引きかえ"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～に即して (にそくして)」: Dựa theo/Hợp với (thực tế, quy định, trải nghiệm). (1) をよそに: Mặc kệ/Bất chấp. (2) はもとより: Không chỉ... (đã đành) mà còn. (4) に引きかえ: Trái ngược hoàn toàn với."
+  },
+  {
+    "id": 82,
+    "question": "カーレースはいろいろな国のスポーツカーが、抜きつ（　）の大接戦となった。",
+    "translation": "Cuộc đua xe đã trở thành một trận quyết đấu nghẹt thở, khi xe thể thao từ nhiều quốc gia khác nhau liên tục rượt đuổi và vượt mặt nhau.",
+    "options": ["抜きつ", "後れつ", "抜かれつ", "進みつ"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～つ～つ」: Diễn tả hai hành động đối lập xảy ra luân hồi hoặc lặp đi lặp lại. 「抜きつ抜かれつ」 là cụm từ cố định nghĩa là 'hết vượt rồi lại bị vượt'. (1, 2, 4) Không tạo thành cụm từ đối lập có nghĩa trong ngữ cảnh đua xe này."
+  },
+  {
+    "id": 83,
+    "question": "父は、たばこ歴 20 年。健康のため「今日（　）タバコをやめます」と家族に宣言した。",
+    "translation": "Bố tôi đã hút thuốc được 20 năm. Vì sức khỏe, ông đã tuyên bố với gia đình rằng 'Kể từ hôm nay tôi sẽ bỏ thuốc'.",
+    "options": ["をはしめ", "をもとに", "を抜きに", "を限りに"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～を限りに」: Đến hết/Kể từ... (dùng để chỉ thời điểm kết thúc một sự việc đã kéo dài). (1) をはじめ: Trước hết là. (2) をもとに: Dựa trên. (3) を抜きに: Nếu không có/Bỏ qua."
+  },
+  {
+    "id": 84,
+    "question": "彼は世間の冷笑（　）、自らの信念を貫き通し、研究を完成させた。",
+    "translation": "Bất chấp sự nhạo báng của miệng đời, anh ấy vẫn giữ vững niềm tin và hoàn thành bài nghiên cứu của mình.",
+    "options": ["をものともせず", "のみならず", "いかんによって", "と相まって"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～をものともせず」: Bất chấp/Mặc kệ (vượt qua khó khăn, trở ngại từ bên ngoài). (2) のみならず: Không chỉ. (3) いかんによって: Tùy thuộc vào. (4) と相まって: Kết hợp với."
+  },
+  {
+    "id": 85,
+    "question": "一学生の発言（　）、次々と学校批判が続出し、集会は大混乱となった。",
+    "translation": "Bắt đầu từ phát ngôn của một sinh viên, một loạt các chỉ trích nhà trường liên tiếp nổ ra, khiến buổi tập trung trở nên cực kỳ hỗn loạn.",
+    "options": ["までもなく", "を余儀なくされ", "ではあるまいし", "を皮切りに"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～を皮切りに」: Bắt đầu từ một sự việc, sau đó các sự việc tương tự nổ ra liên tiếp với quy mô lớn hơn. (1) までもなく: Không cần thiết phải. (2) を余儀なくされ: Bị buộc phải. (3) ではあるまいし: Chẳng phải là."
+  },
+  {
+    "id": 86,
+    "question": "彼は情勢を楽観しすぎる（　）。あれでは、今後、いろいろと問題が起きると思う。",
+    "translation": "Anh ta có xu hướng quá lạc quan về tình hình. Cứ như vậy thì tôi nghĩ sau này sẽ phát sinh nhiều vấn đề đấy.",
+    "options": ["べきではない", "ものがある", "までもない", "きらいがある"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～きらいがある」: Có thói hư/Có xu hướng (thường dùng cho những đặc điểm không tốt). (1) べきではない: Không nên. (2) ものがある: Có cảm giác/Có yếu tố. (3) までもない: Không cần thiết."
+  },
+  {
+    "id": 87,
+    "question": "彼は酒癖が悪くてね。最初は明るくていいんだけど、酔っぱらってくると、上司の悪口を言い始め、最後には泣き出す（　）だ。",
+    "translation": "Tật uống rượu của anh ta tệ lắm. Lúc đầu thì vui vẻ đấy, nhưng cứ hễ say vào là bắt đầu nói xấu cấp trên, và cuối cùng là kết thúc bằng việc ngồi khóc.",
+    "options": ["終始", "始末", "始終", "結末"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～始末 (しまつ) だ」: Kết cục là/Dẫn đến kết quả tệ hại là... (sau một chuỗi hành động không tốt). (1) 終始: Từ đầu đến cuối. (3) 始終: Thường xuyên/Hoàn toàn. (4) 結末: Kết thúc (của một câu chuyện/vở kịch)."
+  },
+  {
+    "id": 88,
+    "question": "いえ、本当にこの目で見たんです、ネッシーを。幻覚だと（　）ですがね。",
+    "translation": "Không, tôi thật sự đã tận mắt nhìn thấy quái vật Nessie mà. Mặc dù nếu bị nói là ảo giác thì cũng đành chịu thôi.",
+    "options": ["言われれば幻覚", "言われればそれまで", "言うなら現実", "言うならそれから"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～と言われればそれまでだ」: Nếu bị nói là... thì cũng đành chịu/không còn gì để bào chữa. (1, 3, 4) Không tạo thành cấu trúc ngữ pháp có nghĩa 'chấp nhận sự thật dù không muốn' trong N1."
+  },
+  {
+    "id": 90,
+    "question": "勉強、勉強といっても、ただ勉強する時間が多ければ良い（　）。効率の良い勉強方法を工夫しなければ良い成績にはつながらない。",
+    "translation": "Dẫu nói là học, học đi chăng nữa, nhưng không hẳn cứ có nhiều thời gian học là tốt. Nếu không tìm tòi phương pháp học hiệu quả thì sẽ không dẫn đến thành tích tốt được.",
+    "options": ["きらいがある", "といったらない", "というにはあたらない", "というものでもない"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～というものでもない」: Không hẳn là/Không thể nói là... (dùng để phủ định một quan điểm mang tính hiển nhiên). (1) きらいがある: Có xu hướng (xấu). (2) といったらない: Cực kỳ (nhấn mạnh cảm xúc). (3) というにはあたらない: Không đáng gọi là."
+  },
+  {
+    "id": 92,
+    "question": "長年連れ添った主人を亡くし、何か心の中に穴があいたみたいで寂しい（　）。",
+    "translation": "Mất đi người chồng đã gắn bó nhiều năm, tôi thấy buồn khôn xiết, như thể có một lỗ hổng trong thâm tâm vậy.",
+    "options": ["至りだ", "極みだ", "限りだ", "きりだ"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～限りだ」: Cực kỳ/Rất... (diễn tả cảm xúc của người nói ở mức độ cao nhất). (1) 至りだ: Thường đi với 'vinh dự', 'hổ thẹn'. (2) 極みだ: Thường đi với 'bất hạnh', 'vô lễ' (mang tính trừu tượng hơn). (4) きりだ: Chỉ/Mãi mà không."
+  },
+  {
+    "id": 93,
+    "question": "溺れている人を助けただけなのに、新聞にとりあげられ、表彰までしていただいて、まことに光栄（　）です。",
+    "translation": "Chỉ là cứu người đang đuối nước thôi mà lại được đưa lên báo, thậm chí còn được biểu dương, tôi thực sự cảm thấy vô cùng vinh dự.",
+    "options": ["の至り", "に存じ", "まみれ", "だらけ"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～の至り (のいたり)」: Vô cùng/Cực kỳ... (thường đi với '光栄', '赤面', '若気'). (2) に存じ: Kính ngữ của 'nghĩ là/biết là'. (3) まみれ: Bao phủ bởi (bụi, bùn). (4) だらけ: Toàn là (lỗi sai, nợ)."
+  },
+  {
+    "id": 94,
+    "question": "大恋愛の末、結婚して 1 ヵ月、きのうまで幸福（　）にあった A 子さんは、ご主人を交通事故で亡くし、一瞬にして絶望の底に落ちてしまった。",
+    "translation": "Sau một mối tình sâu đậm, kết hôn mới được 1 tháng, chị A - người mà cho đến hôm qua vẫn còn ở đỉnh cao của hạnh phúc - đã mất chồng vì tai nạn giao thông và rơi xuống vực thẳm tuyệt vọng chỉ trong chớp mắt.",
+    "options": ["極まりない", "まみれ", "の極み", "の限り"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～の極み (のきわみ)」: Cực độ/Đỉnh điểm của... (thường đi với '幸福', '贅沢', '不運'). (1) 極まりない: Cực kỳ (thường đi với tính từ đuôi na). (2) まみれ: Dính đầy (chất lỏng/bụi). (4) の限り: Hết mức có thể (thường đi với động từ)."
+  },
+  {
+    "id": 95,
+    "question": "先日は大変お世話になりました。お礼（　）、田舎から届きましたりんごをお持ちしました。",
+    "translation": "Hôm trước thật sự cảm ơn anh đã giúp đỡ. Nhân tiện để cảm ơn, tôi có mang đến biếu anh mấy quả táo vừa gửi từ quê lên.",
+    "options": ["の一方", "の半面", "かたがた", "ながらに"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～かたがた」: Nhân tiện làm A thì làm B (thường dùng trong văn phong trang trọng, đi sau danh từ chỉ hành động như '散歩', 'お礼'). (1) の一方: Một mặt thì/Ngày càng. (2) の半面: Ngược lại. (4) ながらに: Trong trạng thái giữ nguyên."
+  },
+  {
+    "id": 96,
+    "question": "だれ、テレビを（　）で、出かけたのは。電気代がもったいないでしょ。",
+    "translation": "Ai là người để tivi cứ bật nguyên như thế rồi đi ra ngoài vậy? Chẳng phải là phí tiền điện lắm sao?",
+    "options": ["つけながら", "つけかけ", "つけっきり", "つけっぱなし"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～っぱなし」: Để nguyên một trạng thái nào đó rồi cứ thế bỏ đi (thường mang nghĩa phê phán). (1) つけながら: Vừa bật vừa làm gì đó. (2) つけかけ: Đang bật dở. (3) つけっきり: Chỉ tập trung làm việc đó/Hoặc trạng thái kéo dài (nhưng 'っぱなし' hợp ngữ cảnh phê phán hơn)."
+  },
+  {
+    "id": 97,
+    "question": "うちの弟は、自動車整備工場で毎日油（　）になって、働いている。",
+    "translation": "Em trai tôi hàng ngày làm việc tại xưởng bảo trì ô tô, người dính đầy dầu mỡ.",
+    "options": ["まみれ", "ずくめ", "の限り", "に極み"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～まみれ」: Bao phủ, dính đầy (thường là chất bẩn bám trên bề mặt như dầu, bùn, máu). (2) ずくめ: Toàn là (thường chỉ sự đồng nhất như 'đen toàn tập', 'may mắn liên tiếp'). (3) の限り: Hết mức. (4) に極み: Sai cấu trúc ngữ pháp."
+  },
+  {
+    "id": 98,
+    "question": "彼の書いた本など（　）足りない。読むだけ時間のむだだ。",
+    "translation": "Mấy cuốn sách anh ta viết chẳng đáng để bàn tới. Đọc chỉ phí thời gian.",
+    "options": ["論ずれば", "論じても", "論ぜざるを", "論ずるに"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～に足りない」: Không đáng để/Không đủ để... (thường đi với '論ずる', '取る'). (1) 論ずれば: Nếu bàn luận. (2) 論じても: Dẫu có bàn luận. (3) 論ぜざるを (えない): Buộc phải bàn luận."
+  },
+  {
+    "id": 99,
+    "question": "依頼人をホテルに誘うなんて、弁護士として（　）行為である。",
+    "translation": "Mời khách hàng đến khách sạn là hành vi không được phép đối với một luật sư.",
+    "options": ["あるまい", "あるまじき", "ないまじき", "ないべき"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～あるまじき」: Không thể chấp nhận được/Không được phép có đối với một người ở vị trí... (thường đi với 'thái độ', 'hành vi'). (1) あるまい: Có lẽ không có. (3) ないまじき: Sai cấu trúc. (4) ないべき: Không nên (sai cấu trúc chuẩn)."
+  },
+  {
+    "id": 100,
+    "question": "ギャラリーはたくさんあっても、鑑賞（　）絵はめったにない。",
+    "translation": "Dẫu có nhiều phòng triển lãm, nhưng những bức tranh đáng để thưởng thức thì hiếm khi có.",
+    "options": ["にたえる", "にかかわる", "極まる", "ずくめの"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～にたえる」: Đáng để làm gì đó (thường đi với 鑑賞, 批判, 読む). (2) にかかわる: Liên quan đến. (3) 極まる: Cực kỳ. (4) ずくめの: Toàn là."
+  },
+  {
+    "id": 101,
+    "question": "子供（　）我が家、子供がいなかったら、即離婚だな。",
+    "translation": "Gia đình tôi có được là nhờ có con cái, nếu không có con thì chắc ly hôn ngay lập tức rồi.",
+    "options": ["あるべき", "あればの", "あったの", "あっての"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～あっての」: Có được là nhờ.../Tồn tại nhờ có... (nhấn mạnh tầm quan trọng không thể thiếu của vế trước). (1) あるべき: Nên có. (2) あればの: Nếu có (sai cấu trúc). (3) あったの: Đã có."
+  },
+  {
+    "id": 102,
+    "question": "主婦のパートだったら、時給 700 円から 1000 円（　）が相場だろう。",
+    "translation": "Nếu là công việc bán thời gian của nội trợ thì mức lương giờ khoảng từ 700 đến 1000 Yên là giá chung thị trường rồi.",
+    "options": ["といったこと", "といったところ", "としたこと", "としたところ"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～といったところだ」: Đại khái khoảng.../Cùng lắm cũng chỉ... (dùng để nêu lên một mức độ không cao lắm). (1, 3, 4) Không phải cấu trúc ngữ pháp chỉ mức độ/xấp xỉ trong văn cảnh này."
+  },
+  {
+    "id": 103,
+    "question": "彼は噂によると 1 億 5 千万円（　）借金を抱えているという。",
+    "translation": "Theo tin đồn, anh ta đang gánh khoản nợ lên đến 150 triệu Yên.",
+    "options": ["にまして", "にたる", "からの", "ゆえの"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～からの」: Lên đến hơn... (đi sau số từ để nhấn mạnh lượng lớn như tiền bạc, trọng lượng, số người). (1) にまして: Hơn cả... (2) にたる: Đáng để. (4) ゆえの: Vì/Do."
+  },
+  {
+    "id": 104,
+    "question": "冬の厳しいこの地方でも、雪が解け始め、あたりもようやく春（　）。",
+    "translation": "Ngay cả vùng phương bắc khắc nghiệt này, tuyết cũng bắt đầu tan và xung quanh cuối cùng cũng đã ra dáng vẻ mùa xuân.",
+    "options": ["っぽい", "どおりだ", "づいてきた", "めいてきた"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～めく」: Trở nên giống như/Có vẻ như (thường dùng cho các mùa trong năm hoặc cảm giác: 春めく, 謎めく). (1) っぽい: Có vẻ (thường dùng cho tính chất rẻ tiền, trẻ con hoặc dính đầy bùn). (2) どおりだ: Đúng như. (3) づいてきた: Hướng về/Có xu hướng (thường đi với ý chí)."
+  },
+  {
+    "id": 105,
+    "question": "あの店（　）サービスが悪くて…。味だけは一流なんだけどね。",
+    "translation": "Cái cửa hàng đó ấy à, dịch vụ tệ lắm... Mặc dù vị của nó thì thuộc hàng nhất nhì đấy.",
+    "options": ["としたら", "ときたら", "として", "ときて"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～ときたら」: Nói về.../Nhắc đến... thì (thường dùng để phàn nàn, đưa ra đánh giá tiêu cực). (1) としたら: Nếu là. (3) として: Với tư cách. (4) ときて: Vì... nên (nhấn mạnh hai đặc điểm liên tiếp)."
+  },
+  {
+    "id": 106,
+    "question": "冬は人通りが少なく寂しい限りだが、春（　）、花見客でにぎわうようになる。",
+    "translation": "Mùa đông người qua lại thưa thớt buồn vô cùng, nhưng hễ đến mùa xuân là sẽ trở nên nhộn nhịp khách ngắm hoa.",
+    "options": ["ともなると", "ともあれ", "ともすると", "ともなれ"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～ともなると / ～ともなれば」: Hễ cứ trở thành (một trạng thái, thời điểm đặc biệt) thì đương nhiên sẽ... (2) ともあれ: Dẫu sao đi nữa. (3) ともすると: Có khuynh hướng/Dễ chừng là. (4) ともなれ: Thể mệnh lệnh (không phù hợp)."
+  },
+  {
+    "id": 107,
+    "question": "漢字は（　）ひらがなも書けないなんて！",
+    "translation": "Đừng nói đến chữ Hán, ngay cả Hiragana cũng không viết được thì thật là...!",
+    "options": ["あげく", "きわみ", "かぎり", "おろか"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～はおろか」: Ngay cả A còn chưa nói tới huống hồ là B (vế sau thường tệ hơn vế trước). (1) あげく: Sau một hồi... cuối cùng thì (kết quả xấu). (2) きわみ: Cực kỳ. (3) かぎり: Chừng nào còn."
+  },
+  {
+    "id": 108,
+    "question": "私がお見合いしようと（　）と、あなたには関係ありません。",
+    "translation": "Việc tôi có định đi xem mắt hay không thì cũng chẳng liên quan gì đến anh cả.",
+    "options": ["するまい", "せざる", "したい", "したがらざる"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「V-よう + と + V-まい + と」: Dù có làm hay không làm thì cũng... (2) せざる: Dạng phủ định cổ. (3) したい: Muốn làm. (4) したがらざる: Không muốn làm (sai cấu trúc đối lập)."
+  },
+  {
+    "id": 109,
+    "question": "彼女は仕事をする（　）独学で英語を学び、英検 1 級に合格した。",
+    "translation": "Cô ấy vừa làm việc vừa tự học tiếng Anh và đã đỗ kỳ thi Eiken bậc 1.",
+    "options": ["かたわら", "あまり", "うちに", "そばから"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～かたわら」: Bên cạnh công việc chính thì còn làm thêm việc khác (thường chỉ hai hoạt động kéo dài song song). (2) あまり: Vì quá. (3) うちに: Trong khi. (4) そばから: Vừa mới... thì lại ngay lập tức."
+  },
+  {
+    "id": 110,
+    "question": "こんな夜中に電話してくるなんて、非常識（　）。",
+    "translation": "Gọi điện vào lúc giữa đêm thế này thật là vô ý thức hết mức.",
+    "options": ["極まっている", "極めている", "極まらない", "極まりない"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～極まりない (きわまりない)」: Cực kỳ/Hết sức... (thường đi với tính từ đuôi Na để nhấn mạnh sự tiêu cực). (1, 2, 3) Không phải là cách kết hợp đúng của cấu trúc nhấn mạnh này."
+  },
+  {
+    "id": 111,
+    "question": "学生あての荷物が学校に届いたが、夏休み中の（　）連絡がとれなかった。",
+    "translation": "Hành lý gửi cho học sinh đã đến trường, nhưng vì đang trong kỳ nghỉ hè nên đã không thể liên lạc được.",
+    "options": ["ことに", "ことさせ", "ことでは", "こととて"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～こととて」: Vì... (là lý do chính đáng, dùng trong văn phong trang trọng hoặc để xin lỗi). (1) ことに: Đặc biệt là. (2) ことさせ: Sai cấu trúc. (3) ことでは: Nếu nói về việc."
+  },
+  {
+    "id": 112,
+    "question": "上から下まで黒（　）妙な人物が家の前をうろうろしていたのでびっくりした。",
+    "translation": "Tôi đã rất ngạc nhiên vì có một nhân vật kỳ lạ mặc toàn đồ đen từ đầu đến chân cứ lảng vảng trước nhà.",
+    "options": ["ずくめ", "ぐらいで", "めいて", "ぼっちで"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～ずくめ」: Toàn là/Hoàn toàn là... (dùng cho màu sắc, sự kiện liên tiếp: 黒ずくめ, いいことずくめ). (2) ぐらいで: Chỉ khoảng. (3) めいて: Có vẻ (cần đi trực tiếp sau danh từ, không hợp cách dùng này). (4) ぼっちで: Đơn độc/Một mình."
+  },
+  {
+    "id": 113,
+    "question": "やるだけのことはやった。あとは、合格通知を待つ（　）だ。",
+    "translation": "Những gì có thể làm tôi đã làm hết rồi. Giờ chỉ còn việc chờ thông báo trúng tuyển thôi.",
+    "options": ["のみ", "ほど", "きり", "すら"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～のみだ」: Chỉ còn... (văn viết của だけだ). Thường đi sau các cụm từ như 'やるだけのことはやった' để chỉ bước cuối cùng duy nhất còn lại. (2) ほど: Đến mức. (3) きり: Chỉ (thường dùng cho trạng thái dừng lại). (4) すら: Ngay cả."
+  },
+  {
+    "id": 114,
+    "question": "東京に家を建てるためだ。節約、節約、1円（　）むだづかいはできない。",
+    "translation": "Vì để xây nhà ở Tokyo, phải tiết kiệm và tiết kiệm, ngay cả 1 Yên cũng không được lãng phí.",
+    "options": ["ならでは", "どころか", "たりとも", "までも"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「数量詞 + たりとも ～ない」: Ngay cả (một lượng nhỏ nhất) cũng không... Thường dùng với số 1 (1 giây, 1 giọt, 1 xu) để nhấn mạnh sự phủ định tuyệt đối. (1) ならでは: Chỉ có ở. (2) どころか: Thay vì... thì trái lại còn tệ hơn."
+  },
+  {
+    "id": 115,
+    "question": "彼女がこのクラスに（　）からというもの、雰囲気が一変した。",
+    "translation": "Kể từ khi cô ấy vào lớp này, bầu không khí đã thay đổi hoàn toàn.",
+    "options": ["入る", "入った", "入って", "入らない"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「V-て + からというもの」: Kể từ sau khi làm gì đó thì có một sự thay đổi lớn kéo dài. (1, 2, 4) Không kết hợp được với cấu trúc này (cần thể Te)."
+  },
+  {
+    "id": 116,
+    "question": "10年に一度のお祭り（　）、村は見物客でにぎわった。",
+    "translation": "Vì là lễ hội 10 năm mới có một lần nên ngôi làng đã náo nhiệt khách tham quan.",
+    "options": ["として", "にあたって", "とあって", "にして"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～とあって」: Vì một tình huống đặc biệt nào đó nên dẫn đến kết quả (thường là sự náo nhiệt hoặc sự việc khác thường). (1) として: Với tư cách. (2) にあたって: Nhân dịp (thường dùng cho hành động có kế hoạch). (4) にして: Phải đến lúc."
+  },
+  {
+    "id": 117,
+    "question": "まさか…あのテレビのアナウンサーがガンだった（　）、知らなかった。",
+    "translation": "Không thể nào... tôi đã không hề biết chuyện người phát thanh viên đó bị ung thư.",
+    "options": ["とは", "にすら", "わけに", "ものを"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～とは」: Cái việc mà... (diễn tả sự ngạc nhiên, sững sờ trước một sự thật). (2) にすら: Ngay cả. (4) ものを: Lẽ ra thì... (tiếc nuối)."
+  },
+  {
+    "id": 118,
+    "question": "可能性がないとは言わない（　）も、限りなくゼロに近いね。",
+    "translation": "Dẫu không thể nói là không có khả năng, nhưng nó cũng gần như bằng không rồi.",
+    "options": ["すら", "から", "ばかり", "まで"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～ないまでも」: Dẫu không đến mức A nhưng cũng đạt mức B (thấp hơn một chút). Cụm '言わないまでも' nghĩa là 'không đến mức khẳng định là không có'. (1, 2, 3) Không tạo thành cấu trúc nhượng bộ tương ứng."
+  },
+  {
+    "id": 119,
+    "question": "これこそ日本の味だ。日本（　）の独特の風味がある。",
+    "translation": "Đây chính xác là hương vị Nhật Bản. Nó có mùi vị đặc trưng mà chỉ Nhật Bản mới có.",
+    "options": ["であれ", "ならでは", "らしき", "ごとき"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～ならでは」: Chỉ có ở... (dùng để khen ngợi cái đặc sắc duy nhất của một đối tượng). (1) であれ: Dẫu là. (3) らしき: Có vẻ như. (4) ごとき: Giống như/Loại như (hạ thấp)."
+  },
+  {
+    "id": 120,
+    "question": "妻が離婚を決意する（　）、初めて夫は自分の非に気づいた。",
+    "translation": "Phải đến khi người vợ quyết định ly hôn thì người chồng mới nhận ra lỗi lầm của mình.",
+    "options": ["にひきかえ", "について", "にいたって", "に際して"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～にいたって（初めて）」: Phải đến khi sự việc tiến triển đến mức... thì mới (thường là một tình huống nghiêm trọng). (1) にひきかえ: Trái ngược với. (2) について: Về. (4) に際して: Khi làm gì đó (trang trọng)."
+  },
+  {
+    "id": 121,
+    "question": "たかが不合格だと思っても、「死にます」って手紙に書いてあったんだ。命に（　）ことなんだ。ほっておけないよ。",
+    "translation": "Dẫu có nghĩ chỉ là trượt thôi, nhưng trong thư lại viết là 'Tôi sẽ chết'. Đây là việc liên quan đến tính mạng, không thể bỏ mặc được.",
+    "options": ["いたる", "かかわる", "あたる", "かわる"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～にかかわる」: Liên quan đến/Ảnh hưởng đến (thường đi với những thứ quan trọng như 命, 名誉, 評判). (1) いたる: Dẫn đến. (3) あたる: Tương đương với. (4) かわる: Thay thế."
+  },
+  {
+    "id": 122,
+    "question": "勉強家の弟（　）、兄は遊んでばかりいる。",
+    "translation": "Trái ngược với người em chăm học, người anh lại suốt ngày chơi bời.",
+    "options": ["にひきかえ", "はもとより", "とはいえ", "とともに"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～にひきかえ」: Trái ngược hoàn toàn với... (dùng để so sánh hai đối tượng có tính chất đối lập mạnh). (2) はもとより: A là đương nhiên, ngoài ra còn B. (3) とはいえ: Dẫu nói là. (4) とともに: Cùng với."
+  },
+  {
+    "id": 123,
+    "question": "大人気だった第一回目のコンサートにも（　）、今回はチケット発売時から申し込みが殺到している。",
+    "translation": "Thậm chí còn hơn cả buổi hòa nhạc lần thứ nhất vốn đã rất được yêu thích, lần này lượng đăng ký đã đổ xô tới ngay từ khi mở bán vé.",
+    "options": ["ひきかえ", "まして", "いたって", "あたって"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～にもまして」: Hơn cả... (so sánh với một sự việc vốn đã ở mức độ cao trong quá khứ). (1, 3, 4) Không hợp ngữ nghĩa nhấn mạnh sự vượt trội này."
+  },
+  {
+    "id": 124,
+    "question": "あなたのことを思えば（　）、こんなに厳しくいうのです。",
+    "translation": "Chính vì nghĩ cho anh nên tôi mới nói khắc nghiệt như thế này.",
+    "options": ["から", "こそ", "すら", "だけ"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「V-ば / N-なら + こそ」: Chính vì... (nhấn mạnh nguyên nhân trực tiếp, vế sau thường là một hành động có vẻ trái ngược nhưng thực chất là vì tốt cho đối tượng). (1) から: Vì (không đủ mạnh). (3) すら: Ngay cả."
+  },
+  {
+    "id": 125,
+    "question": "こんな簡単なことは、わざわざ先生にきく（　）、辞書をひけばわかります。",
+    "translation": "Việc đơn giản thế này thì không cần thiết phải hỏi giáo viên, cứ tra từ điển là hiểu.",
+    "options": ["ほどもなく", "わけもなく", "はずもなく", "までもなく"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～までもなく」: Không cần thiết phải làm gì đó (vì đã quá rõ ràng hoặc dễ dàng). (1) ほどもなく: Chẳng mấy chốc. (2) わけもなく: Không có lý do gì. (3) はずもなく: Làm gì có chuyện (phủ định phán đoán)."
+  },
+  {
+    "id": 126,
+    "question": "だれもが有名になりたがるが、有名である（　）悩みというものもある。",
+    "translation": "Ai cũng muốn nổi tiếng, nhưng cũng có những nỗi khổ chính vì sự nổi tiếng đó.",
+    "options": ["ごときの", "かわりの", "がゆえの", "だけの"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～がゆえ（に/の）」: Vì/Do... (văn viết trang trọng, thường chỉ nguyên nhân dẫn đến kết quả tất yếu). (1) ごときの: Giống như/Loại như. (2) かわりの: Thay vì."
+  },
+  {
+    "id": 127,
+    "question": "きみの実力を（　）すれば、日本語能力試験など恐れるにたりない。",
+    "translation": "Nếu dựa trên thực lực của em, thì kỳ thi JLPT chẳng có gì đáng sợ cả.",
+    "options": ["ように", "とって", "かぎりに", "もって"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～をもってすれば」: Nếu dựa trên/Nếu bằng (phương tiện, năng lực)... thì (thường đi với đánh giá về một kết quả thuận lợi). (2) とって: Đối với. (3) かぎりに: Hết mức."
+  },
+  {
+    "id": 128,
+    "question": "まわりの人々の忠告（　）、わがままを通して来た彼ももうすぐ人の親になる。",
+    "translation": "Bất chấp những lời khuyên bảo của mọi người xung quanh, anh ta vốn luôn làm theo ý mình rồi cũng sắp sửa trở thành cha mẹ người ta rồi.",
+    "options": ["をよそに", "はもとより", "はやり", "をかぎりに"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～をよそに」: Mặc kệ/Bất chấp... (thường là sự lo lắng, khuyên bảo, phê phán của người khác) để thực hiện một hành động nào đó. (2) はもとより: Không chỉ... (đã đành) mà còn. (3) はやり: Không phải cấu trúc. (4) をかぎりに: Đến hết/Kể từ..."
+  },
+  {
+    "id": 129,
+    "question": "課長の S は、策略家で、社長に（　）、いろいろ裏工作をしていると聞く。",
+    "translation": "Nghe nói trưởng phòng S là một kẻ đầy mưu mô, đang thực hiện nhiều thủ đoạn ngầm để leo lên chức giám đốc.",
+    "options": ["ならぬがために", "ならんがために", "なるまいがために", "ならないがために"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「V-んがために」: Để/Nhằm mục đích... (văn viết cổ, trang trọng). 'ならんがために' là dạng cổ của 'なるために'. (1, 3, 4) Không phải cấu trúc chuẩn để chỉ mục đích trong văn phong này."
+  },
+  {
+    "id": 130,
+    "question": "子どものけんかに親がわざわざ口出しをする（　）。それぐらいのこと子ども同士で解決させろ。",
+    "translation": "Không cần thiết phải để cha mẹ xen vào cuộc cãi vã của trẻ con. Việc tầm đó cứ để bọn trẻ tự giải quyết với nhau đi.",
+    "options": ["までだ", "までもない", "ものだ", "のもでもない"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～までもない」: Không cần thiết phải làm gì đó (vì đã rõ ràng hoặc quá đơn giản). (1) までだ: Chỉ là/Đành phải. (3) ものだ: Là chuyện đương nhiên/Thói thường. (4) のもでもない: Sai cấu trúc."
+  },
+  {
+    "id": 131,
+    "question": "あの冷静な A さん（　）上がってしまうのだから、そうでない我々はどうなることか。",
+    "translation": "Đến cả một người điềm tĩnh như anh A mà còn bị cuống quýt lên, thì những người như chúng ta không biết sẽ ra sao nữa.",
+    "options": ["だから", "にして", "こそ", "なのに"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～にして」: Ngay cả/Đến cả (một đối tượng ở mức độ cao) mà còn... (thường đi với vế sau mang tính ngạc nhiên). (1) だから: Vì vậy. (3) こそ: Chính vì. (4) なのに: Mặc dù."
+  },
+  {
+    "id": 132,
+    "question": "ファミコンにかけては、子ども（　）、バカにはできない。",
+    "translation": "Nếu nói về điện tử (Famicom), thì dẫu là trẻ con cũng không thể coi thường được đâu.",
+    "options": ["というなら", "といったが", "といって", "といえども"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～といえども」: Dẫu nói là/Ngay cả là... (nhấn mạnh sự nhượng bộ). (1) というなら: Nếu nói là. (2) といったが: Đã nói là (nhưng). (3) といて: Nói là (sai ngữ pháp)."
+  },
+  {
+    "id": 133,
+    "question": "うちの母親におかずが少ないとか、まずいとか（　）が最後、つぎから食事は作ってもらえない。",
+    "translation": "Một khi đã lỡ chê mẹ tôi là thức ăn ít hay chán, thì từ lần sau đừng hòng được bà nấu cho ăn nữa.",
+    "options": ["言った", "言って", "言う", "言わない"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「V-た + が最後」: Một khi đã... (thường dẫn đến một kết quả xấu không thể cứu vãn). (2, 3, 4) Không kết hợp được với cấu trúc 'が最後'."
+  },
+  {
+    "id": 134,
+    "question": "主婦は、夫と子どもを残して、旅行で 3 日も家をあけると、家の中がどうなっているか、（　）だに恐ろしいという。",
+    "translation": "Người nội trợ nói rằng, nếu bỏ chồng con lại mà đi du lịch 3 ngày, thì chỉ cần tưởng tượng xem nhà cửa ra sao thôi cũng đã thấy khiếp sợ rồi.",
+    "options": ["想像する", "想像できる", "想像せず", "想像せぬ"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～だに」: Chỉ cần... thôi cũng đã (thường đi với 想像する, 考える, 聞く). (2) 想像できる: Có thể tưởng tượng. (3, 4) Dạng phủ định không đi với 'だに' trong ngữ cảnh này."
+  },
+  {
+    "id": 135,
+    "question": "友人が病院に運ばれたときたときは、もうだめかと思ったが、かろうじて命だけは（　）。",
+    "translation": "Khi người bạn được đưa vào viện, tôi cứ ngỡ là xong đời rồi, nhưng may mắn là ít nhất tính mạng cũng đã được cứu.",
+    "options": ["たすかるわけだ", "たすかるしまった", "たすかるにあたらなかった", "たすかったようだ"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～ようだ」: Có vẻ như/Dường như (đưa ra phán đoán dựa trên tình hình). (1) たすかるわけだ: Thảo nào mà được cứu. (2) たすかるしまった: Sai ngữ pháp. (3) たすかるにあたらなかった: Không đáng để được cứu (sai nghĩa)."
+  },
+  {
+    "id": 136,
+    "question": "強引で一方的なところがある彼は、人の話をろくに（　）。",
+    "translation": "Anh ta là kẻ độc đoán và áp đặt, chẳng thèm nghe lời người khác nói gì cả.",
+    "options": ["ききようがない", "きくべきではない", "きこうとしない", "きかないわけにはいかない"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「V-よう + としない」: Hoàn toàn không có ý định làm gì/Không chịu làm gì. (1) ききようがない: Không có cách nào nghe được. (2) きくべきではない: Không nên nghe. (4) きかないわけにはいかない: Không thể không nghe."
+  },
+  {
+    "id": 137,
+    "question": "あなたを心配しているからこそ、わたしはあなたに、厳しく注意する（　）。",
+    "translation": "Chính vì lo lắng cho anh nên tôi mới nhắc nhở anh một cách nghiêm khắc như thế.",
+    "options": ["ものです", "はずです", "のです", "ことです"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～（の）です」: Dùng để giải thích lý do, nhấn mạnh sự khẳng định khi đi kèm với 'からこそ'. (1) ものです: Là chuyện đương nhiên. (2) はずです: Chắc chắn là (phán đoán). (4) ことです: Nên làm gì đó (lời khuyên)."
+  },
+  {
+    "id": 138,
+    "question": "通信販売に人気が集まっている。確かに便利なものであるとはいえ、実際に品物を見ないことには、（　）。",
+    "translation": "Mua sắm qua mạng đang rất được ưa chuộng. Dẫu biết là tiện lợi thật đấy, nhưng nếu không tận mắt nhìn thấy món hàng thì không thể yên tâm được.",
+    "options": ["安心してやまない", "安心するかぎりだ", "安心するにはあたらない", "安心できそうもない"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～ないことには ～ない」: Nếu không... thì không thể... (vế sau thường mang nghĩa phủ định khả năng). (1) してやまない: Luôn luôn (cầu chúc). (2) かぎりだ: Cực kỳ. (3) にはあたらない: Không đáng để."
+  },
+  {
+    "id": 139,
+    "question": "全員合格を目指してがんばったが、実際に合格できたのは 50 % （　）。",
+    "translation": "Chúng tôi đã cố gắng với mục tiêu tất cả đều đỗ, nhưng thực tế thì số người đỗ được cũng chỉ dừng lại ở mức 50% thôi.",
+    "options": ["を過ぎた", "に過ぎなかった", "まで過ぎた", "しか過ぎなかった"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～に過ぎない」: Chỉ là/Chẳng qua cũng chỉ là... (nhấn mạnh mức độ thấp hoặc ít). (4) 'しか' không đi với '過ぎる' trong cấu trúc này. (1, 3) Mang nghĩa 'vượt quá', không hợp ngữ cảnh muốn nói 'chỉ có'."
+  },
+  {
+    "id": 140,
+    "question": "旅行に行って、少しのんびりしたいと思うが、会社が休みをくれないのでは、行きたくても（　）。",
+    "translation": "Tôi muốn đi du lịch để nghỉ ngơi một chút, nhưng nếu công ty không cho nghỉ thì dẫu có muốn đi đi chăng nữa cũng không có cách nào đi được.",
+    "options": ["行かざるをえない", "行かないではいられない", "行きようがない", "行かずにはすまない"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「V-ます + ようがない」: Không có cách nào để.... (1) 行かざるをえない: Buộc phải đi. (2) 行かないではいられない: Không thể không đi (do cảm xúc thôi thúc). (4) 行かずにはすまない: Không đi thì không xong (về mặt đạo đức/trách nhiệm)."
+  },
+  {
+    "id": 142,
+    "question": "「ミスをなくせ」と言われても、機械ではあるまいし、完璧な仕事は、そう簡単に（　）。",
+    "translation": "Dẫu bị nhắc là 'hãy xóa bỏ lỗi lầm', nhưng tôi cũng chẳng phải máy móc, công việc hoàn hảo thì không thể làm xong dễ dàng thế được.",
+    "options": ["できるものではない", "できるつもりはない", "できないものでもない", "できないつもりはない"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～ものではない」: Không thể/Không nên (mang tính bản chất hoặc lẽ thường). (2) できるつもりはない: Không có ý định có thể làm. (3) できないものでもない: Không hẳn là không thể làm được. (4) できないつもりはない: Không có ý định là không thể làm."
+  },
+  {
+    "id": 143,
+    "question": "冗談が好きでいつもみんなを笑わせてくれる彼だが、少し冗談が（　）。",
+    "translation": "Anh ấy là người thích đùa và luôn làm mọi người cười, nhưng những lời đùa cợt ấy có phần hơi quá đà.",
+    "options": ["過ぎるにたえない", "過ぎるきらいがある", "過ぎないまでのことだ", "過ぎないものがある"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～きらいがある」: Có xu hướng/Có thói xấu là.... (1) 過ぎるにたえない: Không chịu nổi việc quá đà. (3) 過ぎないまでのことだ: Chỉ là không quá đà mà thôi. (4) 過ぎないものがある: Có những thứ không quá đà."
+  },
+  {
+    "id": 144,
+    "question": "優しくて冷静な彼といえども、場合によっては感情的な反応を（　）。",
+    "translation": "Dẫu anh ấy là người hiền lành và điềm tĩnh, nhưng tùy trường hợp cũng có lúc anh ấy phản ứng cảm tính.",
+    "options": ["示さんばかりである", "示しつつある", "示すまい", "示すこともある"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～こともある」: Cũng có lúc/Cũng có khi.... (1) 示さんばかりである: Cứ như thể sắp thể hiện ra. (2) 示しつつある: Đang dần thể hiện. (3) 示すまい: Chắc là sẽ không thể hiện."
+  },
+  {
+    "id": 145,
+    "question": "不況が続く中、どの会社も生き残るために必死である。しかし、社員（　）会社なのだから、社員に負担をかけるようなことは、できるだけ避けなければならない。",
+    "translation": "Trong tình cảnh suy thoái kéo dài, công ty nào cũng quyết tử để tồn tại. Tuy nhiên, vì công ty tồn tại được là nhờ có nhân viên, nên phải cố gắng tránh việc gây gánh nặng cho họ.",
+    "options": ["かぎりの", "ずくめの", "まみれの", "あっての"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「N + あっての」: Có được/Tồn tại được là nhờ.... (1) かぎりの: Hết mức. (2) ずくめの: Toàn là. (3) まみれの: Dính đầy (bùn, nợ)."
+  },
+  {
+    "id": 146,
+    "question": "今のような情報化社会では、メディアを通してさまざまな体験ができるようになった。だからこそ、実際に（　）体験することの重要性も増してきている。",
+    "translation": "Trong xã hội thông tin như hiện nay, chúng ta có thể trải nghiệm nhiều thứ qua truyền thông. Chính vì vậy, tầm quan trọng của việc đích thân trải nghiệm thực tế cũng ngày càng tăng lên.",
+    "options": ["身をおいて", "身をもって", "身をものともせず", "身をよそに"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「身をもって」: Bằng chính bản thân/Đích thân (trải nghiệm). (1) 身をおいて: Đặt mình vào (vị trí). (3) 身をものともせず: Bất chấp hiểm nguy cho bản thân. (4) 身をよそに: Không màng đến bản thân."
+  },
+  {
+    "id": 147,
+    "question": "なぜ、彼女はわたしに相談してくれなかったのだろう。わたしに相談してくれさえすれば、いくらでも力になった（　）。彼女の立場を思うと分からないでもないが、いまさらながら、悔やまれる。",
+    "translation": "Tại sao cô ấy lại không bàn bạc với tôi nhỉ? Giá mà cô ấy chịu hỏi tôi thì lẽ ra tôi đã có thể giúp ích được bao nhiêu rồi. Suy cho cùng thì cũng hiểu cho hoàn cảnh của cô ấy, nhưng đến giờ tôi vẫn thấy hối tiếc.",
+    "options": ["ものの", "ものだ", "ものを", "ものか"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～ものを」: Giá mà... thì hay biết mấy/Lẽ ra thì... (diễn tả sự tiếc nuối về một việc không xảy ra). (1) ものの: Mặc dù. (2) ものだ: Là chuyện đương nhiên. (4) ものか: Làm gì có chuyện đó (phủ định mạnh)."
+  },
+  {
+    "id": 148,
+    "question": "消費税を廃止しろと言う人がいる。しかし、歴史を後戻り（　）。むしろ、所得税をすべて消費税に切り替えることの方が、現在の消費社会に適していて現実的だ。",
+    "translation": "Có người nói hãy bãi bỏ thuế tiêu thụ. Thế nhưng, không được phép làm lịch sử đi lùi. Ngược lại, việc chuyển toàn bộ thuế thu nhập sang thuế tiêu thụ sẽ thực tế và phù hợp hơn với xã hội tiêu dùng hiện nay.",
+    "options": ["させるべきではない", "させるしかない", "させないわけがない", "させないではすまない"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～べきではない」: Không nên/Không được phép làm gì đó. (2) させるしかない: Chỉ còn cách làm cho... (3) させないわけがない: Không có chuyện là không làm cho... (4) させないではすまない: Không làm cho... thì không xong."
+  },
+  {
+    "id": 149,
+    "question": "知人の K 氏は、日本の大都市で暮らしながら、毎年、母国から来日する留学生の世話をしている。自分の仕事をもちながら苦労して後輩のめんどうを見るのは、彼自身、かつて留学生だった（　）。後輩を育てることが、現在の彼の生きがいである。",
+    "translation": "Ông K, người quen của tôi, vừa sống ở đô thị lớn của Nhật vừa chăm sóc các du học sinh từ mẫu quốc sang mỗi năm. Việc ông ấy vừa làm việc vừa vất vả chăm lo cho hậu bối chính là vì bản thân ông ấy ngày trước cũng từng là du học sinh. Nuôi dưỡng thế hệ sau chính là lẽ sống hiện tại của ông ấy.",
+    "options": ["からはしかたがない", "よりほかにない", "からにほかならない", "ことになっている"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～にほかならない」: Chính xác là/Không gì khác ngoài.... (1) からはしかたがない: Vì... nên không còn cách nào khác. (2) よりほかにない: Không còn cách nào khác ngoài... (4) ことになっている: Theo quy định/Theo kế hoạch là..."
+  },
+  {
+    "id": 150,
+    "question": "今、思い出してみると、学生時代は本当にのんびりしていた。それが、就職して社会の一員に（　）、ほとんど自分の生活をふりかえる余裕もなく、仕事に追われる毎日となってしまった。",
+    "translation": "Bây giờ nhớ lại, thời sinh viên thật sự rất thong thả. Thế mà, kể từ khi đi làm và trở thành một thành viên của xã hội, tôi chẳng còn dư dả thời gian để nhìn lại cuộc sống của mình, mỗi ngày đều bị công việc cuốn đi.",
+    "options": ["なったそばから", "なってからというもの", "なろうものなら", "なってからでないと"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「V-て + からというもの」: Kể từ sau khi... thì có một sự thay đổi lớn kéo dài mãi về sau. (1) そばから: Vừa mới... thì ngay lập tức (lặp đi lặp lại). (3) なろうものなら: Nếu lỡ mà... (hệ quả xấu). (4) からでないと: Nếu không làm... thì không thể."
+  },
+  {
+    "id": 151,
+    "question": "確かに計画が失敗した責任は彼にある。だからといって、人の悪口を、その人のいないところで（　）。人のことを悪く言えば、必ずその言葉は自分に返ってくるからである。",
+    "translation": "Đúng là anh ấy có trách nhiệm trong việc kế hoạch thất bại. Tuy nhiên, không nên nói xấu người khác sau lưng họ. Bởi vì nếu nói xấu người khác, những lời đó chắc chắn sẽ quay lại với chính mình.",
+    "options": ["言わずにはおかない", "言わないものではない", "言うものではない", "言わざるをえない"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～ものではない」: Không nên làm gì đó (lời khuyên mang tính đạo đức/lẽ thường). (1) ずにはおかない: Nhất định sẽ làm/Không thể không làm. (2) 言わないものではない: Không phải là không nói. (4) 言わざるをえない: Buộc phải nói."
+  },
+  {
+    "id": 152,
+    "question": "なぜ「いじめ」のような事件が起きるのであろうか。いろいろ議論は（　）学校の内部だけの問題でないことは確かである。",
+    "translation": "Tại sao những vụ việc như 'bắt nạt' lại xảy ra? Dẫu có nhiều tranh luận đi chăng nữa, thì có một điều chắc chắn rằng đó không chỉ là vấn đề nội bộ của trường học.",
+    "options": ["あるのみならず", "あるにせよ", "あるまでもなく", "あるかわりに"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～にせよ / にしろ」: Cho dù là... đi chăng nữa. (1) のみならず: Không chỉ. (3) までもなく: Không cần thiết phải. (4) かわりに: Thay vì/Bù lại."
+  },
+  {
+    "id": 153,
+    "question": "あの戦争から 50 年以上がたつというのに、今も世界のあちこちで争いが絶えない。地球全体が病気にかかっているようで、将来を（　）。",
+    "translation": "Dẫu đã hơn 50 năm trôi qua kể từ cuộc chiến đó, xung đột vẫn không ngừng diễn ra khắp nơi trên thế giới. Cứ như thể cả Trái Đất đang bị bệnh, tôi không thể không lo lắng cho tương lai.",
+    "options": ["心配せずにはいられない", "心配するものではない", "心配するべきではない", "心配せずにはおかない"],
+    "answer": 0,
+    "explanation": "Đúng: (0) 「～ずにはいられない」: Không thể không... (tự nhiên cảm xúc trào dâng). (1) するものではない: Không nên lo lắng. (2) するべきではない: Không được lo lắng. (3) せずにはおかない: Nhất định sẽ làm cho (ai đó) lo lắng/Nhất định phải lo."
+  },
+  {
+    "id": 154,
+    "question": "人間は社会的な動物であり、特に現代の情報社会では社会を意識しないでは生きて行けない。しかし、人が何と（　）、絶対に変わらない強い意志も必要である。",
+    "translation": "Con người là động vật xã hội, đặc biệt trong xã hội thông tin hiện nay, ta không thể sống mà không ý thức về xã hội. Thế nhưng, dẫu người ta có nói gì đi nữa, ta vẫn cần một ý chí mạnh mẽ tuyệt đối không thay đổi.",
+    "options": ["言いながらも", "言うまじき", "言おうと", "言うまいと"],
+    "answer": 2,
+    "explanation": "Đúng: (2) 「V-よう + と (も)」: Cho dù... đi chăng nữa (Dạng ý chí + と). (1) ながらも: Mặc dù. (2) 言うまじき: Không được phép nói (văn cổ). (3) 言うまいと: Cho dù không nói (phủ định của 言おうと)."
+  },
+  {
+    "id": 155,
+    "question": "天候に（　）明日は遠足に行きます。",
+    "translation": "Bất kể thời tiết thế nào, ngày mai chúng ta vẫn sẽ đi dã ngoại.",
+    "options": ["かかわらず", "よると", "よれば", "かわり"],
+    "answer": 0,
+    "explanation": "Đúng: (0) 「～にかかわらず」: Bất kể/Bất chấp... (1) よると/よれば: Theo như. (3) かわり: Thay vì."
+  },
+  {
+    "id": 156,
+    "question": "子どもたちは動物園に着く（　）おやつを食べ出した。",
+    "translation": "Bọn trẻ vừa mới tới sở thú một cái là đã lôi quà vặt ra ăn ngay.",
+    "options": ["はやか", "はやるか", "はやすぎて", "はやめて"],
+    "answer": 0,
+    "explanation": "Đúng: (0) 「V-る + が早いか」: Vừa mới... thì ngay lập tức (hành động xảy ra gần như đồng thời). (1, 2, 3) Không tạo thành cấu trúc ngữ pháp tương ứng."
+  },
+  {
+    "id": 157,
+    "question": "試験の結果を（　）クラス分けを行います。",
+    "translation": "Chúng tôi sẽ tiến hành chia lớp dựa trên kết quả kỳ thi.",
+    "options": ["めぐって", "もとづいて", "かぎりにして", "もとにして"],
+    "answer": 3,
+    "explanation": "Đúng: (3) 「～をものにして」: Dựa trên/Lấy cái gì làm căn cứ/chất liệu. (1) めぐって: Xoay quanh (tranh luận). (1) もとづいて: Dựa theo (tiêu chuẩn, luật lệ - thường đi với N + に). (2) かぎりにして: Sai cấu trúc."
+  },
+  {
+    "id": 158,
+    "question": "帰国のあいさつ（　）おみやげを持って先生のお宅を訪問した。",
+    "translation": "Tôi đã mang quà đến thăm nhà thầy giáo nhân tiện để chào hỏi trước khi về nước.",
+    "options": ["がらみに", "かたがた", "かねて", "がために"],
+    "answer": 1,
+    "explanation": "Đúng: (1) 「N + かたがた」: Nhân tiện/Sẵn dịp làm việc A thì làm luôn việc B (văn phong trang trọng). (0) がらみに: Liên quan đến. (2) かねて: Kết hợp (V-ます + かねて). (3) がために: Vì mục đích."
+  },
+  {
+    "id": 159,
+    "question": "彼は学生として許す（　）行為を行ったとして退学させられた。",
+    "translation": "Anh ta đã bị đuổi học vì thực hiện hành vi không thể tha thứ với tư cách là một sinh viên.",
+    "options": ["べく", "べき", "べからざる", "べからず"],
+    "answer": 2,
+    "explanation": "Đúng: (2) 「～べからざる + N」: (Một N) không được phép/không thể... (văn viết cổ). (0) べく: Để. (1) べき: Nên. (3) べからず: Cấm (dùng ở cuối câu mệnh lệnh)."
+  },
+  {
+    "id": 160,
+    "question": "卒業生の健康と幸せを願って（　）。",
+    "translation": "Tôi luôn không ngừng cầu chúc cho sức khỏe và hạnh phúc của các em sinh viên tốt nghiệp.",
+    "options": ["やまない", "そういない", "とまらない", "すまない"],
+    "answer": 0,
+    "explanation": "Đúng: (0) 「V-て + やまない」: Luôn luôn/Không ngừng... (thường đi với 願う, 祈る, 期待する). (1, 2, 3) Không kết hợp với thể Te để mang nghĩa này."
+  },
+  {
+    "id": 161,
+    "question": "今日は朝からいいこと（　）しあわせな気分だ。",
+    "translation": "Hôm nay từ sáng tới giờ toàn là chuyện tốt nên tâm trạng thật hạnh phúc.",
+    "options": ["ずくめで", "よりで", "あふれて", "かぎりで"],
+    "answer": 0,
+    "explanation": "Đúng: (0) 「N + ずくめ」: Toàn là... (thường đi với những thứ trừu tượng như いいこと, 黒, 記録). (2) あふれて: Tràn đầy (thường đi với N + に). (3) かぎりで: Đến mức tối đa."
+  },
+  {
+    "id": 162,
+    "question": "原子力発電所の建設に（　）住民との話し合いが持たれた。",
+    "translation": "Nhân dịp xây dựng nhà máy điện hạt nhân, một cuộc thảo luận với người dân đã được tổ chức.",
+    "options": ["かけて", "わたって", "あたって", "うけて"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～にあたって」: Nhân dịp/Vào thời điểm (thường dùng cho các sự kiện quan trọng, trang trọng). (1) かけて: Từ... đến. (2) わたって: Suốt/Trải dài. (4) うけて: Tiếp nhận."
+  },
+  {
+    "id": 163,
+    "question": "あのレストランの料理は量（　）味（　）文句のつけようがない。",
+    "translation": "Món ăn của nhà hàng đó dù là về lượng hay về vị thì đều không có gì để phàn nàn cả.",
+    "options": ["とに、とに", "をよそに、をよそに", "をかね、をかね", "といい、といい"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～といい～といい」: Dù là... hay là... (liệt kê các ví dụ để đưa ra đánh giá chung). (1) とに: Sai cấu trúc. (2) をよそに: Bất chấp/Mặc kệ. (3) をかね: Nhân tiện/Kiêm."
+  },
+  {
+    "id": 164,
+    "question": "駅前のスーパーまで散歩（　）買い物に行った。",
+    "translation": "Tôi đi bộ đến siêu thị trước nhà ga, sẵn tiện đi mua sắm luôn.",
+    "options": ["がてら", "につれて", "にともなって", "かたわら"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～がてら」: Nhân tiện/Sẵn tiện (làm việc A rồi thực hiện luôn việc B trong cùng một lộ trình/hoàn cảnh). (2) につれて: Cùng với (sự thay đổi). (3) にともなって: Kéo theo. (4) かたわら: Vừa... vừa (làm hai việc song song, thường là công việc chính và phụ)."
+  },
+  {
+    "id": 165,
+    "question": "犯人は買い物をしていた（　）警官に逮捕された。",
+    "translation": "Tên tội phạm đã bị cảnh sát bắt giữ ngay đúng lúc đang đi mua sắm.",
+    "options": ["ところに", "ところを", "あいだ", "そばから"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～ところを」: Đúng lúc/Đúng vào khoảnh khắc... (thường vế sau là một hành động gây gián đoạn hoặc bắt giữ). (1) ところに: Đúng lúc đó (thường vế sau là sự việc xảy ra làm thay đổi tình trạng). (3) あいだ: Trong khi. (4) そばから: Vừa mới... thì ngay lập tức."
+  },
+  {
+    "id": 166,
+    "question": "列にわりこむなど紳士にある（　）行為だ。",
+    "translation": "Hành động như chen ngang vào hàng lối là hành vi không được phép có ở một quý ông.",
+    "options": ["まい", "まじき", "らしい", "べき"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～まじき (+ 名詞)」: Không thể chấp nhận được/Không được phép (với tư cách là...). (1) まい: Chắc là không/Không định. (3) らしい: Có vẻ/Đúng chất. (4) べき: Nên."
+  },
+  {
+    "id": 167,
+    "question": "ああでもない、こうでもないと迷惑をかけたあげく、あの（　）。",
+    "translation": "Sau khi gây phiền hà hết chuyện này đến chuyện nọ, kết cục lại tệ hại như thế kia.",
+    "options": ["かぎりだ", "しまつだ", "しまいだ", "おわりだ"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～しまつだ」: Kết cục là/Kết quả là... (thường dùng cho kết quả xấu sau một quá trình tiêu cực). (1) かぎりだ: Cực kỳ. (3) しまいだ: Là xong/Là hết. (4) おわりだ: Là kết thúc."
+  },
+  {
+    "id": 168,
+    "question": "十代の娘じゃ（　）そんなはでなリボンはつけられませんよ。",
+    "translation": "Nếu không phải là thiếu nữ mười mấy tuổi thì không thể đeo cái ruy băng sặc sỡ thế kia đâu.",
+    "options": ["ありながら", "ありそうに", "あるまいし", "あるほどに"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～あるまいし / ではあるまいし」: Vì không phải là... nên (không nên làm gì đó/không thể làm gì đó). (1) ありながら: Mặc dù là. (2) ありそうに: Có vẻ như là. (4) あるほどに: Đến mức."
+  },
+  {
+    "id": 169,
+    "question": "風呂の水を（　）出かけてしまった。",
+    "translation": "Tôi đã đi ra ngoài mà cứ để mặc nước bồn tắm đang chảy.",
+    "options": ["だしにして", "だしっぱなしにして", "だしつつ", "だしおいて"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「V-ます + っぱなし」: Cứ để nguyên một trạng thái nào đó (thường là trạng thái không tốt). (1) だしにして: Lấy làm cớ. (3) だしつつ: Vừa làm... vừa. (4) だしおいて: Để sẵn (sai cấu trúc 'v-te oiku')."
+  },
+  {
+    "id": 170,
+    "question": "あの患者は重い病気のため、一人では食事（　）。",
+    "translation": "Bệnh nhân đó vì bệnh nặng nên đến cả việc ăn uống một mình cũng không thể làm được.",
+    "options": ["せずにはおかない", "せしめるほどだ", "だにとっている", "すらできない"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～すら (+ できない)」: Ngay cả/Đến cả... (cũng không thể). (1) せずにはおかない: Nhất định sẽ làm. (2) せしめるほどだ: Đến mức làm cho. (3) だにとっている: Sai cấu trúc."
+  },
+  {
+    "id": 171,
+    "question": "今年の米は温暖な気候と適度な雨量とが（　）豊作となった。",
+    "translation": "Gạo năm nay nhờ khí hậu ấm áp kết hợp với lượng mưa vừa phải mà đã có một mùa màng bội thu.",
+    "options": ["あざむいて", "あまって", "あてがって", "あたいして"],
+    "answer": 1,
+    "explanation": "Đúng: (2) 「～と～があいまって」: Kết hợp lại/Cùng với... (tạo ra một kết quả tốt hơn). (1) あざむいて: Lừa dối. (3) あてがって: Cấp cho/Ấn định. (4) あたいして: Xứng đáng."
+  },
+  {
+    "id": 172,
+    "question": "動物保護に（　）重要な環境問題について真剣に議論した。",
+    "translation": "Chúng tôi đã thảo luận nghiêm túc về các vấn đề môi trường quan trọng liên quan đến việc bảo vệ động vật.",
+    "options": ["まもる", "おうして", "よって", "かかわる"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～にかかわる」: Liên quan đến/Ảnh hưởng đến. (1) まもる: Bảo vệ. (2) おうして: Đáp ứng (N + におうじて). (3) よって: Do/Bởi (N + によって)."
+  },
+  {
+    "id": 173,
+    "question": "彼が秘密を外部にもらしたことは想像に（　）。",
+    "translation": "Việc anh ta làm lộ bí mật ra bên ngoài là điều không khó để tưởng tượng.",
+    "options": ["こえない", "こえる", "かたい", "かたくない"],
+    "answer": 3,
+    "explanation": "Đúng: (4) 「～に（は）かたくない」: Không khó để (tưởng tượng, nhận ra...). (1) こえない: Không vượt quá. (2) こえる: Vượt quá (想像を超える: vượt ngoài sức tưởng tượng). (3) かたい: Khó làm gì đó (想像に難い: khó tưởng tượng)."
+  },
+  {
+    "id": 174,
+    "question": "国防費を（　）種々の予算が見直されはじめた。",
+    "translation": "Bắt đầu từ chi phí quốc phòng, các loại ngân sách khác nhau đã bắt đầu được xem xét lại.",
+    "options": ["かわきりに", "ばかりに", "あっての", "みなして"],
+    "answer": 0,
+    "explanation": "Đúng: (1) 「～をかわきりに（して）」: Bắt đầu từ... (sau đó một loạt các sự việc tương tự diễn ra liên tiếp). (2) ばかりに: Chỉ vì. (3) あっての: Tồn tại được là nhờ. (4) みなして: Coi là."
+  },
+  {
+    "id": 175,
+    "question": "任務（　）あの南極で長い冬を越すのは大変なことだろう。",
+    "translation": "Dẫu nói là nhiệm vụ đi chăng nữa, việc vượt qua mùa đông dài ở Nam Cực đó chắc hẳn là một điều cực kỳ vất vả.",
+    "options": ["といえば", "とばかりに", "とはいえ", "ともなく"],
+    "answer": 2,
+    "explanation": "Đúng: (3) 「～とはいえ」: Dẫu nói là/Mặc dù là... (nhưng thực tế vẫn có điều đáng chú ý). (1) といえば: Nếu nói về. (2) とばかりに: Cứ như thể nói rằng. (4) ともなく: Không định... (nhưng bỗng nhiên)."
+  }
+
+
+  
+]

@@ -1,0 +1,1728 @@
+[
+  {
+    "id": "1",
+    "question": "A 社の株価は最近大きく値を上げてきたが、＿＿ ＿＿ ＿★＿ ＿＿と言えなくはない。",
+    "options": [
+      "業績に",
+      "高すぎる",
+      "低迷する",
+      "比して"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (低迷する 業績に 比して 高すぎる)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (4) 比して (chỉ số index 3).<p>• Hướng dẫn sắp xếp: Câu này sử dụng cấu trúc so sánh đối chiếu tỷ lệ 「～に比して」 (So với...). Đề bài cho biết giá cổ phiếu công ty A gần đây tăng mạnh, nhưng vế sau lại mang tính hoài nghi với đuôi 「～と言えなくはない」 (Không hẳn là không thể nói rằng...). Ta ghép động từ chỉ sự trì trệ 「低迷する」 bổ nghĩa cho danh từ kết quả kinh doanh tạo thành cụm 「低迷する業績に」 (so với kết quả kinh doanh đang trì trệ). Cụm này đi liền với từ ngữ pháp 「比して」, và từ so sánh này sẽ bổ nghĩa trực tiếp cho tính từ đánh giá mức độ ở ô trống cuối là 「高すぎる」 (quá cao).<p>• Ý nghĩa câu: Giá cổ phiếu của công ty A gần đây tuy tăng mạnh thật, nhưng nếu so với tình hình kết quả kinh doanh đang trì trệ của họ thì không hẳn là không thể nói rằng mức giá này đang quá cao."
+  },
+  {
+    "id": "2",
+    "question": "もう＿＿ ＿＿ ＿★＿ ＿＿、知らず知らずのうちに彼女のこと好きになっていた。",
+    "options": [
+      "恋などするものかと",
+      "誓ったはずだったが",
+      "固く心に",
+      "二度と"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (二度と 恋などするものかと 固く心に 誓ったはずだったが)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (1) 恋などするものかと (chỉ số index 0).<p>• Hướng dẫn sắp xếp: Sử dụng cấu trúc hạ quyết tâm phủ định tuyệt đối 「二度と～するものか」 (Quyết không bao giờ làm việc gì lần thứ hai). Đầu tiên, ta đưa phó từ phủ định mạnh mẽ lên đầu vế: 「二度と」 đi liền với cụm từ thể hiện thái độ bài xích chuyện yêu đương là 「恋などするものかと」 (Quyết không yêu đương gì nữa). Cụm suy nghĩ này được trích dẫn và đi kèm với thành ngữ khắc cốt ghi tâm 「固く心に」 (vững vàng trong tim) để bổ nghĩa cho động từ thề nguyện chia quá khứ mang tính tiếc nuối ở ô trống cuối là 「誓ったはずだったが」 (đáng lẽ ra đã thề... thế mà).<p>• Ý nghĩa câu: Đáng lẽ ra tôi đã tự thề vững vàng trong lòng rằng bản thân sẽ quyết không bao giờ yêu đương gì nữa, thế mà chẳng biết từ lúc nào tôi đã lỡ đem lòng yêu cô ấy mất rồi."
+  },
+  {
+    "id": "3",
+    "question": "本日は＿＿ ＿★＿ ＿＿ ＿＿戴き、誠にありがとうございます。",
+    "options": [
+      "御出で",
+      "悪い中を",
+      "お足元の",
+      "わざわざ"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-2-4-1 (お足元の 悪い中を わざわざ 御出で) -> Đối chiếu bảng đáp án gốc: 2(3241).<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (2) 悪い中を (chỉ số index 1).<p>• Hướng dẫn sắp xếp: Đây là một câu kính ngữ cố định cực kỳ phổ biến trong giao tiếp công việc tại Nhật khi đón tiếp khách khứa vào ngày thời tiết xấu. Đầu tiên, ta ghép cụm từ miêu tả tình trạng đường sá, thời tiết bất tiện: danh từ kính ngữ 「お足元の」 (đường sá dưới chân quý khách) đi liền với tính từ trạng huống 「悪い中を」 (trong tình trạng tồi tệ/xấu trời). Tiếp theo, ta đưa phó từ thể hiện sự biết ơn đối với công sức của khách vào: 「わざわざ」 (đã cất công) bổ nghĩa cho danh từ hành động kính ngữ tôn kính đứng ở ô cuối là 「御出で」 để kết hợp với đuôi nhận được sự ban ơn 「戴き、誠にありがとうございます」.<p>• Ý nghĩa câu: Ngày hôm nay, trong tình hình thời tiết đường sá mưa gió bất tiện như thế này mà quý khách vẫn quý mến cất công ghé thăm, chúng tôi xin chân thành cảm ơn rất nhiều."
+  },
+  {
+    "id": "4",
+    "question": "昔ほど＿＿ ＿★＿ ＿＿ ＿＿形式は残っている。",
+    "options": [
+      "今も見合い",
+      "ではない",
+      "にしても",
+      "結婚という"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-3-1-4 (ではない にしても 今も見合い 結婚という) -> Đối chiếu bảng đáp án gốc: 3(2314).<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (3) にしても (chỉ số index 2).<p>• Hướng dẫn sắp xếp: Sử dụng cấu trúc ngữ pháp biểu thị sự nhượng bộ, dù thực tế không bằng mức độ ngày xưa nhưng vẫn có phần duy trì 「～にしても」 (Ngay cả khi không... thì/Dù không đến mức... nhưng). Đề bài cho sẵn cụm trạng huống quá khứ 「昔ほど」 (Được như thời xưa), cụm này đi liền với đuôi phủ định tạo thành vế so sánh: 「ではない」 (không phải/không được như vậy). Ta gắn cấu trúc ngữ pháp vào thành cụm 「昔ほどではないにしても」 (Dù cho không còn được rầm rộ hay phổ biến như thời ngày xưa nữa). Tiếp theo, thực tế hiện tại được đưa vào: cụm trạng từ thời gian và hành vi 「今も見合い」 (ngày nay việc mai mối) bổ nghĩa trực tiếp cho cụm danh từ mang tính định nghĩa đứng cuối là 「結婚という」 để đi với danh từ trung tâm 「形式は残っている」.<p>• Ý nghĩa câu: Dù cho ngày nay không còn giữ được sự phổ biến và nghiêm ngặt giống như thời ngày xưa nữa, nhưng thể thức kết hôn theo kiểu xem mắt, mai mối thì cho đến tận bây giờ vẫn còn được duy trì."
+  },
+  {
+    "id": "5",
+    "question": "前回予想外に＿＿ ＿＿ ＿★＿ ＿＿います。",
+    "options": [
+      "全国を回る予定で",
+      "今回の公演は",
+      "好評だったので",
+      "東京を皮切りに"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-2-4-1 (好評だったので 今回の公演は 東京を皮切りに 全国を回る予定で)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (4) 東京を皮切りに (chỉ số index 3).<p>• Hướng dẫn sắp xếp: Tiếp tục gặp lại cấu trúc khơi mào hành động chuỗi hệ thống 「～を皮切りに」 (Bắt đầu từ... sau đó lan ra...). Trước hết, ta đưa lý do tiền đề dựa trên kết quả tốt của quá khứ lên đầu câu: 「好評だったので」 (Vì nhận được những phản hồi rất tích cực ngoài dự kiến từ lần trước). Tiếp theo, chủ ngữ của kế hoạch lần này được đưa vào: 「今回の公演は」 (buổi biểu diễn lần này). Buổi diễn này được lên lịch trình cụ thể: cụm địa điểm xuất phát đầu tiên 「東京を皮切りに」 (khởi đầu xuất phát từ Tokyo) bổ nghĩa cho cụm danh từ kế hoạch di chuyển mở rộng ở ô trống cuối là 「全国を回る予定で」 nhằm đi liền với trạng thái 「います」.<p>• Ý nghĩa câu: Chính vì lần trước nhận được những phản hồi khen ngợi tích cực vượt ngoài mong đợi, nên buổi biểu diễn lần này đang có kế hoạch sẽ đi lưu diễn trên khắp cả nước, với điểm xuất phát đầu tiên chính là tại Tokyo."
+  },
+  {
+    "id": "6",
+    "question": "昨日は犯人扱いされた上に、＿＿ ＿＿ ＿★＿ ＿＿聞かれた。",
+    "options": [
+      "いたるまで",
+      "職業から",
+      "根ほり葉ほり",
+      "私生活に"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (職業から 私生活に いたるまで 根ほり葉ほり)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (1) いたるまで (chỉ số index 0).<p>• Hướng dẫn sắp xếp: Câu này sử dụng cấu trúc ngữ pháp bao quát toàn bộ phạm vi từ điểm đầu đến điểm cuối 「～から～にいたるまで」 (Từ... cho tới tận...). Đề bài cho sẵn một tình cảnh tồi tệ 「昨日は犯人扱いされた上に」 (Hôm qua đã bị đối xử như tội phạm, lại thêm vào đó...). Ta thiết lập phạm vi điều tra gắt gao: cụm bắt đầu 「職業から」 (từ nghề nghiệp) đi liền cụm kết thúc 「私生活に」 và từ ngữ pháp 「いたるまで」 tạo thành cụm trạng ngữ tuyệt đẹp 'từ chuyện nghề nghiệp cho tới tận cả đời tư cá nhân'. Cụm này bổ nghĩa cho phó từ miêu tả hành vi tra hỏi cặn kẽ, tọc mạch đứng ở ô cuối là 「根ほり葉ほり」 (gạn hỏi chân tơ kẽ tóc) để bổ nghĩa cho động từ bị động 「聞かれた」.<p>• Ý nghĩa câu: Ngày hôm qua tôi đã bị người ta đối xử thô bạo như một tên tội phạm, chưa dừng lại ở đó, tôi còn bị họ gạn hỏi vặn vẹo đủ điều cặn kẽ từ chân tơ kẽ tóc, từ chuyện công việc nghề nghiệp cho tới tận cả đời tư cá nhân."
+  },
+  {
+    "id": "7",
+    "question": "他の人にとって厳しいトレーニングでも、あの運動は山田さんに＿＿ ＿＿ ＿★＿ ＿＿。",
+    "options": [
+      "ちょうどいい",
+      "ところだ",
+      "にとっては",
+      "散歩といった"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2(にとっては　ちょうどいい　散歩といった ところだ)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (4) 散歩といった (chỉ số index 3).<p>• Hướng dẫn sắp xếp: Sử dụng mẫu ngữ pháp so sánh tương đương ẩn dụ hoặc chỉ mức độ vừa vặn 「～といったところだ」 (Đại loại cũng chỉ cỡ như... / Có thể nói là tầm...). Đề bài đưa ra vế tương phản 「他の人にとって厳しいトレーニングでも」 (Dù đối với người khác là bài tập khắc nghiệt), vế sau đi liền với danh từ riêng chỉ chủ thể so sánh đặc biệt là 「山田さんに」, ta gắn ngay cấu trúc góc nhìn cá nhân 「にとっては」 (nhưng đối với riêng anh Yamada mà nói). Đối với anh ấy, bài tập đó nhẹ nhàng ra sao? Cụm danh từ ví von 「散歩といった」 (đại loại như là đi dạo bộ) bổ nghĩa cho tính từ chỉ mức độ đứng ở ô cuối là 「ちょうどいい」 để đi với từ đúc kết bản chất sự việc 「ところだ」.<p>• Ý nghĩa câu: Dù đối với người bình thường khác thì đó là một bài tập vô cùng nặng nề và khắc nghiệt, nhưng cái môn vận động đó đối với riêng anh Yamada mà nói thì có lẽ cũng chỉ vừa vặn nhẹ nhàng đại loại giống như là một chuyến đi dạo bộ thư giãn mà thôi."
+  },
+  {
+    "id": "8",
+    "question": "お客様に対して、＿＿ ＿＿ ＿★＿ ＿＿態度だ。",
+    "options": [
+      "店員にある",
+      "使うのは",
+      "まじき",
+      "乱暴な言葉を"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (乱暴な言葉を 使うのは 店員にある まじき)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (1) 店員にある (chỉ số index 0). -> Lưu ý: Đối chiếu bảng đáp án gốc là 1(4213), vị trí số 1 trong ngoặc chính là phương án 「店員にある」 (vị trí thứ 3 trong mảng options, tức index 0).<p>• Hướng dẫn sắp xếp: Câu này áp dụng cấu trúc ngữ pháp phê phán đạo đức hành vi cực kỳ nghiêm khắc 「～にあるまじき」 (Không thể nào chấp nhận được đối với một người ở vị trí...). Ta đưa hành vi sai trái lên trước làm chủ ngữ được danh từ hóa: cụm tân ngữ 「乱暴な言葉を」 (những lời lẽ thô lỗ, cộc lốc) đi liền động từ hành vi 「使うのは」 (việc sử dụng...). Việc sử dụng ngôn từ đó được đánh giá là không thể dung thứ dựa trên thân phận: cụm danh từ vị trí chức vụ 「店員にある」 đi với từ ngữ pháp cấm đoán đạo đức đứng ở ô cuối là 「まじき」 để bổ nghĩa trực tiếp cho danh từ phán xét 「態度だ」.<p>• Ý nghĩa câu: Đối với khách hàng mà lại đi sử dụng những lời lẽ thô lỗ, cộc lốc như thế, thì đây quả thực là một thái độ vô cùng tồi tệ, hoàn toàn không thể nào chấp nhận được đối với một người đang làm nghề nhân viên bán hàng."
+  },
+  {
+    "id": "9",
+    "question": "兄はもと板前だけあって、野菜の＿＿ ＿＿ ＿★＿ ＿＿のける。",
+    "options": [
+      "やって",
+      "鮮やかな",
+      "飾り切りも",
+      "手つきで"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-2-4-2(飾り切りも  鮮やかな 手つきで やって) -> Đối chiếu bảng đáp án gốc: 4(3241) với options gốc tương ứng.<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (2) 鮮やかな (chỉ số index 1).<p>• Hướng dẫn sắp xếp: Sử dụng cấu trúc biểu thị việc hoàn thành một kỹ năng khó một cách nhẹ nhàng, điệu nghệ 「～のける」 (Làm một mạch xong xuôi/Làm được một cách dễ dàng). Đề bài khen ngợi xuất thân của người anh 「兄はもと板前だけあって」 (Anh trai tôi quả đúng là người từng làm đầu bếp có khác), đi liền sau là từ sở hữu đối tượng 「野菜の」 (Của rau củ). Ta kết hợp danh từ sở hữu này với kỹ năng khó: 「飾り切りも」 (ngay cả việc cắt tỉa hoa văn trang trí). Hành động này được thực hiện liên hoàn: động từ nối tiếp trạng thái 「やって」 (thực hiện và...) bổ nghĩa cho tính từ định ngữ chỉ sự điêu luyện 「鮮やかな」 để bổ nghĩa cho danh từ phương thức đứng ở ô cuối là 「手つきで」 (bằng một động tác, thủ pháp vô cùng điêu luyện, nhanh thoăn thoắt).<p>• Ý nghĩa câu: Anh trai tôi quả đúng là người từng có xuất thân làm đầu bếp chuyên nghiệp có khác, ngay cả việc cắt tỉa hoa văn trang trí cho rau củ quả mà anh ấy cũng thực hiện một cách dễ dàng, gọn gàng bằng những động tác thủ pháp vô cùng điêu luyện và đẹp mắt."
+  },
+  {
+    "id": "10",
+    "question": "自分のことを＿＿ ＿＿ ＿★＿ ＿＿、うぬぼれが強い女だね。",
+    "options": [
+      "乙女と公言して",
+      "なんて",
+      "はばからない",
+      "花も恥じらう"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (花も恥じらう 乙女と公言して はばからない なんて)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (3) はばからない (chỉ số index 2).<p>• Hướng dẫn sắp xếp: Câu này lồng ghép thành ngữ chỉ vẻ đẹp mười mươi của người con gái 「花も恥じらう」 (đến hoa cũng phải thẹn thùng e ấp) và cấu trúc ngữ pháp chỉ thái độ trơ trẽn, không biết ngượng phớt lờ dư luận 「～てはばからない」 (Không ngần ngại/Tự phụ tuyên bố mà không biết xấu hổ). Đầu tiên, ta đặt cụm thành ngữ tự ca ngợi nhan sắc lên đầu: 「花も恥じらう」 bổ nghĩa cho danh từ trích dẫn 「乙女と公言して」 (tự công khai tuyên bố mình là một thiếu nữ khiến hoa cũng phải thẹn thùng). Hành vi tự phụ này đi liền với từ ngữ pháp chỉ thái độ táo tợn 「はばからない」 (chẳng thèm nể nang hay biết ngượng ngùng là gì). Cuối cùng, phó từ cảm thán chỉ sự mỉa mai, ngán ngẩm đứng ở ô trống cuối là 「なんて」 để kết nối trực tiếp với lời nhận xét kết câu có sẵn.<p>• Ý nghĩa câu: Bản thân mình như thế mà lại dám mặt dày tự tin đi tuyên bố công khai với bàn dân thiên hạ rằng mình là một thiếu nữ xinh đẹp đến mức 'hoa nhường nguyệt thẹn' mà chẳng biết ngượng ngùng xấu hổ là gì, cái cô nàng đó quả thực là một kẻ tự cao tự đại, ảo tưởng sức mạnh quá mức rồi."
+  },
+  {
+    "id": "1",
+    "question": "この量をたった一人で＿＿ ＿＿ ＿★＿ ＿＿なしえない。",
+    "options": [
+      "なければ",
+      "柴田さんで",
+      "食べ切る",
+      "なんて"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (食べ切る なんて 柴田さんで なければ)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (1) なければ (chỉ số index 0).<p>• Hướng dẫn sắp xếp: Câu này áp dụng cấu trúc phủ định giả định để nhấn mạnh năng lực duy nhất của một cá nhân 「～でなければ～ない」 (Nếu không phải là... thì không thể...). Đề bài mở đầu bằng cụm 「この量をたった一人で」 (Lượng đồ ăn này mà chỉ một mình...). Ta tìm hành động phù hợp đi với lượng đồ ăn là động từ hoàn thành việc ăn 「食べ切る」 (ăn hết sạch). Tiếp theo, ta dùng phó từ mang tính cảm thán, nhấn mạnh mức độ khó tin của hành vi là 「なんて」. Cụm 「食べ切るなんて」 (việc ăn hết sạch như thế) đóng vai trò bổ nghĩa cho điều kiện tiên quyết đứng ở ô trống cuối là danh từ chỉ người 「柴田さんで」 kết hợp từ ngữ pháp phủ định điều kiện 「なければ」 để bắt cặp với đuôi giả định tiêu cực có sẵn là 「なしえない」 (không thể làm được).<p>• Ý nghĩa câu: Việc có thể một mình ăn hết sạch cái lượng đồ ăn khổng lồ như thế này, nếu không phải là người như anh Shibata thì chắc chắn không một ai khác có thể làm nổi đâu."
+  },
+  {
+    "id": "2",
+    "question": "水も食料もない＿＿ ＿＿ ＿★＿ ＿＿大切さを学んだ。",
+    "options": [
+      "助け合うことの",
+      "あって",
+      "状況に",
+      "人々は互いに"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-2-4-1 (状況に あって 人々は互いに 助け合うことの)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (1) 助け合うことの (chỉ số index 0).<p>• Hướng dẫn sắp xếp: Câu này sử dụng cấu trúc ngữ pháp chỉ bối cảnh, tình huống đặc biệt hoạn nạn 「～にあって」 (Trong hoàn cảnh/Dù ở trong bối cảnh...). Đề bài cho sẵn vế khốn cùng 「水も食料もない」 (Không có cả nước lẫn lương thực). Ta gắn liền cụm này với danh từ hoàn cảnh trạng huống 「状況に」 kết hợp với từ ngữ pháp 「あって」 tạo thành vế thiết lập không gian thử thách. Trong hoàn cảnh ngặt nghèo đó, con người phản ứng ra sao? Ta đưa chủ từ số đông vào: 「人々は互いに」 (mọi người đã cùng nhau, tương trợ lẫn nhau) đi liền với cụm hành động được danh từ hóa đứng ở ô trống cuối là 「助け合うことの」 để làm bổ ngữ định ngữ trực tiếp cho danh từ cốt lõi của câu là 「大切さを学んだ」 (đã học được tầm quan trọng của...).<p>• Ý nghĩa câu: Chính trong hoàn cảnh khốn cùng khi mà đến cả nước uống lẫn lương thực đều không có, con người ta mới thực sự thấu hiểu và học được tầm quan trọng to lớn của việc phải biết nương tựa và giúp đỡ lẫn nhau."
+  },
+  {
+    "id": "3",
+    "question": "彼は読書が好きだが、＿＿ ＿＿ ＿★＿ ＿＿しまい、同じ本を何冊も買ってしまう。",
+    "options": [
+      "そばから",
+      "忘れて",
+      "読んだ",
+      "何を読んだか"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (読んだ そばから 何を読んだか　忘れて)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (4) 何を読んだか (chỉ số index 3).<p>• Hướng dẫn sắp xếp: Câu này áp dụng cấu trúc ngữ pháp diễn tả một hành động tiêu cực lặp đi lặp lại ngay lập tức sau một hành động khác 「～そばから」 (Vừa mới... xong là ngay lập tức...). Ta xây dựng mệnh đề hành động trước: động từ quá khứ 「読んだ」 bổ nghĩa cho cụm nghi vấn nội dung sách 「何を読んだか」 (việc bản thân đã đọc cái gì). Cụm nội dung này đi liền với cấu trúc thời gian ngữ pháp 「そばから」 tạo thành nghĩa 'vừa mới đọc xong cái gì là ngay lập tức sau đó'. Hệ quả tiêu cực xảy ra ở ô trống cuối cùng là động từ mất trí nhớ 「忘れて」 để đi trực tiếp vào đuôi kết quả lặp đi lặp lại đáng tiếc cho sẵn là 「しまい、同じ本を何冊も買ってしまう」.<p>• Ý nghĩa câu: Anh ấy tuy là một người rất thích đọc sách, thế nhưng ngặt một nỗi là cứ vừa mới đọc xong cuốn gì là ngay lập tức sau đó lại quên sạch bách, dẫn đến việc cứ vô tình mua đi mua lại cùng một cuốn sách thành nhiều quyển giống nhau."
+  },
+  {
+    "id": "4",
+    "question": "この道具を＿＿ ＿＿ ＿★＿ ＿＿しまった。",
+    "options": [
+      "手放せなくなって",
+      "あまりの便利さに",
+      "一度使ってから",
+      "というもの"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (一度使ってから というもの あまりの便利さに 手放せなくなって)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (1) 手放せなくなって (chỉ số index 0).<p>• Hướng dẫn sắp xếp: Câu này kết hợp hai cấu trúc ngữ pháp: cấu trúc mốc thời gian thay đổi thói quen mãi về sau 「～てからというもの」 (Kể từ sau khi... suốt cho đến nay) và cấu trúc nguyên nhân mức độ cực đoan 「あまりの～に」 (Vì quá... nên...). Trước hết, ta xếp mốc hành động khởi đầu lên đầu câu: 「一度使ってから」 kết hợp với cụm ngữ pháp nối tiếp 「というもの」 tạo thành vế 'kể từ sau khi lỡ dùng thử nó một lần cho đến nay'. Kế tiếp, ta đưa nguyên nhân tâm lý vào: cụm từ chỉ tính chất vượt trội 「あまりの便利さに」 (chính vì sự tiện lợi quá đỗi của nó) làm lý do trực tiếp khiến cho hành động ở ô trống cuối cùng trở nên không thể cưỡng lại là 「手放せなくなって」 nhằm bắt nhịp với đuôi kết cục 「しまった」.<p>• Ý nghĩa câu: Kể từ sau khi dùng thử cái dụng cụ này một lần cho đến nay, chính vì sự tiện lợi đến mức quá đỗi của nó mà tôi đã hoàn toàn bị lệ thuộc và không thể nào buông tay rời xa nó được nữa rồi."
+  },
+  {
+    "id": "5",
+    "question": "仕事をする＿＿ ＿＿ ＿★＿ ＿＿というOLが増えています。",
+    "options": [
+      "勉強する",
+      "かたわら",
+      "ために",
+      "資格をとる"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-1-3-4 (かたわら 資格をとる　ために 勉強する)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (3) ために (chỉ số index 2).<p>• Hướng dẫn sắp xếp: Câu này áp dụng cấu trúc ngữ pháp chỉ việc thực hiện song song hai vai trò hoặc hai công việc lớn trong đời sống 「～かたわら」 (Bên cạnh việc chính là... thì đồng thời còn làm thêm việc...). Đề bài cho sẵn cụm công việc chính 「仕事をする」 (Làm việc công sở), ta gắn liền ngay từ ngữ pháp chỉ sự song hành vào sau thành 「かたわら」 (Bên cạnh việc đi làm việc ở công ty). Bên cạnh việc đó, họ tranh thủ làm gì? Ta sắp xếp vế hành động phụ mục đích: Động từ nâng cao năng lực 「勉強する」 đi với cụm từ chỉ mục đích 「ために」 (để học tập nghiên cứu). Mục đích học tập này hướng trực tiếp đến kết quả ở ô trống cuối cùng là 「資格をとる」 (nhằm lấy các chứng chỉ nghề nghiệp) để định nghĩa cho danh từ chỉ đối tượng 「というOLが増えています」.<p>• Ý nghĩa câu: Hiện nay, số lượng các nữ nhân viên văn phòng (OL) tranh thủ vừa đi làm ở công ty, lại vừa đồng thời nỗ lực học tập thêm ở ngoài để thi lấy các chứng chỉ trình độ chuyên môn đang ngày một tăng lên."
+  },
+  {
+    "id": "6",
+    "question": "A「彼女は名の通った画家なんですか。」<br>B「いいえ、でも最近の彼女の＿＿ ＿＿ ＿★＿ ＿＿ありますよ。」",
+    "options": [
+      "目を",
+      "ものが",
+      "見張る",
+      "活躍には"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (活躍には 目を 見張る ものが)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (3) 見張る (chỉ số index 2).<p>• Hướng dẫn sắp xếp: Câu này áp dụng thành ngữ chỉ sự tiến bộ vượt bậc khiến người khác phải kinh ngạc kinh diễm 「目を見張る」 (khiến người ta phải trợn tròn mắt ngạc nhiên/đáng kinh ngạc) kết hợp với cấu trúc cảm nhận phẩm chất đặc trưng 「～ものがある」 (Có cái gì đó rất...). Người đối thoại B phủ nhận việc cô ấy là họa sĩ danh tiếng lâu năm, nhưng lại khen ngợi thực tế hiện tại. Ta đưa chủ thể nhận lời khen lên trước: 「活躍には」 (đối với những hoạt động bùng nổ gần đây của cô ấy). Những hoạt động này có tính chất gì? Ta ghép thành ngữ vào: cụm từ bộ phận 「目を」 đi liền với động từ hành vi 「見張る」 tạo thành tính chất định ngữ 'đáng kinh ngạc, xuất sắc đến mức phải dõi theo'. Cụm định ngữ này bổ nghĩa cho danh từ trừu tượng đứng ở ô trống cuối là 「ものが」 để kết hợp hoàn hảo với đuôi khẳng định 「ありますよ」.<p>• Ý nghĩa câu: \nA: \"Cô ấy có phải là một họa sĩ đã có danh tiếng lẫy lừng sẵn rồi không?\"\nB: \"Dạ không phải đâu, thế nhưng xét về những hoạt động bùng nổ xuất sắc gần đây của cô ấy thì quả thực có những điểm tiến bộ vượt bậc đáng kinh ngạc khiến ai nấy cũng phải dõi mắt thán phục đấy ạ.\""
+  },
+  {
+    "id": "7",
+    "question": "この小説はかなり正確に＿＿ ＿＿ ＿★＿ ＿＿いいよ。",
+    "options": [
+      "読んでみると",
+      "書かれているので",
+      "歴史の勉強がてら",
+      "史実に基づいて"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (史実に基づいて 書かれているので 歴史の勉強がてら 読んでみると)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (2) 書かれているので (chỉ số index 1).<p>• Hướng dẫn sắp xếp: Câu này lồng ghép hai mẫu ngữ pháp: mẫu chỉ căn cứ cốt lõi nền tảng 「～に基づいて」 (Dựa trên/Dựa theo...) và mẫu chỉ việc nhân tiện làm hành vi chính thì kết hợp làm luôn việc phụ có ích 「～がてら」 (Nhân tiện làm... thì đồng thời...). Đề bài mở đầu bằng trạng từ mức độ 「この小説はかなり正確に」 (Cuốn tiểu thuyết này được... một cách khá chính xác). Ta tìm từ đi liền với độ chính xác đó là cụm căn cứ lịch sử 「史実に基づいて」 (dựa trên các sự thật lịch sử) bổ nghĩa cho trạng thái cấu thành tác phẩm là 「書かれているので」 (vì được viết ra như thế). Do lý do này, người nói đưa ra lời khuyên: cụm hành vi kết hợp 「歴史の勉強がてら」 (nhân tiện dùng làm tài liệu học lịch sử luôn) bổ nghĩa cho động từ hành động trải nghiệm ở ô trống cuối là 「読んでみると」 để đi liền với đuôi khuyến nghị 「いいよ」.<p>• Ý nghĩa câu: Cuốn tiểu thuyết này vốn được tác giả viết ra dựa trên các sự thật lịch sử một cách vô cùng chính xác, thế nên thiết nghĩ cậu cứ thử tìm đọc nó xem sao, nhân tiện vừa đọc giải trí lại vừa dùng làm tài liệu tranh thủ học thêm lịch sử luôn thì tốt biết mấy."
+  },
+  {
+    "id": "8",
+    "question": "夫に最期まで、＿＿ ＿＿ ＿★＿ ＿＿したのは、本当に大変なことだった。",
+    "options": [
+      "悟らせる",
+      "ことなしに",
+      "病名を",
+      "看護を"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 3-1-2-4 (病名を 悟らせる ことなしに 看護を)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (1) 悟らせる (chỉ số index 0).<p>• Hướng dẫn sắp xếp: Câu này sử dụng cấu trúc ngữ pháp chỉ một hành động diễn ra liên tục mà không hề kèm theo một trạng thái hay hành vi nào đó 「～ことなしに」 (Mà không... / Hoàn toàn không làm chuyện...). Đề bài cho bối cảnh cảm động và đầy áp lực 「夫に最期まで」 (Cho đến những giây phút cuối đời của người chồng). Người vợ đã giấu điều gì? Ta ghép cụm tân ngữ y tế 「病名を」 (tên căn bệnh hiểm nghèo) đi liền với động từ sai khiến chỉ sự nhận biết, phát hiện ra bí mật là 「悟らせる」 (để cho người chồng nhận ra/nhận biết được). Cụm này đi liền từ ngữ pháp ngăn chặn 「ことなしに」 tạo thành nghĩa 'mà hoàn toàn không để cho anh ấy nhận biết hay mảy may nghi ngờ gì về căn bệnh của mình'. Cụm trạng từ này bổ nghĩa trực tiếp cho danh từ hành vi chăm sóc ở ô trống cuối cùng là 「看護を」 để đi liền với động từ thực hiện 「したのは、本当に大変なことだった」.<p>• Ý nghĩa câu: Việc phải tự mình túc trực chăm sóc y tế cho chồng cho tới tận những giây phút cuối cùng của cuộc đời anh ấy mà lại phải khéo léo giữ bí mật, hoàn toàn không được để cho anh ấy mảy may nhận biết hay nghi ngờ gì về tên căn bệnh hiểm nghèo của mình, đó quả thực là một khoảng thời gian vô cùng vất vả và gian truân đối với người vợ."
+  },
+  {
+    "id": "9",
+    "question": "弟は帰ってきたら＿＿ ＿＿ ＿★＿ ＿＿家を飛び出した。",
+    "options": [
+      "仲間との",
+      "直ぐに",
+      "集まりに",
+      "宿題もそこそこに"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (宿題もそこそこに 直ぐに 仲間との 集まりに)<p>Vị trí ngôi sao ★ tương ứng với lựa chọn: (2) 直ぐに (chỉ số index 1).<p>• Hướng dẫn sắp xếp: Câu này áp dụng cấu trúc ngữ pháp chỉ hành vi làm qua loa đại khái, vội vàng cho xong chuyện để chuyển sang việc khác hấp dẫn hơn 「～もそこそこに」 (Làm... qua loa đại khái/Làm cho có rồi thôi). Đề bài mở đầu bằng trạng huống 「弟は帰ってきたら」 (Cậu em trai tôi cứ hễ vừa mới đi đâu về nhà một cái là...). Ta tìm việc mà học sinh hay làm qua loa khi về nhà là cụm danh từ bài tập 「宿題もそこそこに」 (làm bài tập về nhà một cách vô cùng qua loa vội vàng). Sau khi làm xong việc đó một cách chớp nhoáng, cậu ta lập tức hành động: phó từ chỉ tốc độ thời gian mau lẹ 「直ぐに」 (ngay lập tức) bổ nghĩa cho cụm định ngữ chỉ đối tượng vui chơi 「仲間との」 (với đám bạn bè) để bổ nghĩa trực tiếp cho danh từ mục đích đến ở ô trống cuối cùng là 「集まりに」 nhằm đi liền với động từ hành vi cốt lõi của câu là 「家を飛び出した」 (lao vội ra khỏi nhà).<p>• Ý nghĩa câu: Cậu em trai tôi cứ hễ vừa mới bước chân về đến nhà một cái là đã lo làm bài tập về nhà một cách vô cùng vội vàng qua loa cho xong chuyện, rồi ngay lập tức lao phăng phăng ra khỏi nhà để kịp chạy đến buổi tụ tập, tụ năm tụ ba với đám bạn chiến hữu của cậu ta."
+  },
+  {
+    "id": "10_P13",
+    "question": "A「池田さんの会社倒産したんですって。」<br> B「そうでしたか。＿＿ ＿＿ ＿★＿ ＿＿していたんですね。」",
+    "options": [
+      "げっそり",
+      "お会いした時",
+      "この間",
+      "それで"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 4-3-2-1 (それで　この間 お会いした時 げっそり) -> Đáp án gốc: 2(4321) cũ ở trang trước.<p>Vị trí ngôi sao ★ là: (1) げっそり (chỉ số index 0).<p>• Giải thích: Sắp xếp theo trình tự thời gian và nhân quả: 'Dạo gần đây (この間) khi gặp mặt (お会いした時), hèn chi/thảo nào (それで) anh ấy trông gầy rộc đi (げっそり)'. Cụm 'げっそりしていた' nghĩa là trông hốc hác, gầy sút đi rõ rệt do suy sụp."
+  },
+  {
+    "id": "1_P14",
+    "question": "日本の漫画は＿＿ ＿＿ ＿★＿ ＿＿読まれているとか。",
+    "options": [
+      "はじめ",
+      "アジアの国々を",
+      "翻訳され",
+      "世界各国で"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 2-1-4-3 (アジアの国々を はじめ 世界各国で 翻訳され)<p>Vị trí ngôi sao ★ là: (3) 翻訳され (chỉ số index 2).<p>• Giải thích: Sử dụng cấu trúc 「～をはじめ」 (Trước tiên là... / Đầu tiên phải kể đến...). Ta ghép: 'Đầu tiên là các nước châu Á (アジアの国々をはじめ), sau đó lan rộng ra khắp thế giới (世界各国で), được dịch thuật (翻訳され) và tìm đọc'."
+  },
+  {
+    "id": "2_P14",
+    "question": " 例の薬の単価のことですが、＿＿ ＿＿ ＿★＿ ＿＿でしょうか。",
+    "options": [
+      "もう少し下げて",
+      "いわないまでも",
+      "くれないもの",
+      "二千円とは"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (二千円とは いわないまでも もう少し下げて くれないもの)<p>Vị trí ngôi sao ★ là: (4) 二千円とは (chỉ số index 3).<p>• Giải thích: Sử dụng cấu trúc nhượng bộ 「～とはいわないまでも」 (Dù không đến mức phải... / Dù không dám đòi hỏi đến mức...). Ta ghép: 'Dù không nói đến mức giảm xuống hẳn 2000 yên (二千円とはいわないまでも), nhưng liệu có thể giảm xuống thêm một chút (もう少し下げてくれないもの) được không'."
+  },
+  {
+    "id": "3_P14",
+    "question": " 山田さんは＿＿ ＿＿ ＿★＿ ＿＿本当に困る。",
+    "options": [
+      "くるので",
+      "相手の都合に",
+      "仕事を頼んで",
+      "かかわりなく"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (相手の都合に かかわりなく 仕事を頼んで くるので)<p>Vị trí ngôi sao ★ là: (3) 仕事を頼んで (chỉ số index 2).<p>• Giải thích: Sử dụng cấu trúc 「～にかかわりなく」 (Bất kể... / Không liên quan đến...). Ta có cụm: 'Bất kể hoàn cảnh hay sự tiện lợi của đối phương (相手の都合にかかわりなく), cứ thế nhờ vả công việc (仕事を頼んでくるので) nên rất phiền phức'."
+  },
+  {
+    "id": "4_P14",
+    "question": " そんな＿＿ ＿＿ ＿★＿ ＿＿迷惑だ。",
+    "options": [
+      "ほどのひどい",
+      "のは",
+      "聞くにたえない",
+      "演奏を聞かされる"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (聞くにたえない ほどのひどい 演奏を聞かされる のは)<p>Vị trí ngôi sao ★ là: (1) ほどのひどい (chỉ số index 0).<p>• Giải thích: Sử dụng cấu trúc 「～にたえない」 (Không thể chịu đựng nổi... / Ghê tởm đến mức không đáng...). Cụm từ được sắp xếp: 'Việc bị bắt phải nghe (演奏を聞かされるのは) một buổi biểu diễn tồi tệ (ひどい) đến mức không thể ngửi nổi/không chịu nổi tai (聞くにたえないほど) thì thật là phiền toái'."
+  },
+  {
+    "id": "5_P14",
+    "question": "スピーチをするということは、＿＿ ＿＿ ＿★＿ ＿＿のか、それをはっきりさせないことには何も言えない。",
+    "options": [
+      "自分が",
+      "ことだから",
+      "何をアピールしたい",
+      "何かをアピールする"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (何をアピールしたい ことだから　自分が　何かをアピールする ) -> Lưu ý: Theo đáp án gốc 1(4213) với trật tự options chuẩn xác.<p>Vị trí ngôi sao ★ là: (1) 自分が (chỉ số index 0).<p>• Giải thích: Cấu trúc câu định nghĩa hoặc giải thích bản chất 「～ということだから」. Ghép vế: 'Bởi vì việc diễn thuyết chính là chuyện bản thân mình (自分が) muốn truyền tải, thu hút điều gì (何をアピールしたいのか), nếu không làm rõ điều đó thì không thể nói được gì cả'."
+  },
+  {
+    "id": "6_P14",
+    "question": " 娘は＿＿ ＿＿ ＿★＿ ＿＿言って、冷蔵庫を覗き込んだ。",
+    "options": [
+      "へったと",
+      "やいなや",
+      "おなかが",
+      "家へ帰る"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (家へ帰る やいなや おなかが へったと)<p>Vị trí ngôi sao ★ là: (2) やいなや (chỉ số index 1).<p>• Giải thích: Sử dụng mẫu ngữ pháp chỉ hành động xảy ra ngay tức thì 「～やいなや」 (Vừa mới... là ngay lập tức...). Ghép câu: 'Con gái tôi vừa mới về đến nhà một cái là ngay lập tức (家へ帰るやいなや) kêu đói bụng (おなかがへったと) rồi ngó nghiêng vào tủ lạnh'."
+  },
+  {
+    "id": "7_P14",
+    "question": " 子供たちは授業が＿＿ ＿＿ ＿★＿ ＿＿行った。",
+    "options": [
+      "早いか",
+      "海へ泳ぎに",
+      "一目散に",
+      "終わるが"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (終わるが 早いか 一目散に 海へ泳ぎに)<p>Vị trí ngôi sao ★ là: (1) 早いか (chỉ số index 0).<p>• Giải thích: Sử dụng cấu trúc hành động nối tiếp chớp nhoáng 「～が早いか」 (Vừa mới xong là ngay lập tức...). Ghép câu: 'Lũ trẻ ngay khi tiết học vừa mới kết thúc một cái (授業が終わるが早いか) đã vội vàng ba chân bốn cẳng chạy một mạch (一目散に) ra biển để bơi (海へ泳ぎに行った)'."
+  },
+  {
+    "id": "8",
+    "question": " 当時は会社の経営が困難を極めた時代だった。そのため、父は＿＿ ＿＿ ＿★＿ ＿＿働かなければならなかった。",
+    "options": [
+      "寝る時間も",
+      "責任者という",
+      "惜しんで",
+      "立場にあって"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (責任者という 立場にあって 寝る時間も 惜しんで)<p>Vị trí ngôi sao ★ là: (1) 寝る時間も (chỉ số index 0).<p>• Giải thích: Sử dụng cấu trúc bối cảnh hoàn cảnh 「～という立場にあって」 (Ở cương vị/vị trí là...) và cụm từ tiếc nuối thời gian 「～を惜しんで」 (tiết kiệm từng chút/bất chấp...). Ghép câu: 'Vì ở cương vị là người chịu trách nhiệm (責任者という立場にあって), bố tôi đã phải làm việc cật lực, chắt chiu hay bớt cả thời gian ngủ (寝る時間も惜しんで)'."
+  },
+  {
+    "id": "9_P14",
+    "question": " この選手は、今にも＿＿ ＿＿ ＿★＿ ＿＿を追い上げている。",
+    "options": [
+      "前の走者",
+      "リード",
+      "勢いで",
+      "せんばかりの"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (リード せんばかりの 勢いで 前の走者)<p>Vị trí ngôi sao ★ là: (1) 前の走者 (chỉ số index 0).<p>• Giải thích: Sử dụng cấu trúc 「～せんばかりの」 (Dường như muốn... / Suýt chút nữa là...). Ghép câu: 'Tuyển thủ này đang đuổi sát nút người chạy phía trước (前の走者) với một khí thế (勢いで) như thể sắp sửa bứt phá vươn lên dẫn đầu (リードせんばかりの)'."
+  },
+  {
+    "id": "10_P14",
+    "question": "<p>A「昨日、ゴルフ場に雷が落ちて死者が出たそうですね。」<p>B「危ない＿＿ ＿＿ ＿★＿ ＿＿ね。」",
+    "options": [
+      "やめられない",
+      "と知りつつも",
+      "から",
+      "なかなか途中で"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3( と知りつつも なかなか途中でからら やめられない)<p>Vị trí ngôi sao ★ là: (2) と知りつつも (chỉ số index 1).<p>• Giải thích: Sử dụng cấu trúc 「～つつも」 (Dù biết là... nhưng vẫn...). Ghép câu: 'Bởi vì nguy hiểm (危ないから), dù biết rõ là như thế (と知りつつも) nhưng một khi đã chơi thì thật khó mà bỏ dở giữa chừng (なかなか途中でやめられない) nhỉ'."
+  },
+  {
+    "id": "1_P15",
+    "question": " 犯人が＿＿ ＿＿ ＿★＿ ＿＿わけではない。",
+    "options": [
+      "いいという",
+      "18歳以下だ",
+      "罪を償わなくても",
+      "からといって"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (18歳以下だ からといって 罪を償わなくても いいという)<p>Vị trí ngôi sao ★ là: (1) いいという (chỉ số index 0).<p>• Giải thích: Sử dụng cấu trúc phủ định một phần 「～わけではない」 (Không có nghĩa là...) kết hợp 「～からといって」 (Không phải cứ vì... là...). Ghép câu: 'Không có nghĩa là cứ vì hung thủ dưới 18 tuổi (18歳以下だからといって) thì có thể không cần phải đền tội (罪を償わなくてもいいというわけではない)'."
+  },
+  {
+    "id": "2_P15",
+    "question": " クリスマス前の＿＿ ＿＿ ＿★＿ ＿＿込んでいるだろう。",
+    "options": [
+      "どこも",
+      "ことだから",
+      "デパートは",
+      "日曜日の"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (日曜日の ことだから デパートは どこも)<p>Vị trí ngôi sao ★ là: (3) デパートは (chỉ số index 2).<p>• Giải thích: Sử dụng cấu trúc đưa ra phán đoán dựa trên bản chất quen thuộc 「～のことだから」 (Vì là... nên chắc chắn). Ghép câu: 'Vì là ngày Chủ Nhật (日曜日 do đó cụm bổ nghĩa là 日曜日 の ことだから) trước dịp Giáng Sinh, nên các trung tâm thương mại (デパートは) dù là ở đâu (どこも) thì chắc hẳn cũng đang đông nghịt người'."
+  },
+  {
+    "id": "3_P15",
+    "question": " 規則通りのやり方ではなく、＿＿ ＿＿ ＿★＿ ＿＿という要望が出された。",
+    "options": [
+      "即して",
+      "ほしい",
+      "現状に",
+      "対応して"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (現状に 即して 対応して ほしい)<p>Vị trí ngôi sao ★ là: (4) 対応して (chỉ số index 3).<p>• Giải thích: Sử dụng cấu trúc 「～に即して」 (Dựa theo / Hợp với...) và 「～てほしい」 (Muốn ai đó làm gì). Ghép câu: 'Một yêu cầu đã được đưa ra là muốn phía bên kia hãy ứng phó, xử lý (対応してほしい) sao cho thật sát với tình hình thực tế (現状に即して) chứ không phải cứ máy móc theo quy tắc'."
+  },
+  {
+    "id": "4_P15",
+    "question": "<p>A「今日は忘年会だから忘れないでね。＿＿ ＿＿ ＿★＿ ＿＿やろうか。」<p>B「新年会は学校の大講堂でやるそうです。」",
+    "options": [
+      "新年会は",
+      "そうと",
+      "どこで",
+      "それは"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3(それは　そうと 新年会は どこで) -> Theo đáp án gốc: 1(4213) trong bảng.<p>Vị trí ngôi sao ★ là: (1) 新年会は (chỉ số index 0).<p>• Giải thích: Sử dụng cụm chuyển đổi đề tài nói chuyện 「それはそうと」 (À mà này / Nhân tiện đổi chủ đề...). Ghép câu: 'Hôm nay là tiệc tất niên nên cậu đừng quên nhé. Mà này (それはそうと), còn tiệc tân niên thì (新年会は) chúng ta sẽ tổ chức ở đâu (どこで) bây giờ nhỉ?'."
+  },
+  {
+    "id": "5_P15",
+    "question": " チンパンジーは＿＿ ＿＿ ＿★＿ ＿＿らしいという報告もある。",
+    "options": [
+      "互いに協力して",
+      "のみならず",
+      "共同作業をしている",
+      "人間の模倣をする"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (人間の模倣をする のみならず 互いに協力して 共同作業をしている)<p>Vị trí ngôi sao ★ là: (1) 互いに協力して (chỉ số index 0).<p>• Giải thích: Sử dụng cấu trúc tăng tiến 「～のみならず」 (Không chỉ... mà còn...). Ghép câu: 'Cũng có báo cáo cho thấy rằng loài tinh tinh không chỉ biết bắt chước con người (人間の模倣をするのみならず) mà chúng còn biết hợp tác với nhau (互いに協力して) để cùng làm việc tập thể (共同作業をしているらしい)'."
+  },
+  {
+    "id": "6_P15",
+    "question": " 彼女は、＿＿ ＿＿ ＿★＿ ＿＿、友人がいろいろと誘っても断ることが 多い。",
+    "options": [
+      "ところが",
+      "嫌いの",
+      "あって",
+      "食べず"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (食べず 嫌いの ところが あって)<p>Vị trí ngôi sao ★ là: (3) あって (chỉ số index 2).<p>• Giải thích: Sử dụng cụm từ 「食わず嫌い」 (Ghét dù chưa thử/Chưa ăn đã ghét) và mẫu chỉ tính cách 「～ところがある」 (Có điểm/Có tính...). Ghép câu: 'Cô ấy vốn có cái tính khí chưa thử đã ghét (食べず嫌いのところがあって), nên dù bạn bè có rủ rê đủ thứ đi nữa thì cô ấy vẫn thường hay từ chối'."
+  },
+  {
+    "id": "7_P15",
+    "question": " もはやコンピュータは、＿＿ ＿＿ ＿★＿ ＿＿いる。",
+    "options": [
+      "欠かせない",
+      "おいても",
+      "道具となって",
+      "日常生活に"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (日常生活に おいても 欠かせない 道具となって)<p>Vị trí ngôi sao ★ là: (1) 欠かせない (chỉ số index 0).<p>• Giải thích: Sử dụng mẫu ngữ pháp chỉ phạm vi bối cảnh 「～においても」 (Ngay cả trong...) và cụm từ 「欠かせない」 (Không thể thiếu). Ghép câu: 'Giờ đây máy tính đã trở thành một công cụ không thể nào thiếu được (欠かせない道具となって) ngay cả trong đời sống sinh hoạt hàng ngày (日常生活においても)'."
+  },
+  {
+    "id": "8_P15",
+    "question": "大学の教授は＿＿ ＿＿ ＿★＿ ＿＿知らないことがある。",
+    "options": [
+      "意外に常識を",
+      "知っている",
+      "ようであいて",
+      "何でも"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (何でも 知っている ようであいて 意外に常識を) -> Theo bảng đáp án: 3(4231).<p>• Giải thích: Sử dụng cấu trúc 「～ようであいて」 (Nhìn có vẻ là... nhưng thực ra lại...). Ghép câu: 'Giáo sư đại học nhìn có vẻ như cái gì cũng biết (何でも知っているようであいて), nhưng thực ra có những lúc lại không biết những kiến thức thường thức một cách đầy bất ngờ (意外に常識を知らないことがある)'."
+  },
+  {
+    "id": "9_P15",
+    "question": " 友人の夫婦喧嘩について意見を聞かれたが、私としては、＿＿ ＿＿ ＿★＿ ＿＿言いようがなかった。",
+    "options": [
+      "だけに",
+      "なんとも",
+      "知っている",
+      "両方の事情を"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-3-1-2 (両方の事情を 知っている だけに なんとも) -> Theo bảng đáp án: 1(4312).<p>• Giải thích: Sử dụng cấu trúc nguyên nhân khách quan 「～だけに」 (Chính vì... nên càng...). Ghép câu: 'Bị hỏi ý kiến về chuyện cãi nhau của vợ chồng người bạn, nhưng đối với tôi, chính vì biết rõ sự tình của cả hai bên (両方の事情を知っているだけに) nên chẳng biết phải nói thế nào cho phải (なんとも言いようがなかった)'."
+  },
+  {
+    "id": "10_P15",
+    "question": "火事で家を失ったが、＿＿ ＿＿ ＿＿ ＿★＿救いだった。",
+    "options": [
+      "ことが",
+      "無事だった",
+      "せめてもの",
+      "身体は"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (身体は 無事だった ことが せめてもの) -> Theo bảng đáp án: 3(4213).<p>• Giải thích: Sử dụng cụm từ 「せめてもの救い」 (Sự an ủi duy nhất / Điều may mắn vớt vát lại). Ghép câu: 'Mặc dù bị mất nhà do hỏa hoạn, nhưng việc cơ thể/con người vẫn bình an vô sự (身体は無事だったことが) chính là niềm an ủi, may mắn duy nhất rồi'."
+  },
+  {
+    "id": "1_P16",
+    "question": "かたづける＿＿ ＿＿ ＿★＿ ＿＿ので、嫌になってしまう。",
+    "options": [
+      "子供が",
+      "散らかす",
+      "おもちゃを",
+      "そばから"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (そばから 子供が おもちゃを 散らかす) -> Theo bảng đáp án: 3(4132).<p>• Giải thích: Sử dụng cấu trúc hành động lặp đi lặp lại gây bực mình 「～そばから」 (Vừa mới... là ngay lập tức...). Ghép câu: 'Tôi vừa mới dọn dẹp xong một cái là ngay lập tức đứa con (そばから子供が) lại bày bừa đồ chơi ra (おもちゃを散らかすので) nên thật khiến người ta phát ngán'."
+  },
+  {
+    "id": "2_P16",
+    "question": " 試験の延期を＿＿ ＿＿ ＿★＿ ＿＿彼不親切だ。",
+    "options": [
+      "いながら",
+      "くれない",
+      "知って",
+      "教えて"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (知っていながら 教えてくれない) -> Theo bảng đáp án: 1(3142) (Từ số 3 kết hợp thành 知っていながら).<p>• Giải thích: Sử dụng cấu trúc tương phản nghịch lý 「～ながら (ながらも)」 (Dù biết... nhưng vẫn). Ghép câu: 'Dù biết thừa chuyện hoãn kỳ thi (知っていながら) thế mà lại không thèm bảo cho tôi biết (教えてくれない), anh ta thật là tử tế gớm (mang nghĩa mỉa mai, bất lịch sự)'."
+  },
+  {
+    "id": "3_P16",
+    "question": " 彼は＿＿ ＿＿ ＿★＿ ＿＿取り組んでいる。",
+    "options": [
+      "積極的に",
+      "かたわら",
+      "会社勤めの",
+      "福祉活動に"
+    ],
+    "answer": 4,
+    "explanation": "Thứ tự đúng: 3-2-4-1 (会社勤めの かたわら 福祉活動に 積極的に) -> Theo bảng đáp án: 4(3241).<p>• Giải thích: Sử dụng cấu trúc song hành làm hai việc cùng lúc 「～かたわら」 (Bên cạnh việc chính là... thì còn làm thêm...). Ghép câu: 'Anh ấy bên cạnh việc đi làm ở công ty (会社勤めのかたわら) thì vẫn đang tích cực tham gia vào các hoạt động phúc lợi xã hội (福祉活動に積極的に取り組んでいる)'."
+  },
+  {
+    "id": "4_P16",
+    "question": "<p>A「あら、太田学長の奥様じゃありませんか。＿＿ ＿＿ ＿★＿ ＿＿ますね。」<p>B「まあ。お上手ですね。」",
+    "options": [
+      "若くて",
+      "いらっしゃい",
+      "綺麗で",
+      "いつまでも"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (いつまでも 若くて 綺麗で いらっしゃる) -> Theo bảng đáp án: 3(4132).<p>• Giải thích: Sử dụng thể kính ngữ 「いらっしゃる」 thay cho います. Ghép câu: 'Ối, chẳng phải phu nhân của hiệu trưởng Oota đây sao. Lúc nào nhìn phu nhân cũng (いつまでも) vừa trẻ trung (若くて) vừa xinh đẹp (綺麗でいらっしゃいますね)'."
+  },
+  {
+    "id": "5_P16",
+    "question": " あれほど気の強い人でも、＿＿ ＿＿ ＿★＿ ＿＿沁みるようだ。",
+    "options": [
+      "病気になると",
+      "人の親切が",
+      "ひとたび",
+      "身に"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-1-2-4 (ひとたび 病気になると 人の親切が 身に) -> Theo bảng đáp án: 2(3124).<p>• Giải thích: Sử dụng cụm phó từ giả định 「ひとたび～つと」 (Một khi đã... thì) và cụm từ 「身に沁みる」 (Thấm thía sâu sắc). Ghép câu: 'Cho dù là một người có tinh thần mạnh mẽ cứng cỏi đến thế đi nữa, thì một khi đã đổ bệnh (ひとたび病気になると), sự tử tế tốt bụng của người khác (人の親切が) dường như càng thấm thía sâu sắc vào trong tâm can (身に沁みるようだ)'."
+  },
+  {
+    "id": "6_P16",
+    "question": " 厚生省に＿＿ ＿＿ ＿★＿ ＿＿突入した。",
+    "options": [
+      "ハンガーストライキに",
+      "認めさせんがため",
+      "患者や支援団体が",
+      "エイズ薬害の事実を"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (エイズ薬害の事実を 認めさせんがため 患者や支援団体が ハンガーストライキに) -> Theo bảng đáp án: 3(4231).<p>• Giải thích: Sử dụng cấu trúc chỉ mục đích quyết liệt văn viết 「～んがため」 (Để nhằm mục đích làm gì...). Ghép câu: 'Để buộc bộ y tế phải thừa nhận sự thật về tác hại của thuốc nhiễm HIV (エイズ薬害の事実を認めさせんがため), các bệnh nhân cùng với nhóm hỗ trợ (患者や支援団体が) đã cùng nhau bước vào cuộc tuyệt thực (ハンガーストライキに突入した)'."
+  },
+  {
+    "id": "7_P16",
+    "question": " およそ人は、＿＿ ＿＿ ＿★＿ ＿＿と言われている。",
+    "options": [
+      "境にして",
+      "話し始める",
+      "3歳を",
+      "言葉を"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (3歳を 境にして 言ーブを 話し始める) -> Theo bảng đáp án: 1(3142).<p>• Giải thích: Sử dụng cấu trúc mốc thời gian bước ngoặt 「～を境にして」 (Lấy cột mốc... làm ranh giới để thay đổi). Ghép câu: 'Người ta nói rằng con người nói chung thường lấy cột mốc là lúc 3 tuổi (3歳を境にして) để bắt đầu biết nói bập bẹ những từ ngữ đầu đời (言葉を話し始めると言われている)'."
+  },
+  {
+    "id": "8_P16",
+    "question": "一方＿＿ ＿＿ ＿★＿ ＿＿そしりを免れない。",
+    "options": [
+      "軽率の",
+      "だけの",
+      "判断するのは",
+      "意見を聞いて"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (意見を聞いて だけの 判断するのは 軽率の)<p>• Giải thích: Sử dụng cấu trúc 「～だけの」 (Chỉ dựa vào...) và 「～そしりを免れない」 (Không tránh khỏi chỉ trích). Ghép câu: 'Chỉ dựa vào việc nghe ý kiến từ một phía mà đã đưa ra phán đoán (一方意見を聞いてだけの判断するのは) thì không thể tránh khỏi sự chỉ trích là khinh suất (軽率のそしりを免れない)'."
+  },
+  {
+    "id": "9_P16",
+    "question": " 時間に縛られるのが嫌で独立して会社を設立したが、自営業は＿＿ ＿＿ ＿★＿ ＿＿分かった。",
+    "options": [
+      "ないことが",
+      "時間が",
+      "ようでいて",
+      "ある"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (時間が ある ようでいて ないことが)<p>• Giải thích: Sử dụng cấu trúc 「～ようでいて」 (Nhìn có vẻ... nhưng thực ra). Ghép câu: 'Vì ghét bị gò bó thời gian nên tôi đã độc lập lập công ty, nhưng tôi đã hiểu ra rằng tự kinh doanh nhìn thì có vẻ như là có thời gian rảnh (時間があるようでいて) nhưng thực tế lại không hề có (ないことが分かった)'."
+  },
+  {
+    "id": "10_P16",
+    "question": " 彼は莫大な借金を＿＿ ＿＿ ＿★＿ ＿＿立ち直らせた。",
+    "options": [
+      "ものともせずに",
+      "引き受けて",
+      "事業を立派に",
+      "社長になることを"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 1-4-2-3(ものともせずに　社長になることを 引き受けて  事業を立派に)<p>• Giải thích: Sử dụng cấu trúc 「～をものともせずに」 (Bất chấp/Mặc kệ khó khăn...). Ghép câu: 'Anh ấy đã chấp nhận đảm nhận chức vị giám đốc (社長になることを引き受けて) và bất chấp khoản nợ khổng lồ (莫大な借金をものともせずに), anh ấy đã phục hồi và đưa sự nghiệp phát triển rực rỡ (事業を立派に立ち直らせた)'."
+  },
+  {
+    "id": "1_P17",
+    "question": " この大会コンクールでの＿＿ ＿＿ ＿★＿ ＿＿と思う。",
+    "options": [
+      "ばねにして",
+      "図りたい",
+      "入賞を",
+      "一層の飛躍を"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (入賞を ばねにして 一層の飛躍を 図りたい)<p>• Giải thích: Sử dụng cấu trúc 「～をばねにして」 (Lấy cái gì làm bàn đạp/động lực để tiến lên). Ghép câu: 'Tôi muốn lấy việc đoạt giải tại cuộc thi lần này làm động lực (入賞をばねにして) để hướng tới một bước nhảy vọt, tiến bộ hơn nữa (一層の飛躍を図りたいと思う)'."
+  },
+  {
+    "id": "2_P17",
+    "question": " 正義のための戦争にしろ、そうではないにしろ、＿＿ ＿＿ ＿★＿ ＿＿事実である。",
+    "options": [
+      "被害を",
+      "揺るぎない",
+      "もたらすのは",
+      "国民に"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (国民に 被害を もたらすのは 揺るぎない)<p>• Giải thích: Sử dụng cấu trúc 「～にしろ～にしろ」 (Dù là... hay là...) và cụm 「揺るぎない事実」 (Sự thật không thể lay chuyển). Ghép câu: 'Dù là cuộc chiến nhân danh chính nghĩa hay không phải đi chăng nữa, thì việc nó gây ra thiệt hại (被害をもたらすのは) cho người dân (国民に) là một sự thật không thể lay chuyển (揺るぎない事実である)'."
+  },
+  {
+    "id": "3_P17",
+    "question": "バスで老人群が立っているのに誰も席を譲らない。私は＿＿ ＿＿ ＿★＿ ＿＿立たせた。",
+    "options": [
+      "座っている",
+      "見かねて",
+      "若者を",
+      "見るに"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (見るに 見かねて 座っている 若者を)<p>• Giải thích: Sử dụng thành ngữ 「見るに見かねて」 (Không thể đứng nhìn được nữa / Không đành lòng đứng nhìn). Ghép câu: 'On xe buýt, dù cụ già đang đứng nhưng không một ai nhường ghế. Tôi vì không thể đứng nhìn thêm được nữa (見るに見かねて) nên đã bắt cậu thanh niên đang ngồi (座っている若者を) phải đứng dậy'."
+  },
+  {
+    "id": "4_P17",
+    "question": "この景気ではボーナスはおろか、＿＿ ＿＿ ＿★＿ ＿＿＿。",
+    "options": [
+      "全額出る",
+      "あやしい",
+      "月給だって",
+      "かどうか"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (月給だって 全額出る かどうか あやしい)<p>• Giải thích: Sử dụng cấu trúc vế tăng tiến 「～はおろか」 (Đừng nói tới... ngay cả...). Ghép câu: 'Với tình hình kinh tế này thì đừng nói tới tiền thưởng (ボーナスはおろか), ngay cả tiền lương hàng tháng (月給だって) liệu có được nhận đầy đủ hay không (全額出るかどうか) thì cũng còn mập mờ, đáng nghi lắm (あやしい)'."
+  },
+  {
+    "id": "5_P17",
+    "question": " 工作にもきちんと就いたし、小さいながらも家も建てた、＿＿ ＿＿ ＿★＿ ＿＿、女の子と知り合うチャンスがなかなかない。",
+    "options": [
+      "お嫁さんをもらう",
+      "なっているのに",
+      "ばかりに",
+      "あとは"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (あとは お嫁さんをもらう ばかりに なっているのに)<p>• Giải thích: Sử dụng cấu trúc 「～ばかりになっている」 (Chỉ còn chờ/Chỉ còn mỗi việc... là xong). Ghép câu: 'Công việc thì đã ổn định, nhà dù nhỏ cũng đã xây xong, giờ chỉ còn mỗi việc là cưới vợ nữa thôi (あとはお嫁さんをもらうばかりになっているのに), thế mà mãi chẳng có cơ hội để làm quen với cô gái nào cả'."
+  },
+  {
+    "id": "6_P17",
+    "question": " ただ安い＿＿ ＿＿ ＿★＿ ＿＿損をしがちだ。",
+    "options": [
+      "かえって",
+      "飛び付いていたら",
+      "からといって",
+      "直ぐ"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (からといって 直ぐ 飛び付いていたら かえって)<p>• Giải thích: Sử dụng cấu trúc 「～からといって」 (Không phải cứ vì...) và vĩ tố 「～しがちだ」 (Thường hay có xu hướng bị...). Ghép câu: 'Nếu cứ thấy rẻ mà ngay lập tức lao vào mua (ただ安いからといって直ぐ飛び付いていたら), thì rất dễ chuốc lấy thua thiệt, thua lỗ một cách ngược lại (かえって損をしがちだ)'."
+  },
+  {
+    "id": "7_P17",
+    "question": "私が無理な＿＿ ＿＿ ＿★＿ ＿＿しまいました。",
+    "options": [
+      "ご迷惑をかけて",
+      "お願いをした",
+      "あなたに",
+      "ばかりに"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (お願いをした ばかりに あなたに ご迷惑をかけて)<p>• Giải thích: Sử dụng cấu trúc hệ quả tiêu cực 「～ばかりに」 (Chỉ tại vì... mà dẫn đến kết quả xấu). Ghép câu: 'Chỉ tại vì tôi đã đưa ra một lời thỉnh cầu quá sức (私が無理なお願いをしたばかりに) nên cuối cùng đã làm phiền và gây rắc rối cho bạn mất rồi (あなたにご迷惑をかけてしまいました)'."
+  },
+  {
+    "id": "8_P17",
+    "question": "先生方のご指導や＿＿ ＿＿ ＿★＿ ＿＿なかっただろう。",
+    "options": [
+      "なしには",
+      "上げられ",
+      "友人の助け",
+      "論文を書き"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (友人の助け なしには 論文を書き 上げられ)<p>• Giải thích: Sử dụng cấu trúc điều kiện cần 「～なしには」 (Nếu không có... thì không thể) đi kèm với động từ thể khả năng dạng phủ định. Ghép câu: 'Nếu không có sự hướng dẫn của các thầy cô hay sự giúp đỡ của bạn bè (先生方のご指導や友人の助けなしには) thì có lẽ tôi đã không thể viết hoàn thành xong cuốn luận văn này rồi (論文を書き上げられなかっただろう)'."
+  },
+  {
+    "id": "9_P17",
+    "question": " 事故はあまりにも突然で、私は＿＿ ＿＿ ＿★＿ ＿＿だった。",
+    "options": [
+      "とする",
+      "ただぼう然",
+      "のみ",
+      "何もできず"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 4-2-1-3(何もできず ただぼう然 とのみ する)<p>• Giải thích: Sử dụng cụm từ trạng thái 「ただ～とするのみ」 (Chỉ biết... mà thôi). Ghép câu: 'Vụ tai nạn xảy ra quá đỗi đột ngột khiến tôi không thể làm được gì cả (事故はあまりにも突然で、私は何もできず), chỉ biết đứng trơ mắt ra nhìn trong sự bàng hoàng mà thôi (ただぼう然とするのみだった)'."
+  },
+  {
+    "id": "10_P17",
+    "question": "<p>A「公共の電波を使って、どうしてあんなくだらない番組をやることかしら。」<p>B「内容がなくても、＿＿ ＿★＿ ＿＿ ＿＿からさ。」",
+    "options": [
+      "面白い",
+      "人がいる",
+      "それを",
+      "と思う"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (それを 面白い と思う 人がいる)<p>• Giải thích: Sử dụng mệnh đề định ngữ bổ nghĩa cho danh từ 「人」. Ghép câu: 'Dù nội dung chẳng có gì đi chăng nữa, thì đó là vì vẫn có những người (人がいるからさ) cảm thấy chương trình đó (それを) hay và thú vị (面白いと思う)'."
+  },
+  {
+    "id": "1_P18",
+    "question": " 一日中＿＿ ＿＿ ＿★＿ ＿＿老人が増えている。",
+    "options": [
+      "孤独な",
+      "といった",
+      "誰とも",
+      "話さない"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (誰とも 話さない といった 孤独な)<p>• Giải thích: Sử dụng cụm từ đưa ra ví dụ, định nghĩa 「～といった」 (Kiểu như... / Chẳng hạn như...). Ghép câu: 'Những người cao tuổi sống cô độc (孤独な老人が増えている) theo kiểu cả ngày trời chẳng nói chuyện với bất kỳ một ai (一日中誰とも話さないといった) đang ngày một nhiều lên'."
+  },
+  {
+    "id": "2_P18",
+    "question": "証人の「＿＿」＿＿ ＿＿ ＿★＿ ＿＿言った。",
+    "options": [
+      "実に分かりづらい",
+      "だらけの証言は",
+      "と被告人が",
+      "だと思う"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (だと思う だらけの証言は 実に分かりづらい　と被告人が) -> <p>• Giải thích: Trích dẫn suy nghĩ thông qua trợ từ 「と」. Ghép câu: 'Bị cáo đã nói rằng (と被告人が言った), lời khai chứa đầy những điều mâu thuẫn, mập mờ ấy (証人の「...」だらけの証言は) thực sự rất khó để hiểu nổi (実に分かりづらいだと思う)'."
+  },
+  {
+    "id": "3_P18",
+    "question": " 父も母も、これまではただ仕事一筋で、人生を楽しむゆとりなどなかった。海外旅行は＿＿ ＿＿ ＿★＿ ＿＿ない。",
+    "options": [
+      "見て回ったことが",
+      "ほとんど",
+      "おろか",
+      "国内さえも"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (おろか 国内さえも ほとんど 見て回ったことが)<p>• Giải thích: Sử dụng cấu trúc so sánh tăng tiến phủ định 「～はおろか～さえも...ない」 (Đừng nói tới... ngay cả... cũng không). Ghép câu: 'Cả bố và mẹ từ trước đến nay đều chỉ biết đến công việc, không có thời gian thư thả để tận hưởng cuộc sống. Chuyện đi du lịch nước ngoài thì đã đành (海外旅行はおろか), ngay đến cả các địa điểm trong nước họ cũng hầu như chưa từng đi tham quan bao giờ (国内さえもほとんど見て回ったことがない)'."
+  },
+  {
+    "id": "4_P18",
+    "question": " 自分勝手な＿＿ ＿＿ ＿★＿ ＿＿若者がいる。",
+    "options": [
+      "凶悪な犯行に",
+      "ために",
+      "及ぶ",
+      "欲望を満たす"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (欲望を満たす ために 凶悪な犯行に 及ぶ)<p>• Giải thích: Sử dụng cấu trúc chỉ mục đích 「～ために」 và cụm từ hành động cực đoan 「凶悪な犯行に及ぶ」 (Liều lĩnh thực hiện hành vi phạm tội tàn ác). Ghép câu: 'Có những người trẻ tuổi sẵn sàng lao vào thực hiện các hành vi phạm tội ác độc (凶悪な犯行に及ぶ若者がいる) chỉ để thỏa mãn những ham muốn ích kỷ của bản thân (自分勝手な欲望を満たすために)'."
+  },
+  {
+    "id": "5_P18",
+    "question": " この小説を最後まで＿＿ ＿＿ ＿★＿ ＿＿、それほど感動する小説ではないと思う。",
+    "options": [
+      "が",
+      "ことは",
+      "読んだ",
+      "読む"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (読む ことは 読んだが)<p>• Giải thích: Sử dụng cấu trúc thừa nhận một sự thật nhưng vế sau đối lập 「VttことはV-る/たが」 (Đọc thì đúng là có đọc rồi nhưng mà...). Ghép câu: 'Cuốn tiểu thuyết này thì tôi đúng là đã đọc hết đến cuối cùng rồi đấy (この小説を最後まで読んだことは読んだが), thế nhưng tôi nghĩ nó không phải là một tác phẩm gây xúc động đến mức như vậy đâu'."
+  },
+  {
+    "id": "6_P18",
+    "question": "6. 会った＿＿ ＿＿ ＿★＿ ＿＿遺産が入ってきた。",
+    "options": [
+      "従兄が死んで",
+      "思わなかった",
+      "こともない",
+      "夢にさえ"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (こともない 従兄が死んで 夢にさえ 思わなかった)<p>• Giải thích: Sử dụng cụm cấu trúc 「夢にさえ思わなかった」 (Đến trong mơ cũng không hề nghĩ tới). Ghép câu hoàn chỉnh: 'Người anh họ mà tôi còn chưa từng gặp mặt bao giờ qua đời (会ったこともない従兄が死んで), đem lại cho tôi một khoản thừa kế mà ngay đến cả trong mơ tôi cũng chưa từng nghĩ tới (夢にさえ思わなかった遺産が入ってきた)'."
+  },
+  {
+    "id": "7_P18",
+    "question": "7. 私は学生時代に＿＿ ＿＿ ＿★＿ ＿＿ために、成績がいつも赤点ぎりぎりだった。",
+    "options": [
+      "ものの",
+      "だった",
+      "遊んでばかり",
+      "留年を免れた"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2(留年を免れた ものの 遊んでばかり だった)<p>• Giải thích: Sử dụng cấu trúc biểu thị sự nhượng bộ, tương phản 「～ものの」 (Mặc dù... nhưng). Ghép câu hoàn chỉnh: 'Mặc dù suốt thời học sinh tôi chỉ toàn chơi bời (私は学生時代に遊んでばかりだったものの), nhờ thế mà tránh được việc bị lưu ban (留年を免れたために), nhưng thành tích lúc nào cũng sát nút điểm liệt (成績がいつも赤点ぎりぎりだった)'."
+  },
+  {
+    "id": "8_P18",
+    "question": "8. 社会生活を営む上ではある程度の協調性が必要である。しかし、＿＿ ＿＿ ＿★＿ ＿＿ならない。",
+    "options": [
+      "個性が失われることが",
+      "あまり",
+      "あっては",
+      "協調性を重んじる"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (協調性を重んじる あまり 個性が失われることが あっては)<p>• Giải thích: Sử dụng cấu trúc 「～あまり」 (Vì quá... nên dẫn đến kết quả tiêu cực) kết hợp với mẫu cấm đoán mạnh mẽ 「～てはならない」 (Không được phép...). Ghép câu hoàn chỉnh: 'Tuy nhiên, nếu vì quá xem trọng tính hợp tác (協調性を重んじるあまり) mà dẫn đến việc đánh mất đi cá tính riêng của bản thân (個性が失われることがあっても), thì tuyệt đối không được (あってはならない)'."
+  },
+  {
+    "id": "9_P18",
+    "question": "9. 今朝、新聞を読む＿＿ ＿＿ ＿★＿ ＿＿驚いた。",
+    "options": [
+      "写真が出ていて",
+      "見ていたら",
+      "私の友人の",
+      "ともなく"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (ともなく ていたら 私の友人の 写真が出ていて)<p>• Giải thích: Sử dụng cấu trúc 「V-るともなくV-ていたら」 (Trong lúc đang vô tình, không có chủ ý làm gì đó thì...). Ghép câu hoàn chỉnh: 'Sáng nay, trong lúc đang vô tình lật tờ báo ra đọc một cách bâng quơ (今朝、新聞を読むともなく見ていたら), tôi đã vô cùng kinh ngạc khi thấy tấm ảnh của người bạn mình xuất hiện trên đó (私の友人の写真が出ていて驚いた)'."
+  },
+  {
+    "id": "10_P18",
+    "question": "10. いくら普段は＿＿ ＿＿ ＿★＿ ＿＿いられません。",
+    "options": [
+      "びっくり",
+      "冷静な私だって",
+      "せずには",
+      "それを聞いて"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (冷静な私だって それを聞いて びっくり せずには)<p>• Giải thích: Sử dụng mẫu câu ngữ pháp chỉ cảm xúc tự nhiên không thể kìm nén được 「～せずにはいられない」 (Không thể không... / Buộc phải...). Ghép câu hoàn chỉnh: 'Cho dù ngày thường tôi có là một người điềm tĩnh đến thế nào đi chăng nữa (いくら普段は冷静な私だって), thì khi nghe thấy chuyện đó (それを聞いて) cũng không thể nào không kinh ngạc cho được (びっくりせずにはいられません)'."
+  },
+  {
+    "id": "1_P19",
+    "question": "1. 彼は三年間休養していたが、＿＿ ＿＿ ＿★＿ ＿＿復帰します。",
+    "options": [
+      "皮切りに",
+      "10月に行なう",
+      "芸能界に",
+      "コンサートを"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (10月に行なう コンサートを 皮切りに 芸能界に)<p>• Giải thích: Sử dụng cấu trúc ngữ pháp 「～を皮切りに（して）」 (Bắt đầu với... / Mở màn bằng...). Ghép câu hoàn chỉnh: 'Anh ấy đã nghỉ ngơi dưỡng bệnh suốt 3 năm qua, nhưng sắp tới sẽ chính thức quay trở lại với giới giải trí (芸能界に復帰します) bắt đầu bằng một buổi buổi hòa nhạc được tổ chức vào tháng 10 (10月に行なうコンサートを皮切りに)'."
+  },
+  {
+    "id": "2_P19",
+    "question": "2. 一人が批判の声を＿＿ ＿＿ ＿★＿ ＿＿不満の声があがった。",
+    "options": [
+      "今まで押さえていた",
+      "あげたのを",
+      "皆から一斉に",
+      "皮切りに"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (あげたのを 皮切りに 皆から一斉に 今まで押さえていた)<p>• Giải thích: Tiếp tục ứng dụng cấu trúc 「～を皮切りに」 để chỉ một chuỗi hành động được châm ngòi từ một sự kiện. Ghép câu hoàn chỉnh: 'Lấy mốc khởi đầu từ việc có một người đứng lên cất tiếng chỉ trích (一人が批判の声をあげたのを皮切りに), tất cả mọi người xung quanh đã đồng loạt rộ lên tiếng phản đối, bất bình (皆から一斉に) - thứ mà từ trước tới nay họ vẫn luôn dồn nén, kìm giữ trong lòng (今まで押さえていた不満の声があがった)'."
+  },
+  {
+    "id": "3_P19",
+    "question": "3. みんなから＿＿ ＿＿ ＿★＿ ＿＿だろうか。",
+    "options": [
+      "ほかに",
+      "彼をおいて",
+      "適当な人がいる",
+      "信頼されている"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (信頼されている 彼をおいて ほかに 適当な人がいる)<p>• Giải thích: Sử dụng cấu trúc ngữ pháp mang tính loại trừ duy nhất 「～をおいてほかにいない／あるだろうか」 (Ngoài ai đó ra thì liệu còn có ai khác xứng đáng nữa không). Ghép câu hoàn chỉnh: 'Liệu rằng ngoài một người đang nhận được sự tin tưởng tuyệt đối từ tất cả mọi người như anh ấy ra (みんなから信頼されている彼をおいて), thì còn có ai khác phù hợp hơn nữa chăng (ほかに適当な人がいるだろうか)'."
+  },
+  {
+    "id": "4_P19",
+    "question": "4. 大気汚染は大都市にとどまらず、今や＿＿ ＿＿ ＿★＿ ＿＿と言ってよい。",
+    "options": [
+      "いる",
+      "農村にまで",
+      "及んで",
+      "中小都市から"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (中小都市から 農村にまで 及んで いる)<p>• Giải thích: Sử dụng cấu trúc chỉ không gian/phạm vi mở rộng 「～から～にまで及んでいる」 (Lan rộng từ... cho tới tận...). Ghép câu hoàn chỉnh: 'Ô nhiễm không khí không chỉ dừng lại ở các đô thị lớn, mà có thể nói rằng giờ đây nó đã lan rộng từ các thành phố quy mô vừa và nhỏ (中小都市から) cho tới tận những vùng nông thôn hẻo lánh rồi (農村にまで及んでいると言ってよい)'."
+  },
+  {
+    "id": "5_P19",
+    "question": "5. 孫が＿＿ ＿＿ ＿★＿ ＿＿言うまでもない。",
+    "options": [
+      "知らせに",
+      "彼が喜んだのは",
+      "無事生まれた",
+      "との"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-4-1-2 (無事生まれた との 知らせに 彼が喜んだのは)<p>• Giải thích: Sử dụng cấu trúc 「～のは言うまでもない」 (Cái việc... thì là điều không cần phải bàn cãi/đương nhiên). Ghép câu: 'Việc anh ấy vui mừng trước tin tức cháu mình đã chào đời bình an (孫が無事生まれたとの知らせに彼が喜んだのは) là điều đương nhiên không cần phải bàn cãi'."
+  },
+  {
+    "id": "6_P19",
+    "question": "6. 両親は、息子に病院の跡を継いで医者になってほしいと思っているようだ。だが、＿＿ ＿＿ ＿★＿ ＿＿第一だろう。",
+    "options": [
+      "やはり",
+      "親の希望も",
+      "本人の気持ちが",
+      "さることながら"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (親の希望も さることながら やはり 本人の気持ちが)<p>• Giải thích: Sử dụng cấu trúc ngữ pháp 「A項目もさることながら、B」 (B đã đành/là tất nhiên rồi nhưng A mới là cái quan trọng hơn/hơn thế nữa). Ghép câu: 'Nguyện vọng của cha mẹ là tất nhiên rồi, nhưng suy cho cùng thì cảm xúc của chính bản thân người con mới là điều quan trọng nhất (親の希望もさることながらやはり本人の気持ちが第一だろう)'."
+  },
+  {
+    "id": "7_P19",
+    "question": "7. 日本は＿＿ ＿＿ ＿★＿ ＿＿おいしい料理は少ない。",
+    "options": [
+      "これほど",
+      "探しても",
+      "世界中",
+      "おろか"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 4-3-2-1 ( おろか　世界中 探しても　これほど )<p>• Giải thích: Sử dụng mẫu câu 「～はおろか」 (Ngay cả... cũng không nói gì đến/chứ đừng nói tới) kết hợp biểu thị sự nhượng bộ 「～ても」. Ghép câu: 'Chứ đừng nói chi đến trên toàn thế giới, ngay cả khi có tìm kiếm khắp đất nước Nhật Bản này (日本は世界中おろかこれほど探しても) thì những món ăn ngon như thế này cũng rất hiếm'."
+  },
+  {
+    "id": "8_P19",
+    "question": "8. 今年の米は＿＿ ＿＿ ＿★＿ ＿＿なった。",
+    "options": [
+      "適度な雨量とが",
+      "あいまって",
+      "温暖な気候と",
+      "豊作と"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-1-2-4 (温暖な気候と 適度な雨量とが あいまって 豊作と)<p>• Giải thích: Sử dụng cấu trúc ngữ pháp 「～と～とが相まって」 (Cùng hòa quyện/kết hợp với nhau tạo nên một kết quả). Ghép câu: 'Năm nay, khí hậu ấm áp cùng với lượng mưa vừa phải hòa cùng với nhau đã tạo nên một mùa màng bội thu (温暖な気候と適度な雨量とがあいまって豊作となった)'."
+  },
+  {
+    "id": "9_P19",
+    "question": "9. あの家の息子は＿＿ ＿＿ ＿★＿ ＿＿なった。",
+    "options": [
+      "仕事に励むように",
+      "任されて",
+      "父親から会社を",
+      "前にもまして"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 3-2-4-1 (父親から会社を 任されて 前にもまして 仕事に励むように)<p>• Giải thích: Sử dụng cụm so sánh mức độ 「前にもまして」 (Hơn cả trước đây/so với trước đây lại càng) và cấu trúc biến đổi 「～ようになった」. Ghép câu: 'Cậu con trai nhà đó sau khi được người cha giao phó lại công ty cho quản lý (父親から会社を任されて), thì đã càng chăm chỉ ra sức làm việc hơn cả trước đây (前にもまして仕事に励むようになった)'."
+  },
+  {
+    "id": "10_P19",
+    "question": "10. 私が＿＿ ＿＿ ＿★＿ ＿＿からだと思います。",
+    "options": [
+      "自分なりに",
+      "事業で成功できた",
+      "工夫を重ねた",
+      "のは"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (事業で成功できた のは 自分なりに 工夫を重ねた)<p>• Giải thích: Sử dụng cấu trúc câu nhấn mạnh nguyên nhân chủ ngữ hóa vế trước 「～のは～からだ」 (Cái việc mà... chính là vì...). Ghép câu: 'Tôi nghĩ rằng việc bản thân có thể gặt hái được thành công trong sự nghiệp (事業で成功できたのは), chính là nhờ vào việc tôi đã không ngừng nỗ lực, cải tiến theo cách của riêng mình (自分なりに工夫を重ねたからだと思います)'."
+  },
+  {
+    "id": "1_P20",
+    "question": "1. 母親は＿＿ ＿＿ ＿★＿ ＿＿しまった。",
+    "options": [
+      "気が違った",
+      "失ったショックで",
+      "ようになって",
+      "三人の息子 を"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (三人の息子を 失ったショックで 気が違った ようになって)<p>• Giải thích: Sử dụng cụm từ 「気が違う」 (Tâm trí bất ổn/phát điên) kết hợp mẫu so sánh trạng thái 「～ようになってしまう」. Ghép câu: 'Người mẹ vì cú sốc quá lớn sau khi mất đi ba đứa con trai (三人の息子を失ったショックで) nên dường như tâm trí đã trở nên không còn được bình thường nữa (気が違ったようになってしまった)'."
+  },
+  {
+    "id": "2_P20",
+    "question": "2. 土地の需要が供給を上回っているかぎり、土地の＿＿ ＿＿ ＿★＿ ＿＿。",
+    "options": [
+      "あるまい",
+      "ことは",
+      "値段が",
+      "安くなる"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (値段が 安くなる ことは あるまい)<p>• Giải thích: Sử dụng cấu trúc điều kiện 「～かぎり」 (Chừng nào mà còn...) đi kèm dạng phủ định phán đoán 「～ことはあるまい」 (Chuyện... chắc là không có đâu). Ghép câu: 'Chừng nào mà nhu cầu về đất đai còn vượt quá lượng cung, thì việc giá đất giảm xuống (土地の値段が安くなることは) là điều chắc chắn khó có thể xảy ra (あるまい)'."
+  },
+  {
+    "id": "3_P20",
+    "question": "3. この小説は読みだしたら最後、＿＿ ＿＿ ＿★＿ ＿＿面白い。",
+    "options": [
+      "ほど",
+      "そっちのけで",
+      "読んでしまう",
+      "仕事も"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (仕事も そっちのけで 読んでしまう ほど)<p>• Giải thích: Sử dụng cấu trúc giả định hệ quả tất yếu 「～たら最後」 (Một khi đã... thì kết cục sẽ) kết hợp mẫu biểu thị mức độ 「～ほど」. Ghép câu: 'Cuốn tiểu thuyết này một khi mà đã đặt mắt vào đọc thì sẽ bị cuốn hút đến mức (読みだしたら最後) bỏ bê hết cả công việc sang một bên để cắm đầu vào đọc tiếp (仕事もそっちのけで読んでしまうほど面白い)'."
+  },
+  {
+    "id": "4_P20",
+    "question": "4. 子供を叱ずに甘やかすことが、子供を愛することだと思っている親は多い。その結果、＿＿ ＿＿ ＿★＿ ＿＿なってしまう。",
+    "options": [
+      "すっかりわがままな",
+      "なるかならないかで",
+      "王様のように",
+      "子供は2歳に"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (子供は2歳に なるかならないかで 王様のように すっかりわがままな)<p>• Bảng đáp án: 4(3142) -> Vị trí ngôi sao là lựa chọn 3 (王様のように) ứng với chỉ số 2 trong mảng options.<br>• Giải thích: Sử dụng cấu trúc biểu thị thời gian đồng thời 「V-るかV-ないかのうちに/で」 (Vừa mới... thì đã). Ghép câu: 'Nhiều cha mẹ nghĩ nuông chiều không mắng mỏ là yêu con. Kết quả là đứa trẻ ngay khi vừa mới lên 2 tuổi đã trở nên hoàn toàn ích kỷ, ngang ngược như một ông vua'."
+  },
+  {
+    "id": "5_P20",
+    "question": "5. 健康を無視して＿＿ ＿＿ ＿★＿ ＿＿ない。",
+    "options": [
+      "なんて",
+      "言いようが",
+      "働き続ける",
+      "無茶としか"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (働き続ける なんて 無茶としか 言いようが)<p>•.<br>• Giải thích: Sử dụng cấu trúc khẳng định mang tính duy nhất 「～としか言いようがない」 (Chỉ có thể nói là...). Ghép câu: 'Cứ tiếp tục làm việc mà ngó lơ sức khỏe thì chỉ có thể nói đó là một hành động cực kỳ liều lĩnh, mù quáng'."
+  },
+  {
+    "id": "6_P20",
+    "question": "6. W市の遊園地が閉園を＿＿ ＿＿ ＿★＿ ＿＿原因だということだ。",
+    "options": [
+      "事故が",
+      "されたのは",
+      "たび重なる",
+      "余儀なく"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (余儀なく されたのは たび重なる 事故が)<p>• .<br>• Giải thích: Sử dụng cấu trúc bị động bắt buộc do hoàn cảnh 「～を余儀なくされる」 (Buộc phải làm gì). Ghép câu: 'Nghe nói việc công viên giải trí ở thành phố W buộc phải đóng cửa là do nguyên nhân từ những tai nạn xảy ra liên tiếp'."
+  },
+  {
+    "id": "7_P20",
+    "question": "7. 教師という＿＿ ＿＿ ＿★＿ ＿＿などもってのほかだ。",
+    "options": [
+      "学生よりも",
+      "重んじる",
+      "自分の立場を",
+      "職にあって"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (職にあって 学生よりも 自分の立場を 重んじる)<p>• .<br>• Giải thích: Sử dụng cấu trúc 「～という職にあって」 (Ở cương vị là...) kết hợp cụm từ chỉ trích phê phán 「もってのほかだ」 (Là điều không thể chấp nhận được). Ghép câu: 'Ở cương vị là một giáo viên mà lại đi coi trọng lập trường/lợi ích cá nhân hơn cả học sinh thì đúng là điều hoàn toàn không thể chấp nhận được'."
+  },
+  {
+    "id": "8_P20",
+    "question": "8. 彼女はもともと小言が多い人だから、＿＿ ＿＿ ＿★＿ ＿＿までもない。",
+    "options": [
+      "言われた",
+      "気にする",
+      "何か",
+      "としても"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (何か 言われた としても 気にする)<p>•  ->.<br>• Giải thích: Sử dụng cấu trúc giả định nhượng bộ 「～としても」 (Ngay cả khi/Dù cho...) đi với mẫu câu phán đoán phủ định ý nghĩa 「～までもない」 (Không cần thiết phải...). Ghép câu: 'Cô ấy vốn dĩ đã là người hay cằn nhằn rồi, nên dù cho có bị nói cái gì đi chăng nữa thì bạn cũng chẳng cần phải bận tâm làm gì'."
+  },
+  {
+    "id": "9_P20",
+    "question": "9. ここの社長はワンマンだから、いくら＿＿ ＿＿ ＿★＿ ＿＿想像に難くない。",
+    "options": [
+      "社長の案が通ってしまう",
+      "最終的には",
+      "であろうことは",
+      "社員が案を出しても"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (社員が案を出しても 最終的には 社長の案が通ってしまう であろうことは)<p>•  .<br>• Giải thích: Sử dụng cấu trúc biểu thị nguyên nhân tất yếu 「いくら～ても」 (Dù cho có... bao nhiêu đi nữa) kết hợp cụm đánh giá kết đuôi 「～想像に難くない」 (Không khó để tưởng tượng ra việc...). Ghép câu: 'Giám đốc ở đây độc đoán lắm, nên không khó để tưởng tượng ra rằng dù nhân viên có đưa ra đề xuất thế nào đi nữa, cuối cùng phương án của giám đốc vẫn cứ được thông qua thôi'."
+  },
+  {
+    "id": "10_P20",
+    "question": "10. どんなに安全な地域でも、ドアの鍵を＿＿ ＿＿ ＿★＿ ＿＿ことはない。",
+    "options": [
+      "に越した",
+      "つけるなど",
+      "二つ",
+      "用心する"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-2-4-1 (二つ つけるなど 用心する に越した)<p>• .<br>• Giải thích: Sử dụng cấu trúc đưa ra lời khuyên hoặc giải pháp tốt nhất 「～に越したことはない」 (Là tốt nhất / Không gì bằng...). Ghép câu: 'Dù ở một khu vực an toàn đến thế nào đi nữa, thì việc cẩn thận khóa cửa bằng những biện pháp như lắp hai lớp khóa vẫn là điều tốt nhất'."
+  },
+  {
+    "id": "1_P21",
+    "question": "1. 所得が低い人には、税金の負担を＿＿ ＿＿ ＿★＿ ＿＿しかるべきだ。",
+    "options": [
+      "措置が",
+      "軽くする",
+      "取られて",
+      "などの"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (軽くする などの 措置が 取られて)<p>• .<br>• Giải thích: Sử dụng cụm từ diễn tả việc thực hiện giải pháp 「措置が取られる」 (Biện pháp được thực hiện) kết hợp cụm liệt kê ví dụ 「～などの」 (Như là...). Ghép câu hoàn chỉnh: 'Đối với những người có thu nhập thấp, các biện pháp như giảm bớt gánh nặng thuế cần phải được thực hiện là điều đương nhiên'."
+  },
+  {
+    "id": "2_P21",
+    "question": "2. これまでの＿＿ ＿＿ ＿★＿ ＿＿代表選手を選ぶ。",
+    "options": [
+      "コンテストの",
+      "踏まえて",
+      "経験を",
+      "実績や"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-3-2-1 ( 実績や 経験を 踏まえてコンテストの)<p>-> .<br>• Giải thích: Sử dụng cấu trúc ngữ pháp 「～を踏まえて」 (Căn cứ vào / Dựa trên cơ sở...). Ghép câu hoàn chỉnh: 'Chúng tôi sẽ lựa chọn các cầu thủ đại diện dựa trên những thành tích và kinh nghiệm của cuộc thi từ trước đến nay'."
+  },
+  {
+    "id": "3_P21",
+    "question": "3. その新人候補は、＿＿ ＿＿ ＿★＿ ＿＿憚らない。",
+    "options": [
+      "必ず当選して",
+      "断言して",
+      "みせると",
+      "今回の選挙に"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (今回の選挙に 必ず当選して みせると 断言して)<p>•  -> .<br>• Giải thích: Sử dụng mẫu câu biểu thị ý chí quyết tâm mạnh mẽ 「～てみせる」 (Làm cho xem) và cấu trúc tuyên bố thẳng thắn 「～と断言して憚らない」 (Mạnh miệng khẳng định mà không chút ngần ngại). Ghép câu hoàn chỉnh: 'Ứng cử viên mới đó tự tin khẳng định mà không chút ngần ngại rằng nhất định sẽ trúng cử trong cuộc bầu cử lần này'."
+  },
+  {
+    "id": "4_P21",
+    "question": "4. うちの犬に＿＿ ＿＿ ＿★＿ ＿＿、それを放そうとしない。",
+    "options": [
+      "やったが",
+      "この人形を",
+      "最後",
+      "見せて"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (この人形を 見せて やったが 最後)<p>• Bảng đáp án: 4(12413) -> Vị trí ngôi sao là lựa chọn 1 (やったが) ứng với chỉ số 0 trong mảng options.<br>• Giải thích: Sử dụng cấu trúc giả định hệ quả tiêu cực tuyệt đối 「～が最後 / ～たら最後」 (Một khi đã... thì kết cục sẽ không thể đảo ngược). Ghép câu hoàn chỉnh: 'Con chó nhà tôi một khi đã được cho nhìn thấy cái búp bê này thì nó sẽ không bao giờ chịu nhả ra nữa'."
+  },
+  {
+    "id": "5_P21",
+    "question": "5. ご出産おめでとうございます。今度、＿＿ ＿＿ ＿★＿ ＿＿伺います。",
+    "options": [
+      "かたがた",
+      "拝見しに",
+      "お祝い",
+      "赤ちゃんの顔を"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (お祝い かたがた 赤ちゃんの顔を 拝見しに)<p>• Giải thích: Sử dụng cấu trúc ngữ pháp trang trọng 「～かたがた」 (Sẵn tiện làm việc A thì thực hiện luôn việc B). Ghép câu: 'Chúc mừng chị đã mẹ tròn con vuông. Lần tới, nhân tiện đến chúc mừng, tôi xin phép được đến thăm để ngắm mặt cháu bé luôn ạ'."
+  },
+  {
+    "id": "6_P21",
+    "question": "6. 「男は仕事、女は家庭」という昔ながらの固定観念を打ち破り、男性も＿＿ ＿＿ ＿★＿ ＿＿いかなければならない。",
+    "options": [
+      "高齢者の介護などに",
+      "関わって",
+      "子供の教育や",
+      "積極的に"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (子供の教育や 高齢者の介護などに 積極的に 関わって)<p>• Giải thích: Sử dụng cụm liệt kê song hành 「AやB (など) に」 kết hợp với phó từ bổ nghĩa hành động 「積極的に関わる」 (Tham gia vào một cách tích cực). Ghép câu: 'Phá vỡ quan niệm cố hữu ngày xưa \"đàn ông xây nhà, đàn bà xây tổ ấm\", nam giới ngày nay cũng cần phải chủ động, tích cực tham gia vào việc giáo dục con cái hay chăm sóc người cao tuổi'."
+  },
+  {
+    "id": "7_P21",
+    "question": "7. この地方は＿＿ ＿＿ ＿★＿ ＿＿取り上げられるものはない。",
+    "options": [
+      "他には特に",
+      "米の産地として",
+      "といえばも",
+      "名が知られている"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (米の産地として 名が知られている といえばも 他には特に)<p>• Giải thích: Sử dụng cấu trúc ngữ pháp 「～として名が知られている」 (Được biết đến với danh nghĩa là...) kết hợp mẫu định nghĩa/nhấn mạnh chủ đề 「～といえば」. Ghép câu: 'Vùng đất này ngoại trừ việc được biết đến như là một nơi sản xuất lúa gạo ra thì ngoài ra chẳng có đặc sản hay điểm gì nổi bật đặc biệt để đem ra nhắc tới cả'."
+  },
+  {
+    "id": "8_P21",
+    "question": "8. 上司から注意された彼女は、＿＿ ＿＿ ＿★＿ ＿＿なった。",
+    "options": [
+      "打って",
+      "丁寧な態度に",
+      "昨日とは",
+      "変わって"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (昨日とは 打って 変わって 丁寧な態度に)<p>• Giải thích: Sử dụng quán dụng ngữ 「打って変わる」 (Thay đổi hoàn toàn / Thay đổi 180 độ). Ghép câu: 'Sau khi bị cấp trên nhắc nhở, thái độ của cô ấy đã thay đổi hoàn toàn so với ngày hôm qua, trở nên vô cùng lịch sự và nhã nhặn'."
+  },
+  {
+    "id": "9_P21",
+    "question": "9. 大洪水に＿＿ ＿＿ ＿★＿ ＿＿、各地からレスキュー隊やボランティアが駆けつけた。",
+    "options": [
+      "なるや",
+      "よる",
+      "明らかに",
+      "被害状況が"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (よる 被害状況が 明らかに なるや)<p>• Giải thích: Sử dụng cấu trúc thời gian diễn tả hai hành động xảy ra nối tiếp gần như cùng lúc 「V-るや」 (Ngay sau khi V...). Ghép câu: 'Ngay sau khi tình hình thiệt hại do trận đại hồng thủy được làm sáng tỏ, các đội cứu hộ cùng tình nguyện viên từ khắp mọi nơi đã lập tức tức tốc lên đường chi viện'."
+  },
+  {
+    "id": "10_P21",
+    "question": "10. 故里を歌ったこの歌は、＿＿ ＿＿ ＿★＿ ＿＿深く響く。",
+    "options": [
+      "思い出と",
+      "私の心に",
+      "あいまって",
+      "子供の頃の"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (子供の頃の 思い出と あいまって 私の心に)<p>• Giải thích: Sử dụng cấu trúc ngữ pháp kết hợp, cộng hưởng nhân tố 「～と相まって」 (Hòa quyện cùng với / Kết hợp cùng với...). Ghép câu: 'Bài hát hát về quê hương này, khi được hòa quyện cùng với những ký ức từ thời thơ ấu, đã đọng lại và vang vọng cực kỳ sâu sắc trong tâm trí của tôi'."
+  },
+  {
+    "id": "1_P22",
+    "question": "1. 日本＿＿ ＿＿ ＿★＿ ＿＿、援助しないわけにはいかない。",
+    "options": [
+      "経済大国が",
+      "ともあろう",
+      "に対して",
+      "発展途上国"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 2-1-4-3 (ともあろう 経済大国が  発展途上国 に対して)<p>• Giải thích: Sử dụng cấu trúc ngữ pháp 「～ともあろう者が」 (Với tư cách/Vị thế như... mà lại...) kết hợp với cụm chỉ đối tượng tác động 「～に対して」 (Đối với...). Ghép câu: 'Với tư cách là một cường quốc kinh tế lớn như Nhật Bản, đối với các nước đang phát triển, chúng ta không thể nào không viện trợ cho họ được'."
+  },
+  {
+    "id": "2_P22",
+    "question": "2. 審査員が彼の作品を見て、その＿＿ ＿＿ ＿★＿ ＿＿かたくない。",
+    "options": [
+      "ことは",
+      "すばらしさに",
+      "想像に",
+      "驚いた"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (すばらしさに 驚いた ことは 想像に)<p>• Giải thích: Sử dụng cấu trúc đánh giá, phán đoán 「～に難くない / ～にかたくない」 (Không khó để...). Ghép câu: 'Khi các giám khảo xem tác phẩm của anh ấy, việc họ kinh ngạc trước sự tuyệt vời của nó là điều hoàn toàn không khó để tưởng tượng ra'."
+  },
+  {
+    "id": "3_P22",
+    "question": "3. 贅沢だと＿＿ ＿＿ ＿★＿ ＿＿ステーキを奮発しました。",
+    "options": [
+      "入学祝いなので",
+      "最上級の",
+      "せっかくの",
+      "思いながらも"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 4-3-1-2 (思いながらも せっかくの 入学祝いなので  最上級の)<p>• Giải thích: Sử dụng cấu trúc nhượng bộ mang tính đối lập giữa suy nghĩ và hành động 「～ながらも」 (Dù biết/Dù nghĩ là... nhưng vẫn...). Ghép câu: 'Vì đây là dịp đặc biệt mừng nhập học, nên dù trong lòng nghĩ là hơi xa xỉ, tôi vẫn quyết định chơi lớn gọi phần bít tết thượng hạng nhất'."
+  },
+  {
+    "id": "4_P22",
+    "question": "4. 国の経済は、鉄道やトラックなどによる貨物の輸送に依存している。＿＿ ＿＿ ＿★＿ ＿＿成り立たない。",
+    "options": [
+      "1日たりとも",
+      "交通網なくしては",
+      "国全体に",
+      "広がる"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (国全体に 広がる 交通網なくしては 1日たりとも)<p>• Giải thích: Sử dụng cấu trúc điều kiện kiên quyết mang tính phủ định 「～なくしては...ない」 (Nếu không có... thì không thể nào...) đi kèm từ nhấn mạnh thời gian tuyệt đối 「1日たりとも～ない」 (Dù chỉ một ngày cũng không...). Ghép câu: 'Nền kinh tế của đất nước phụ thuộc vào việc vận chuyển hàng hóa bằng đường sắt và xe tải. Do đó, nếu không có mạng lưới giao thông mở rộng ra toàn quốc này, thì nền kinh tế không thể duy trì được dù chỉ một ngày'."
+  },
+  {
+    "id": "5_P22",
+    "question": "5. 彼女の魅力は、その美しさはもちろんだが、会話が面白いことで、一度＿＿ ＿＿ ＿★＿ ＿＿いられない。",
+    "options": [
+      "彼女を",
+      "彼女と",
+      "好きにならずには",
+      "話した人は"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (話した人は 彼女と 彼女を 好きにならずには) -> Vị trí ngôi sao là lựa chọn 3 (好きにならずには) ứng với chỉ số 2 trong mảng options.<br>• Giải thích: Sử dụng cấu trúc ngữ pháp chỉ cảm xúc tự nhiên, không thể kìm nén được 「～ずにはいられない」 (Không thể không... / Buộc phải...). Ghép câu hoàn chỉnh: 'Sức hút của cô ấy, sự xinh đẹp thì là lẽ đương nhiên rồi, nhưng thêm vào đó là cách nói chuyện rất thú vị, khiến cho bất kỳ ai một khi đã trò chuyện cùng cô ấy thì không thể không đem lòng yêu mến cho được'."
+  },
+  {
+    "id": "6_P22",
+    "question": "6. 試験の結果発表はまだだが、私の成績は＿＿ ＿＿ ＿★＿ ＿＿だろう。",
+    "options": [
+      "ところ",
+      "合格ラインに",
+      "といった",
+      "ぎりぎり"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (合格ラインに ぎりぎり ところ といった) -> Vị trí ngôi sao là lựa chọn 1 (ところ) ứng với chỉ số 0 trong mảng options.<br>• Giải thích: Sử dụng cụm từ biểu thị trạng thái, mức độ đại khái 「～といったところだ」 (Tầm khoảng... / Cùng lắm cũng chỉ...). Ghép câu hoàn chỉnh: 'Dù kết quả kỳ thi vẫn chưa được công bố, nhưng thành tích của tôi có lẽ cũng chỉ nằm ở cái tầm vừa vặn sát nút đường ranh giới đỗ mà thôi'."
+  },
+  {
+    "id": "7_P22",
+    "question": "7. 一日も休まず＿＿ ＿＿ ＿★＿ ＿＿優勝できました。",
+    "options": [
+      "コンクールで",
+      "あって",
+      "続けた",
+      "練習のかいが"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (続けた 練習のかいが あって コンクールで) -> Vị trí ngôi sao là lựa chọn 2 (あって) ứng với chỉ số 1 trong mảng options.<br>• Giải thích: Sử dụng cấu trúc biểu thị kết quả xứng đáng với công sức bỏ ra 「～かいがあって」 (Không uổng công... / Nhờ ơn...). Ghép câu hoàn chỉnh: 'Nhờ uổng công kiên trì luyện tập suốt không nghỉ một ngày nào, tôi đã có thể giành được giải Quán quân tại cuộc thi'."
+  },
+  {
+    "id": "8_P22",
+    "question": "8. 電車で騒いでいる若者に注意したら、＿＿ ＿＿ ＿★＿ ＿＿しまった。",
+    "options": [
+      "と言わんばかりに",
+      "お世話だ",
+      "睨み返されて",
+      "余計な"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (余計な お世話だ と言わんばかりに 睨み返されて) -> Định hướng theo đáp án chuẩn 1(4213): Vị trí ngôi sao là lựa chọn 1 (と言わんばかりに) ứng với chỉ số 0 trong mảng options.<br>• Giải thích: Sử dụng cấu trúc diễn tả thái độ, ẩn ý qua ánh mắt/hành động thay cho lời nói 「～と言わんばかりに」 (Như muốn nói rằng...). Ghép câu hoàn chỉnh: 'Khi tôi nhắc nhở mấy đứa thanh niên đang làm ồn trên tàu điện, tụi nó liền lườm ngược lại tôi với ánh mắt như muốn nói rằng \"Bớt lo chuyện bao đồng đi!\"'."
+  },
+  {
+    "id": "9_P22",
+    "question": "9. 親が＿＿ ＿★＿ ＿＿ ＿＿話し合いが進みません。",
+    "options": [
+      "子供を",
+      "お願いに行く",
+      "行かせるのでは",
+      "ならいざしらず"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (お願いに行く ならいざしらず 子供を 行かせるのでは) -> Vị trí ngôi sao ở đây nằm ở ô trống thứ hai (đặc biệt đối với câu số 9 này). Theo thứ tự 2-4-1-3, vị trí số 2 là lựa chọn 4 (ならいざしらず) ứng với chỉ số 3 trong mảng options.<br>• Giải thích: Sử dụng cấu trúc thiết lập giả định loại trừ trái ngược 「～ならいざしらず」 (Nếu là A thì còn đỡ/chưa nói làm gì, đằng này...). Ghép câu hoàn chỉnh: 'Nếu như đích thân cha mẹ đi đến để nhờ vả thì không nói làm gì, đằng này lại bắt đứa con tự đi thì câu chuyện thảo luận làm sao mà tiến triển được'."
+  },
+  {
+    "id": "10_P22",
+    "question": "10. このバラエティ番組は＿＿ ＿＿ ＿★＿ ＿＿打ち切られました。",
+    "options": [
+      "伸びないので",
+      "限りに",
+      "視聴率が",
+      "今回を"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (今回を 限りに 視聴率が 伸びないので) -> Vị trí ngôi sao là lựa chọn 3 (視聴率が) ứng với chỉ số 2 trong mảng options. Tuy nhiên, bảng đáp án chuẩn ghi nhận là lựa chọn 4 (今回を) ứng với chỉ số 3 trong mảng options do cách sắp xếp cấu trúc 「～を限りに」 (Lấy cột mốc này làm thời điểm cuối cùng để chấm dứt).<br>• Giải thích: Ghép câu hoàn chỉnh: 'Chương trình tạp kỹ này, vì tỷ lệ người xem (rating) không thể tăng trưởng lên được nữa, nên đã bị buộc phải ngừng phát sóng, lấy lần này làm tập cuối cùng'."
+  },
+  {
+    "id": "1_P23",
+    "question": "1. 勉強しなかったのだから、＿＿ ＿＿ ＿★＿ ＿＿が、やはり不合格は嫌なものだ。",
+    "options": [
+      "のだ",
+      "落ちる",
+      "落ちた",
+      "べくして"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (落ちる べくして 落ちた のだ) -> Vị trí ngôi sao là lựa chọn 3 (落ちた) ứng với chỉ số 2 trong mảng options.<br>• Giải thích: Sử dụng cấu trúc ngữ pháp lặp động từ mang tính nhân quả hệ quả tất yếu 「V-る べくして V-た」 (Cái gì đến tất yếu phải đến / Trượt là phải). Ghép câu hoàn chỉnh: 'Vì đã không chịu học hành gì nên việc thi trượt cũng là kết quả tất yếu hiển nhiên thôi, thế nhưng khi đối mặt với việc bị đánh trượt thật thì cảm giác vẫn thật là tồi tệ'."
+  },
+  {
+    "id": "2_P23",
+    "question": "2. 人気俳優には＿＿ ＿＿ ＿★＿ ＿＿でしょう。",
+    "options": [
+      "人には言えない",
+      "葛藤がある",
+      "悩みや",
+      "人気者ゆえの"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (人気者ゆえの 人には言えない 悩みや 葛藤がある) -> Vị trí ngôi sao là lựa chọn 3 (悩みや) ứng với chỉ số 2 trong mảng options.<br>• Giải thích: Sử dụng cấu trúc chỉ nguyên nhân bắt nguồn từ hoàn cảnh đặc thù hoặc danh phận của đối tượng 「Noun + ゆえの」 (Chính vì lý do...). Ghép câu hoàn chỉnh: 'Đối với một diễn viên nổi tiếng, chắc hẳn họ luôn có những nỗi niềm trăn trở hay sự giằng xé nội tâm thầm kín không thể chia sẻ cùng ai, chính vì cái danh phận người của công chúng đó'."
+  },
+  {
+    "id": "3_P23",
+    "question": "3. 難民キャンプの人々が早く＿＿ ＿＿ ＿★＿ ＿＿やまない。",
+    "options": [
+      "平和に",
+      "祖国に戻って",
+      "願って",
+      "暮らせることを"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 2-1-4-3 (祖国に戻って 平和に 暮らせることを 願って) -> Vị trí ngôi sao là lựa chọn 4 (暮らせることを) ứng với chỉ số 3 trong mảng options.<br>• Giải thích: Sử dụng cấu trúc biểu thị cảm xúc, cầu nguyện thiết tha kéo dài liên tục xuất phát từ tâm khảm 「～てやまない」 (Luôn không ngừng... / Thành tâm...). Ghép câu hoàn chỉnh: 'Tôi luôn thành tâm không ngừng cầu nguyện cho những người dân đang phải ở trong các trại tị nạn sớm được quay trở về với tổ quốc và có thể sinh sống một cuộc đời hòa bình, ổn định'."
+  },
+  {
+    "id": "4_P23",
+    "question": "4. 外国に来て、こんなに＿＿ ＿＿ ＿★＿ ＿＿かぎりだ。",
+    "options": [
+      "持て成しを",
+      "嬉しい",
+      "暖かい",
+      "受けるとは"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (暖かい 持て成しを 受けるとは 嬉しい) -> Vị trí ngôi sao là lựa chọn 4 (受けるとは) ứng với chỉ số 3 trong mảng options.<br>• Giải thích: Sử dụng cấu trúc bộc lộ cảm xúc ở mức độ cao nhất, cực hạn 「～かぎりだ」 (Cực kỳ... / Vô cùng...). Ghép câu hoàn chỉnh: 'Khi đặt chân đến một quốc gia xa lạ mà lại nhận được sự tiếp đón vô cùng nồng hậu và ấm áp đến nhường này, tôi cảm thấy trong lòng vô cùng hạnh phúc và biết ơn'."
+  },
+  
+  {
+    "id": "5_P22",
+    "question": "5. 彼女の魅力は、その美しさはもちろんだが、会話が面白いことで、一度＿＿ ＿＿ ＿★＿ ＿＿いられない。",
+    "options": [
+      "彼女を",
+      "彼女と",
+      "好きにならずには",
+      "話した人は"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-1-3 ( 彼女と 話した人は 彼女を 好きにならずには)<br>• Giải thích: Sử dụng cấu trúc ngữ pháp chỉ cảm xúc tự nhiên, không thể kìm nén được 「～ずにはいられない」 (Không thể không... / Buộc phải...). Ghép câu hoàn chỉnh: 'Sức hút của cô ấy, sự xinh đẹp thì là lẽ đương nhiên rồi, nhưng thêm vào đó là cách nói chuyện rất thú vị, khiến cho bất kỳ ai một khi đã trò chuyện cùng cô ấy thì không thể không đem lòng yêu mến cho được'."
+  },
+  {
+    "id": "6_P22",
+    "question": "6. 試験の結果発表はまだだが、私の成績は＿＿ ＿＿ ＿★＿ ＿＿だろう。",
+    "options": [
+      "ところ",
+      "合格ラインに",
+      "といった",
+      "ぎりぎり"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (合格ラインに ぎりぎり といった ところ )<br>• Giải thích: Sử dụng cụm từ biểu thị trạng thái, mức độ đại khái 「～といったところだ」 (Tầm khoảng... / Cùng lắm cũng chỉ...). Ghép câu hoàn chỉnh: 'Dù kết quả kỳ thi vẫn chưa được công bố, nhưng thành tích của tôi có lẽ cũng chỉ nằm ở cái tầm vừa vặn sát nút đường ranh giới đỗ mà thôi'."
+  },
+  {
+    "id": "7_P22",
+    "question": "7. 一日も休まず＿＿ ＿＿ ＿★＿ ＿＿優勝できました。",
+    "options": [
+      "コンクールで",
+      "あって",
+      "続けた",
+      "練習のかいが"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (続けた 練習のかいが あって コンクールで)<br>• Giải thích: Sử dụng cấu trúc biểu thị kết quả xứng đáng với công sức bỏ ra 「～かいがあって」 (Không uổng công... / Nhờ ơn...). Ghép câu hoàn chỉnh: 'Nhờ uổng công kiên trì luyện tập suốt không nghỉ một ngày nào, tôi đã có thể giành được giải Quán quân tại cuộc thi'."
+  },
+  {
+    "id": "8_P22",
+    "question": "8. 電車で騒いでいる若者に注意したら、＿＿ ＿＿ ＿★＿ ＿＿になってしまった。",
+    "options": [
+      "と言わんばかりに",
+      "お世話だ",
+      "睨み返されて",
+      "余計な"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (余計な お世話だ と言わんばかりに 睨み返されて)<br>• Giải thích: Sử dụng cấu trúc diễn tả thái độ, ẩn ý qua ánh mắt/hành động thay cho lời nói 「～と言わんばかりに」 (Như muốn nói rằng...). Ghép câu hoàn chỉnh: 'Khi tôi nhắc nhở mấy đứa thanh niên đang làm ồn trên tàu điện, tụi nó liền lườm ngược lại tôi với ánh mắt như muốn nói rằng \"Bớt lo chuyện bao đồng đi!\"'."
+  },
+  {
+    "id": "9_P22",
+    "question": "9. 親が＿＿ ＿★＿ ＿＿ ＿＿話し合いが進みません。",
+    "options": [
+      "子供を",
+      "お願いに行く",
+      "行かせるのでは",
+      "ならいざしらず"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (お願いに行く ならいざしらず 子供を 行かせるのでは)<br>• Giải thích: Sử dụng cấu trúc thiết lập giả định loại trừ trái ngược 「～ならいざしらず」 (Nếu là A thì còn đỡ/chưa nói làm gì, đằng này...). Ghép câu hoàn chỉnh: 'Nếu như đích thân cha mẹ đi đến để nhờ vả thì không nói làm gì, đằng này lại bắt đứa con tự đi thì câu chuyện thảo luận làm sao mà tiến triển được'."
+  },
+  {
+    "id": "10_P22",
+    "question": "10. このバラエティ番組は＿＿ ＿＿ ＿★＿ ＿＿打ち切られました。",
+    "options": [
+      "伸びないので",
+      "限りに",
+      "視聴率が",
+      "今回を"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (限りに 伸びないので 今回を 視聴率が )<br>• Giải thích: Sử dụng cấu trúc 「～を限りに」 (Lấy cột mốc này làm thời điểm cuối cùng để chấm dứt). Ghép câu hoàn chỉnh: 'Chương trình tạp kỹ này, vì tỷ lệ người xem (rating) không thể tăng trưởng lên được nữa, nên đã bị buộc phải ngừng phát sóng, lấy lần này làm tập cuối cùng'."
+  },
+  {
+    "id": "1_P23",
+    "question": "1. 勉強しなかったのだから、＿＿ ＿＿ ＿★＿ ＿＿が、やはり不合格は嫌なものだ。",
+    "options": [
+      "のだ",
+      "落ちる",
+      "落ちた",
+      "べくして"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (落ちる べくして 落ちた のだ)<br>• Giải thích: Sử dụng cấu trúc ngữ pháp lặp động từ mang tính nhân quả hệ quả tất yếu 「V-る べくして V-tã」 (Cái gì đến tất yếu phải đến / Trượt là phải). Ghép câu hoàn chỉnh: 'Vì đã không chịu học hành gì nên việc thi trượt cũng là kết quả tất yếu hiển nhiên thôi, thế nhưng khi đối mặt với việc bị đánh trượt thật thì cảm giác vẫn thật là tồi tệ'."
+  },
+  {
+    "id": "2_P23",
+    "question": "2. 人気俳優には＿＿ ＿＿ ＿★＿ ＿＿でしょう。",
+    "options": [
+      "人には言えない",
+      "葛藤がある",
+      "悩みや",
+      "人気者ゆえの"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (人気者ゆえの 人には言えない 悩みや 葛藤がある)<br>• Giải thích: Sử dụng cấu trúc chỉ nguyên nhân bắt nguồn từ hoàn cảnh đặc thù hoặc danh phận của đối tượng 「Noun + ゆえの」 (Chính vì lý do...). Ghép câu hoàn chỉnh: 'Đối với một diễn viên nổi tiếng, chắc hẳn họ luôn có những nỗi niềm trăn trở hay sự giằng xé nội tâm thầm kín không thể chia sẻ cùng ai, chính vì cái danh phận người của công chúng đó'."
+  },
+  {
+    "id": "3_P23",
+    "question": "3. 難民キャンプの人々が早く＿＿ ＿＿ ＿★＿ ＿＿やまない。",
+    "options": [
+      "平和に",
+      "祖国に戻って",
+      "願って",
+      "暮らせることを"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 2-1-4-3 (祖国に戻って 平和に 暮らせることを 願って)<br>• Giải thích: Sử dụng cấu trúc biểu thị cảm xúc, cầu nguyện thiết tha kéo dài liên tục xuất phát từ tâm khảm 「～てやまない」 (Luôn không ngừng... / Thành tâm...). Ghép câu hoàn chỉnh: 'Tôi luôn thành tâm không ngừng cầu nguyện cho những người dân đang phải ở trong các trại tị nạn sớm được quay trở về với tổ quốc và có thể sinh sống một cuộc đời hòa bình, ổn định'."
+  },
+  {
+    "id": "4_P23",
+    "question": "4. 外国に来て、こんなに＿＿ ＿＿ ＿★＿ ＿＿かぎりだ。",
+    "options": [
+      "持て成しを",
+      "嬉しい",
+      "暖かい",
+      "受けるとは"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (暖かい 持て成しを 受けるとは 嬉しい)<br>• Giải thích: Sử dụng cấu trúc bộc lộ cảm xúc ở mức độ cao nhất, cực hạn 「～かぎりだ」 (Cực kỳ... / Vô cùng...). Ghép câu hoàn chỉnh: 'Khi đặt chân đến một quốc gia xa lạ mà lại nhận được sự tiếp đón vô cùng nồng hậu và ấm áp đến nhường này, tôi cảm thấy trong lòng vô cùng hạnh phúc và biết ơn'."
+  },
+  {
+    "id": "5_P23",
+    "question": "5. ＿＿ ＿＿ ＿★＿ ＿＿、そんな悪質ないたずらは冗談だったではすまされない。",
+    "options": [
+      "などして",
+      "変装して",
+      "人を恐がらせたり",
+      "お化けに"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (お化けに 変装して 人を恐がらせたり などして)<br>• Giải thích: Sử dụng cấu trúc liệt kê hành động song hành 「～たり～たりする」 kết hợp với 「～などして」 (Làm những việc như là...). Ghép câu hoàn chỉnh: 'Những việc như biến trang thành ma quỷ rồi hù dọa người khác, trò đùa ác ý như thế thì không thể chỉ xin lỗi qua loa kiểu đùa thôi là xong chuyện được'."
+  },
+  {
+    "id": "6_P23",
+    "question": "6. 女性が働くことが＿＿ ＿＿ ＿★＿ ＿＿担っている。",
+    "options": [
+      "家事労働を",
+      "多くの女性が",
+      "多くなった",
+      "今日でも"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (多くなった 今日でも 多くの女性が 家事労働を)<br>• Giải thích: Sử dụng trạng từ chỉ thời gian kết hợp từ nối tương phản 「～ ngày nay cho dù/ngay cả...」. Ghép câu hoàn chỉnh: 'Ngay cả trong bối cảnh ngày nay khi việc phụ phụ nữ đi làm đã trở nên nhiều hơn trước, phần lớn phụ nữ vẫn đang phải gánh vác các công việc nội trợ gia đình'."
+  },
+  {
+    "id": "7_P23",
+    "question": "7. 新番組でこれまでにない役柄を演じる俳優の上田秋さんが役作りに悩んでいる＿＿ ＿＿ ＿★＿ ＿＿という。",
+    "options": [
+      "思いきや",
+      "のか",
+      "そうでもない",
+      "と"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (のか と 思いきや そうでもない)<br>• Giải thích: Sử dụng cấu trúc diễn tả một kết quả bất ngờ, hoàn toàn trái ngược với suy đoán ban đầu 「～かと思いきや」 (Cứ ngỡ là... thế nhưng lại không phải vậy). Ghép câu hoàn chỉnh: 'Cứ ngỡ là nam diễn viên Ueda Aki đang gặp nhiều trăn trở trong việc tạo hình và xây dựng tính cách cho vai diễn mới chưa từng có trước đây trong chương trình mới, thế nhưng thực tế nghe đâu lại không hẳn là như vậy'."
+  },
+  {
+    "id": "8_P23",
+    "question": "8. 百貨店の美術品コーナーなど行っても、＿＿ ＿＿ ＿★＿ ＿＿見つからない。",
+    "options": [
+      "たえる",
+      "めったに",
+      "鑑賞に",
+      "絵は"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-1-4-2 (鑑賞に たえる 絵は めったに)<br>• Giải thích: Sử dụng cấu trúc diễn tả một giá trị xứng đáng, đủ tư cách hoặc đáp ứng tốt một tiêu chuẩn nào đó 「～に堪える（たえる）」 (Xứng đáng để...) đi kèm phó từ phủ định tần suất 「めったに～ない」 (Hiếm khi/Ít khi...). Ghép câu hoàn chỉnh: 'Dẫu cho có đến khu trưng bày mỹ thuật của các trung tâm thương mại lớn đi chăng nữa, thì cũng hiếm khi nào tìm thấy được một bức tranh thực sự xứng đáng để thưởng thức đúng nghĩa'."
+  },
+  {
+    "id": "9_P23",
+    "question": "9. あのアパートの家賃なら、＿＿ ＿★＿ ＿＿ ＿＿ところだろう。",
+    "options": [
+      "といった",
+      "ところで",
+      "高かった",
+      "9万から10万円"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 3-2-4-1 (高かった ところで 9万から10万円 といった)<br>• Giải thích: Cấu trúc nhượng bộ giả định tình huống đạt mức tối đa 「～たところで」 (Dẫu cho có cao/nhiều đến mấy đi chăng nữa thì cũng chỉ...) đi liền với cụm từ ước lượng khái quát mức độ 「～といったところだ」. Ghép câu hoàn chỉnh: 'Với căn hộ đó thì tiền thuê nhà dẫu cho có đắt đỏ đến mấy đi chăng nữa thì chắc cũng chỉ nằm trong khoảng tầm từ 9 vạn đến 10 vạn Yên là cùng'."
+  },
+  {
+    "id": "10_P23",
+    "question": "10. A「英会話の指導をして下さる方をご紹介願えますか。」<br>B「私でよろしければ教えましょう。」<br>A「是非お願いします。あなたが＿＿ ＿＿ ＿★＿ ＿＿ありません。」",
+    "options": [
+      "こしたことは",
+      "指導して",
+      "それに",
+      "下さるなら"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 ( 指導して 下さるなら それに こしたことは)<br>• Giải thích: Sử dụng cấu trúc diễn tả một giải pháp hoặc trạng thái lý tưởng nhất, không có gì có thể tốt hơn thế 「～に越したことはない」 (Là tốt nhất / Không gì bằng...). Ghép câu hoàn chỉnh: 'Nhất định trăm sự nhờ anh ạ. Nếu được một người như anh trực tiếp hướng dẫn cho thì thực sự không còn điều gì có thể tuyệt vời hơn thế nữa'."
+  },
+  {
+    "id": "1_P24",
+    "question": "1. 日本語を三年間も勉強したが、日本語で＿＿ ＿＿ ＿★＿ ＿＿ところだ。",
+    "options": [
+      "自己紹介と",
+      "挨拶や",
+      "いった",
+      "できるのは"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (できるのは 挨拶や 自己紹介と いった)<br>• Giải thích: Cụm từ định lượng đưa ra ví dụ ở một phạm vi hoặc mức độ giới hạn thấp 「～といったところだ」 (Cũng chỉ cỡ tầm như là... / Cao tay lắm cũng chỉ...). Ghép câu hoàn chỉnh: 'Tôi đã học tiếng Nhật suốt 3 năm trời rồi ấy thế mà những điều tôi có thể làm được bằng tiếng Nhật cao tay lắm cũng chỉ quanh quẩn ở mức độ như là chào hỏi hay tự giới thiệu bản thân sơ sài mà thôi'."
+  },
+  {
+    "id": "2_P24",
+    "question": "2. 君がどうしても＿＿ ＿＿ ＿★＿ ＿＿が、行ってもいい結果は出ないと思う。",
+    "options": [
+      "ものでもない",
+      "行ってくれ",
+      "行かない",
+      "と言うなら"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 2-4-3-1 (行ってくれ  と言うなら 行かない  ものでもない)<br>• Giải thích: Sử dụng ngữ pháp phủ định hai lần tạo thể khẳng định mang tính chất nới lỏng điều kiện hoặc thương lượng 「～ないものでもない」 (Không phải là không thể... / Có thể cân nhắc...). Ghép câu hoàn chỉnh: 'Nếu em cứ khăng khăng bảo là không đi và muốn anh đi thay, thì không phải là anh không thể đi đâu, thế nhưng anh nghĩ là dẫu có đi đi chăng nữa thì cũng chẳng đem lại kết quả tốt đẹp gì đâu'."
+  },
+  {
+    "id": "3_P24",
+    "question": "3. その事件は人々に、海外に＿＿ ＿＿ ＿★＿ ＿＿考えさせないではおかなかった。",
+    "options": [
+      "難しさに",
+      "おける",
+      "ついて",
+      "ビジネスの"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 2-4-1-3 (おける ビジネスの 難しさに ついて)<br>• Giải thích: Kết hợp cấu trúc xác định bối cảnh 「AにおけるB」 (B trong/tại bối cảnh A) và cấu trúc bắt buộc mang tính hệ quả tự nhiên không thể tránh khỏi 「～ないではおかない」 (Nhất định phải... / Không thể không khiến cho...). Ghép câu hoàn chỉnh: 'Vụ bê bối đó đã không thể không khiến cho mọi người phải suy nghĩ một cách sâu sắc về những khía cạnh khó khăn, gai góc trong việc vận hành kinh doanh ở môi trường nước ngoài'."
+  },
+  {
+    "id": "4_P24",
+    "question": "4. 役員会に＿＿ ＿＿ ＿★＿ ＿＿余儀なくされた。",
+    "options": [
+      "辞職要求を",
+      "社長は辞任を",
+      "つきつけられて",
+      "全員一致の"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (全員一致の 辞職要求を つきつけられて 社長は辞任を)<br>• Giải thích: Cấu trúc bị động hành động 「～をつきつけられる」 (Bị ép buộc/bị đưa ra yêu cầu gay gắt) kết hợp với mẫu câu 「～を余儀なくされる」 (Buộc phải làm gì do hoàn cảnh khách quan). Ghép câu hoàn chỉnh: 'Bị ban giám đốc đồng thanh đưa ra yêu cầu từ chức, vị giám đốc đã buộc phải chấp nhận bãi nhiệm'."
+  },
+  {
+    "id": "5_P24",
+    "question": "5. 人々は＿＿ ＿＿ ＿★＿ ＿＿権利を持っている。",
+    "options": [
+      "命に関する",
+      "べからざる",
+      "犯す",
+      "自分自身の"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (自分自身の 命に関する 犯す べからざる)<br>• Giải thích: Sử dụng cấu trúc cổ mang tính pháp lý hoặc giáo điều trang trọng 「～べからざる」 (Không được phép... / Cấm không được...). Ghép câu hoàn chỉnh: 'Con người ai ai cũng đều có quyền bất khả xâm phạm đối với chính mạng sống của bản thân mình'."
+  },
+  {
+    "id": "6_P24",
+    "question": "6. もう少しちゃんと＿＿ ＿＿ ＿★＿ ＿＿倒れる始末だ。",
+    "options": [
+      "無理して",
+      "体を休めれば",
+      "働くから",
+      "よかったものを"
+    ],
+    "explanation": "Thứ tự đúng: 2-4-1-3 (体を休めれば よかったものを 无理して 働くから)<br>• Giải thích: Cấu trúc thể hiện sự nuối tiếc, phê phán một kết quả tồi tệ lẽ ra đã có thể tránh được 「～ればよかったものを」 (Giá mà... thì đã tốt rồi, vậy mà lại...). Ghép câu hoàn chỉnh: 'Giá mà biết tự chăm sóc, để cho cơ thể nghỉ ngơi một chút thì đã tốt rồi, vậy mà cứ cố quá sức làm việc để rồi kết cục là bị đổ bệnh, ngã gục ra đấy'."
+  },
+  {
+    "id": "7_P24",
+    "question": "7. 運転中、ちょっと＿＿ ＿＿ ＿★＿ ＿＿、事故を引き起こしてしまった。",
+    "options": [
+      "ばかりに",
+      "前の車から",
+      "目を離した",
+      "油断して"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (油断して 前の車から 目を離した ばかりに)<br>• Giải thích: Sử dụng cấu trúc diễn tả nguyên nhân duy nhất dẫn đến một hệ quả vô cùng tồi tệ, đáng tiếc 「～ばかりに」 (Chỉ tại vì/Chỉ vì...). Ghép câu hoàn chỉnh: 'Trong lúc lái xe, chỉ vì một chút lơ là mà rời mắt khỏi chiếc xe chạy phía trước, tôi đã gây ra tai nạn giao thông'."
+  },
+  {
+    "id": "8_P24",
+    "question": "8. 妻は＿＿ ＿★＿ ＿＿ ＿＿出かけていった。",
+    "options": [
+      "へと",
+      "もそこそこに",
+      "ダンス教室",
+      "食事の後片付け"
+    ],
+    "answer": 1,
+    "explanation": "Thứ tự đúng: 4-2-3-1 (食事の後片付け もそこそこに ダンス教室 へと)<br>• Giải thích: Sử dụng cụm từ diễn tả một hành động làm qua loa, vội vàng để chuyển sang việc khác 「～もそこそこに」 (Làm qua quýt / Làm cho xong chuyện...). Ghép câu hoàn chỉnh: 'Vợ tôi chỉ vừa mới dọn dẹp qua bàn ăn xong là đã vội vã sửa soạn đi ngay đến lớp học nhảy rồi'."
+  },
+  {
+    "id": "9_P24",
+    "question": "9. 彼女の説明は、＿＿ ＿＿ ＿★＿ ＿＿分からない。",
+    "options": [
+      "何がなにやら",
+      "抽象的過ぎて",
+      "さっぱり",
+      "あまりにも"
+    ],
+    "answer": 0,
+    "explanation": "Thứ tự đúng: 4-2-1-3 (あまりにも 抽象的過ぎて 何がなにやら さっぱり)<br>• Giải thích: Kết hợp phó từ nhấn mạnh mức độ tiêu cực 「あまりにも～すぎ」 (Quá mức...) và cụm từ phủ định hoàn toàn trạng thái nhận thức 「さっぱり～ない」 kèm trạng từ 「何がなにやら」 (Chẳng hiểu đầu đuôi tai nheo gì cả). Ghép câu hoàn chỉnh: 'Lời giải thích của cô ấy quá mơ hồ và mang tính trừu tượng nên tôi hoàn toàn chẳng thể hiểu nổi đầu đuôi câu chuyện ra làm sao cả'."
+  },
+  {
+    "id": "10_P24",
+    "question": "10. A「先ほどお電話した森田ですが。できてますか。」<br>B「すみません、もう少々時間がかかりますので、＿＿ ＿＿ ＿★＿ ＿＿か。」",
+    "options": [
+      "でしょう",
+      "お待ち",
+      "こちらで",
+      "いただけます"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-2-4-1 (こちらで お待ち いただけます でしょう)<br>• Giải thích: Mẫu câu khiêm nhường ngữ kết hợp câu hỏi yêu cầu lịch sự, nhẹ nhàng trong hội thoại thương mại tiếng Nhật 「お＋V-ます＋いただけますでしょうか」 (Liệu quý khách có thể vui lòng... giúp tôi được không ạ?). Ghép câu hoàn chỉnh: 'Xin lỗi anh, vì sẽ mất thêm một chút thời gian nữa nên liệu anh có thể vui lòng ngồi đợi ở phía bên này giúp tôi được không ạ?'."
+  },
+  {
+    "id": "1_P25",
+    "question": "1. どんな大学でも、同じ学科で＿＿ ＿＿ ＿★＿ ＿＿と思う。",
+    "options": [
+      "かわらない",
+      "たいして",
+      "あれば",
+      "学ぶ内容は"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 3-4-2-1 (あれば 学ぶ内容は たいして かわらない)<br>• Giải thích: Sử dụng cấu trúc giả định điều kiện 「～あれば」 (Nếu là...) kết hợp phó từ đi với thể phủ định biểu thị sự khác biệt không đáng kể 「たいして～ない」 (Không... mấy / Không có gì khác biệt lớn). Ghép câu hoàn chỉnh: 'Tôi nghĩ rằng dù là ở trường đại học nào đi chăng nữa, nếu đã cùng một chuyên ngành thì nội dung học tập chung quy cũng không có gì khác biệt lớn cho lắm'."
+  },
+  {
+    "id": "2_P25",
+    "question": "2. 優勝＿＿ ＿＿ ＿★＿ ＿＿と思っている。",
+    "options": [
+      "に入りたい",
+      "何とか",
+      "できないまでも",
+      "三位以内"
+    ],
+    "answer": 3,
+    "explanation": "Thứ tự đúng: 3-2-4-1 (できないまでも 何とか 三位以内 に入りたい)<br>• Giải thích: Cấu trúc nhượng bộ đưa ra một hạn mức tối thiểu thấp hơn kỳ vọng ban đầu 「～ないまでも」 (Dẫu không thể... thì ít nhất cũng phải...). Ghép câu hoàn chỉnh: 'Tôi đang tự nhủ rằng dẫu cho bản thân có không thể giành được ngôi vị quán quân đi chăng nữa, thì bằng mọi giá cũng phải nỗ lực để lọt vào được top 3 người dẫn đầu'."
+  },
+  {
+    "id": "3_P25",
+    "question": "3. 彼女が＿＿ ＿＿ ＿★＿ ＿＿しなかった。",
+    "options": [
+      "出る",
+      "想像だに",
+      "なんて",
+      "世界選手権に"
+    ],
+    "answer": 2,
+    "explanation": "Thứ tự đúng: 4-1-3-2 (世界選手権に 出る なんて 想像だに)<br>• Giải thích: Kết hợp cấu trúc nhấn mạnh thái độ ngạc nhiên đối với một sự việc 「～なんて」 (Cái việc như là...) và cấu trúc nhấn mạnh phủ định tuyệt đối ngay cả trong suy nghĩ 「～だにしない」 (Ngay cả trong mơ/Ngay cả tưởng tượng cũng không hề...). Ghép câu hoàn chỉnh: 'Cái việc mà cô ấy sẽ tham gia thi đấu tại giải vô địch thế giới, quả thực là điều mà trước đây tôi chưa từng mảy may dám tưởng tượng đến'."
+  }
+
+
+
+
+]
+
+
+
+
+
+
